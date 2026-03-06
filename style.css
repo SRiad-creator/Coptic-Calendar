@@ -1,0 +1,694 @@
+/* ============================================================
+   COPTIC ORTHODOX CALENDAR 2026 — STYLES
+   ============================================================ */
+
+/* --- Reset & Base --- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --coptic-gold: #C1A076;
+    --coptic-gold-light: #D4BA9A;
+    --coptic-gold-dark: #8B6F4E;
+    --coptic-red: #B22222;
+    --coptic-amber: #D97706;
+    --coptic-purple: #6D28D9;
+    --calendar-bg: #FFFFFF;
+    --commem-gray: #F3F4F6;
+    --text-primary: #1F2937;
+    --text-secondary: #6B7280;
+    --text-muted: #9CA3AF;
+    --border-light: rgba(193, 160, 118, 0.15);
+    --sidebar-width: 280px;
+    --page-width: 297mm;
+    --page-height: 210mm;
+}
+
+html {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-size: 10px;
+    color: var(--text-primary);
+    background: #F0ECE6;
+}
+
+/* --- Screen Header (hidden on print) --- */
+.screen-header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    padding: 3.2rem 2rem;
+    text-align: center;
+    color: white;
+}
+
+.screen-header-inner {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.screen-header .cross-icon {
+    font-size: 4rem;
+    display: block;
+    margin-bottom: 1rem;
+    color: var(--coptic-gold);
+    filter: drop-shadow(0 2px 8px rgba(193, 160, 118, 0.4));
+}
+
+.screen-header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.6rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+}
+
+.screen-header p {
+    font-size: 1.4rem;
+    color: var(--coptic-gold-light);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+#printBtn {
+    background: var(--coptic-gold);
+    color: #1a1a2e;
+    border: none;
+    padding: 1.2rem 3.2rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    border-radius: 8px;
+    cursor: pointer;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+}
+
+#printBtn:hover {
+    background: var(--coptic-gold-light);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(193, 160, 118, 0.4);
+}
+
+/* --- Month Page --- */
+.month-page {
+    width: var(--page-width);
+    height: var(--page-height);
+    background: var(--calendar-bg);
+    margin: 2rem auto;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 32px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+/* --- Sidebar --- */
+.sidebar {
+    width: var(--sidebar-width);
+    min-width: var(--sidebar-width);
+    padding: 2.4rem 2rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background: #fff;
+}
+
+.sidebar::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border-light);
+}
+
+.sidebar-cross {
+    color: var(--coptic-gold);
+    font-size: 2.4rem;
+    margin-bottom: 0.8rem;
+    line-height: 1;
+}
+
+.sidebar-section-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--coptic-gold);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.6rem;
+}
+
+.synaxarium-list {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--text-secondary);
+    margin-bottom: 1.4rem;
+    list-style: none;
+}
+
+.synaxarium-list li {
+    margin-bottom: 0.2rem;
+}
+
+.sidebar-divider {
+    width: 60px;
+    height: 1px;
+    background: var(--coptic-gold);
+    opacity: 0.4;
+    margin: 0.4rem 0 0.8rem;
+}
+
+.quote-text {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 1.25rem;
+    line-height: 1.45;
+    color: var(--text-primary);
+    margin-bottom: 0.4rem;
+}
+
+.quote-author {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--coptic-gold);
+    text-align: right;
+    margin-bottom: 1rem;
+}
+
+.scripture-text {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+/* Watercolour icon — fills remaining sidebar space */
+.sidebar-icon {
+    margin-top: 0.6rem;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    min-height: 120px;
+    background: transparent;
+    isolation: auto;
+}
+
+.watercolour-cross {
+    width: 110%;
+    max-height: 110%;
+    object-fit: contain;
+}
+
+/* Prayer of the Month — blank box for user to write in */
+.prayer-month {
+    margin-top: 0.5rem;
+}
+
+.prayer-month-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--coptic-gold);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 0.3rem;
+}
+
+.prayer-box {
+    border: 1.5px solid var(--coptic-gold);
+    border-radius: 4px;
+    height: 7rem;
+    background: rgba(193, 160, 118, 0.03);
+}
+
+
+
+/* --- Legend --- */
+.legend {
+    margin-top: 0.6rem;
+    padding-top: 0.6rem;
+}
+
+.legend-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.legend-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.legend-swatch {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    flex-shrink: 0;
+}
+
+.legend-text {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* --- Main Content (Calendar Grid) --- */
+.main-content {
+    flex: 1;
+    padding: 1.6rem 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.month-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 4.8rem;
+    font-weight: 900;
+    color: var(--text-primary);
+    line-height: 1;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.2rem;
+}
+
+.month-header-row {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 0.5rem;
+}
+
+.month-header-text {
+    flex-shrink: 0;
+}
+
+.month-cross {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+    height: 70px;
+}
+
+.month-cross img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+}
+
+.month-subtitle {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--coptic-gold);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.1rem;
+}
+
+.month-church {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+
+/* --- Wisdom Footer (below calendar grid) --- */
+.wisdom-footer {
+    margin-top: 0.5rem;
+    padding: 0.4rem 0;
+    text-align: center;
+    border-top: 1px solid var(--border-light);
+}
+
+.wisdom-quote {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 1.4rem;
+    color: var(--text-primary);
+}
+
+.wisdom-author {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--coptic-gold);
+    margin-left: 0.6rem;
+}
+
+/* --- Calendar Grid --- */
+.calendar-grid {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: auto repeat(6, 1fr);
+    gap: 0;
+    border: 1px solid var(--border-light);
+}
+
+.day-header {
+    text-align: center;
+    padding: 0.5rem 0;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.day-cell {
+    border: 1px solid var(--border-light);
+    padding: 0.3rem 0.4rem;
+    min-height: 2.8rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: background 0.15s ease;
+}
+
+.day-cell.empty {
+    background: transparent;
+    border-color: transparent;
+}
+
+/* Sunday Gospel reading period backgrounds */
+.period-lent {
+    background-color: rgba(128, 0, 128, 0.07) !important;
+}
+
+.period-holy50 {
+    background-color: rgba(212, 175, 55, 0.08) !important;
+}
+
+/* Major and minor feast colors take precedence over period backgrounds */
+.period-lent.feast-M,
+.period-holy50.feast-M,
+.period-kiahk.feast-M {
+    background: rgba(178, 34, 34, 0.10) !important;
+}
+
+.period-lent.feast-m,
+.period-holy50.feast-m,
+.period-kiahk.feast-m {
+    background: rgba(135, 190, 230, 0.10) !important;
+}
+
+.period-kiahk {
+    background-color: rgba(34, 139, 34, 0.07) !important;
+}
+
+.gospel-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    margin-top: 0.15rem;
+    line-height: 1.1;
+    opacity: 0.75;
+}
+
+.period-lent .gospel-label {
+    color: #7b2d8e;
+}
+
+.period-holy50 .gospel-label {
+    color: #b8860b;
+}
+
+.period-kiahk .gospel-label {
+    color: #2e7d32;
+}
+
+.day-number {
+    font-size: 1.8rem;
+    font-weight: 800;
+    line-height: 1;
+    color: var(--text-primary);
+}
+
+.coptic-month-label {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--coptic-gold);
+    text-transform: uppercase;
+    margin-top: 0.1rem;
+    line-height: 1.1;
+}
+
+.coptic-day {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-top: 0.1rem;
+}
+
+.feast-label {
+    position: absolute;
+    bottom: 0.3rem;
+    left: 0.3rem;
+    right: 0.3rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1.15;
+    padding: 0.15rem 0.3rem;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+/* Tiny saint icons in calendar cells */
+.saint-tiny-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+    object-position: center 25%;
+    flex-shrink: 0;
+    border-radius: 50%;
+    opacity: 0.9;
+    background: none;
+    clip-path: circle(40%);
+    transform: scale(1.5);
+    margin-right: 6px;
+}
+
+/* Per-month sidebar icon overrides */
+.month-page[data-month="january"] .watercolour-cross,
+.month-page[data-month="april"] .watercolour-cross,
+.month-page[data-month="august"] .watercolour-cross {
+    width: 130%;
+    max-height: 130%;
+}
+
+/* December: clip bottom edge of nativity image */
+.month-page[data-month="december"] .sidebar-icon {
+    overflow: hidden;
+}
+
+.month-page[data-month="december"] .watercolour-cross {
+    width: 130%;
+    max-height: 130%;
+    clip-path: inset(0 0 10% 0);
+}
+
+/* May: remove visible background */
+.month-page[data-month="may"] .watercolour-cross {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    mix-blend-mode: multiply;
+}
+
+.month-page[data-month="june"] .watercolour-cross {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+/* Feast type backgrounds on cells */
+.day-cell.feast-M {
+    background: rgba(178, 34, 34, 0.10);
+}
+
+.day-cell.feast-M .feast-label {
+    color: var(--coptic-red);
+    background: rgba(178, 34, 34, 0.12);
+}
+
+.day-cell.feast-m {
+    background: rgba(135, 190, 230, 0.10);
+}
+
+.day-cell.feast-m .feast-label {
+    color: #4a90c4;
+    background: rgba(135, 190, 230, 0.15);
+}
+
+.day-cell.feast-f {
+    background: rgba(109, 40, 217, 0.06);
+}
+
+.day-cell.feast-f .feast-label {
+    color: var(--coptic-purple);
+    background: rgba(109, 40, 217, 0.10);
+}
+
+.day-cell.feast-e {
+    background: rgba(109, 40, 217, 0.04);
+}
+
+.day-cell.feast-e .feast-label {
+    color: var(--coptic-purple);
+    background: rgba(109, 40, 217, 0.06);
+}
+
+.day-cell.feast-c,
+.day-cell.feast-s {
+    background: rgba(243, 244, 246, 0.6);
+}
+
+.day-cell.feast-c .feast-label,
+.day-cell.feast-s .feast-label {
+    color: #4B5563;
+    background: rgba(243, 244, 246, 0.8);
+}
+
+.day-cell.feast-P {
+    background: rgba(109, 40, 217, 0.08);
+}
+
+.day-cell.feast-P .feast-label {
+    color: var(--coptic-amber);
+    background: rgba(109, 40, 217, 0.12);
+}
+
+/* Monthly commemoration style */
+.day-cell.monthly-commem {
+    background: rgba(243, 244, 246, 0.4);
+}
+
+.day-cell.monthly-commem .feast-label {
+    color: #6B7280;
+}
+
+/* --- Print Styles --- */
+@media print {
+    html {
+        font-size: 10px;
+        background: white;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .no-print {
+        display: none !important;
+    }
+
+    .month-page {
+        width: 297mm;
+        height: 210mm;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+        border-radius: 0;
+        page-break-after: always;
+        page-break-inside: avoid;
+    }
+
+    .month-page:last-child {
+        page-break-after: auto;
+    }
+
+    @page {
+        size: A4 landscape;
+        margin: 0;
+    }
+
+    .sidebar {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .day-cell {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .feast-label {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .legend-swatch {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .fasting-tip {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+
+/* --- Screen-only spacing for browsing --- */
+@media screen {
+    #calendar-container {
+        padding: 2rem 0 4rem;
+    }
+}
+
+/* Google Calendar download button */
+.gcal-download {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.gcal-btn {
+    display: inline-block;
+    padding: 1.2rem 3.2rem;
+    background: var(--coptic-gold);
+    color: #1a1a2e;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.gcal-btn:hover {
+    background: var(--coptic-gold-light);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(193, 160, 118, 0.4);
+}
+
+@media print {
+    .gcal-download {
+        display: none;
+    }
+}
