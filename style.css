@@ -42,10 +42,8 @@ html {
     padding: 3.2rem 2rem;
     text-align: center;
     color: white;
-    width: var(--page-width);
-    min-width: 100%;
+    min-width: var(--page-width);
     box-sizing: border-box;
-    margin: 0 auto;
 }
 
 .screen-header-inner {
