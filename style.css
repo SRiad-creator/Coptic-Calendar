@@ -42,6 +42,8 @@ html {
     padding: 3.2rem 2rem;
     text-align: center;
     color: white;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .screen-header-inner {
@@ -91,6 +93,39 @@ html {
     background: var(--coptic-gold-light);
     transform: translateY(-1px);
     box-shadow: 0 4px 16px rgba(193, 160, 118, 0.4);
+}
+
+/* Mobile responsive header */
+@media (max-width: 768px) {
+    .screen-header {
+        padding: 2rem 1rem;
+    }
+
+    .screen-header h1 {
+        font-size: 1.6rem;
+    }
+
+    .screen-header p {
+        font-size: 0.85rem;
+    }
+
+    .screen-header .cross-icon {
+        font-size: 2.5rem;
+    }
+
+    #printBtn,
+    .gcal-btn {
+        display: block;
+        width: 100%;
+        margin: 0.5rem 0;
+        padding: 0.9rem 1rem;
+        font-size: 1rem;
+        box-sizing: border-box;
+    }
+
+    .gcal-btn {
+        margin-left: 0;
+    }
 }
 
 /* --- Month Page --- */
