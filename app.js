@@ -46,7 +46,7 @@ function buildSidebar(monthData) {
             <div class="scripture-text">${monthData.scripture}</div>
 
             <div class="sidebar-icon">
-                <img src="icons/icon_${monthData.month.toLowerCase()}.png" alt="${monthData.month} feast" class="watercolour-cross">
+                <img src="icon_${monthData.month.toLowerCase()}.png" alt="${monthData.month} feast" class="watercolour-cross">
             </div>
 
             <div class="prayer-month">
@@ -222,7 +222,7 @@ function buildCalendarGrid(monthData) {
             const display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
             feastLabel = display.map(f => {
                 const saintKey = f.icon || null;
-                const iconHTML = saintKey ? `<img src="icons/saints/${saintKey}.png" class="saint-tiny-icon" alt="">` : '';
+                const iconHTML = saintKey ? `<img src="${saintKey}.png" class="saint-tiny-icon" alt="">` : '';
                 return `<div class="feast-label">${iconHTML}${f.name}</div>`;
             }).join('');
         } else if (monthlyFeast) {
@@ -263,7 +263,7 @@ function buildMonthPage(monthData) {
                         <div class="month-church">The Orthodox Church of Alexandria</div>
                     </div>
                     <div class="month-cross">
-                        <img src="icons/coptic_cross.png" alt="Coptic Cross">
+                        <img src="coptic_cross.png" alt="Coptic Cross">
                     </div>
                 </div>
                 <div class="calendar-grid">
