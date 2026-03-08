@@ -15,6 +15,7 @@ const CALENDAR_DATA = [
         copticTransitionDay: 9,
         copticNext: 'Tobe',
         synaxarium: [
+            '02: St. Ignatius of Antioch',
             '06: Nativity Fast Ends',
             '07: Feast of the Nativity',
             '12: St. John the Apostle',
@@ -22,7 +23,7 @@ const CALENDAR_DATA = [
             '19: Theophany',
             '21: Miracle at Cana / St. Demiana & 40 Virgins',
             '22: St. Maximus',
-            '25: St. Domadius',
+            '25: St. Domadius / St. Gregory the Theologian',
             '30: St. Anthony the Great'
         ],
         quote: 'He became man that we might become divine.',
@@ -30,6 +31,7 @@ const CALENDAR_DATA = [
         scripture: '"For unto us a Child is born, unto us a Son is given." — Isaiah 9:6',
         fastingTip: 'The Nativity Fast ends January 6. Rejoice in the Incarnation!',
         feasts: [
+            { day: 2, type: 'c', name: 'St. Ignatius of Antioch', icon: 'st_ignatius_antioch' },
             { day: 6, type: 'e', name: 'Nativity Fast Ends' },
             { day: 7, type: 'M', name: 'Feast of Nativity', icon: 'feast_nativity' },
             { day: 12, type: 'c', name: 'St. John the Apostle', icon: 'st_john_apostle' },
@@ -39,6 +41,7 @@ const CALENDAR_DATA = [
             { day: 21, type: 'c', name: 'St. Demiana & the 40 Virgins', icon: 'st_demiana' },
             { day: 22, type: 'c', name: 'St. Maximus', icon: 'st_maximus' },
             { day: 25, type: 'c', name: 'St. Domadius', icon: 'st_domadius' },
+            { day: 25, type: 'c', name: 'St. Gregory the Theologian', icon: 'st_gregory_theologian' },
             { day: 30, type: 'c', name: 'St. Anthony the Great', icon: 'st_anthony' },
         ],
         excludeMonthly: 0
@@ -91,6 +94,7 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Paremhotep',
         synaxarium: [
+            '08: St. Polycarp of Smyrna',
             '09: Pope Cyril VI',
             '14: St. Sarapamon the Archpriest',
             '19: Feast of the Holy Cross'
@@ -100,6 +104,7 @@ const CALENDAR_DATA = [
         scripture: '"The Lord is my light and my salvation; whom shall I fear?" — Psalm 27:1',
         fastingTip: 'Great Lent continues — deepen your prayer, fasting, and almsgiving.',
         feasts: [
+            { day: 8, type: 'c', name: 'St. Polycarp of Smyrna', icon: 'st_polycarp' },
             { day: 9, type: 'c', name: 'Pope Cyril VI', icon: 'st_cyril_vi' },
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
@@ -383,6 +388,8 @@ const CALENDAR_DATA = [
         copticNext: 'Kiahk',
         synaxarium: [
             '04: Philopater Mercurius (Abu Sefein)',
+            '05: St. Gregory of Nyssa',
+            '08: St. Clement of Rome',
             '10: St. Nicholas of Myra',
             '17: St. Barbara the Martyr',
             '17: St. Samuel the Confessor'
@@ -393,6 +400,8 @@ const CALENDAR_DATA = [
         fastingTip: 'Nativity Fast continues — we await Emmanuel. Increase your prayers and hymns of Kiahk.',
         feasts: [
             { day: 4, type: 'c', name: 'Philopater Mercurius', icon: 'st_mercurius' },
+            { day: 5, type: 'c', name: 'St. Gregory of Nyssa', icon: 'st_gregory_nyssa' },
+            { day: 8, type: 'c', name: 'St. Clement of Rome', icon: 'st_clement_rome' },
             { day: 10, type: 'c', name: 'St. Nicholas', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'St. Barbara', icon: 'st_barbara' },
         ],
