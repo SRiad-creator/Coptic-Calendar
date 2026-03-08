@@ -65,7 +65,8 @@ const CALENDAR_DATA = [
             '15: Presentation into the Temple',
             '15: 21 Coptic Martyrs of Libya',
             '16: Great Lent Begins',
-            '21: St. Severus of Antioch'
+            '21: St. Severus of Antioch',
+            '25: St. Didymus the Blind'
         ],
         quote: 'Fasting is the sacrifice of distancing from sins.',
         quoteAuthor: 'St. John Chrysostom',
@@ -79,6 +80,7 @@ const CALENDAR_DATA = [
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
+            { day: 25, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
         ],
         excludeMonthly: 0
     },
@@ -94,20 +96,26 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Paremhotep',
         synaxarium: [
+            '01: St. Justin Martyr',
             '08: St. Polycarp of Smyrna',
             '09: Pope Cyril VI',
             '14: St. Sarapamon the Archpriest',
-            '19: Feast of the Holy Cross'
+            '19: Feast of the Holy Cross',
+            '23: St. Irenaeus of Lyon',
+            '28: St. Dioscorus of Alexandria'
         ],
         quote: 'Let yourself be persecuted, but do not persecute.',
         quoteAuthor: 'St. Isaac the Syrian',
         scripture: '"The Lord is my light and my salvation; whom shall I fear?" — Psalm 27:1',
         fastingTip: 'Great Lent continues — deepen your prayer, fasting, and almsgiving.',
         feasts: [
+            { day: 1, type: 'c', name: 'St. Justin Martyr', icon: 'st_justin_martyr' },
             { day: 8, type: 'c', name: 'St. Polycarp of Smyrna', icon: 'st_polycarp' },
             { day: 9, type: 'c', name: 'Pope Cyril VI', icon: 'st_cyril_vi' },
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
+            { day: 23, type: 'c', name: 'St. Irenaeus of Lyon', icon: 'st_irenaeus' },
+            { day: 28, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
         ],
         excludeMonthly: 0
     },
@@ -131,7 +139,8 @@ const CALENDAR_DATA = [
             '09: Covenant Thursday',
             '10: Good Friday',
             '12: Glorious Resurrection',
-            '19: Thomas Sunday'
+            '19: Thomas Sunday',
+            '25: St. Peter Seal of Martyrs'
         ],
         quote: 'Yesterday I was crucified with Him; today I am glorified with Him.',
         quoteAuthor: 'St. Gregory the Theologian',
@@ -147,6 +156,7 @@ const CALENDAR_DATA = [
             { day: 10, type: 'f', name: 'Good Friday' },
             { day: 12, type: 'M', name: 'Resurrection', icon: 'feast_resurrection' },
             { day: 19, type: 'm', name: 'Thomas Sunday', icon: 'feast_thomas' },
+            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
         ],
         excludeMonthly: 7
     },
@@ -197,6 +207,8 @@ const CALENDAR_DATA = [
         synaxarium: [
             '01: Holy Family to Egypt',
             '01: Apostles\' Fast Begins',
+            '09: St. Ephrem the Syrian',
+            '15: St. Augustine of Hippo',
             '23: St. Onuphrius (Anba Noufer)',
             '27: St. Cyril of Alexandria'
         ],
@@ -206,7 +218,10 @@ const CALENDAR_DATA = [
         fastingTip: 'Apostles\' Fast begins June 1 — vegan fast (no animal products). Honor the apostles\' missionary zeal.',
         feasts: [
             { day: 1, type: 'P', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
+            { day: 9, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
+            { day: 15, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
+            { day: 27, type: 'c', name: 'St. Cyril of Alexandria', icon: 'st_cyril_alexandria' },
         ],
         excludeMonthly: 0
     },
@@ -261,6 +276,7 @@ const CALENDAR_DATA = [
         synaxarium: [
             '02: St. Joseph the Carpenter',
             '07: St. Mary\'s Fast Begins',
+            '13: Sts. Maximus & Domadius',
             '19: The Transfiguration',
             '21: St. Mary\'s Fast Ends',
             '22: Assumption of St. Mary',
@@ -273,6 +289,7 @@ const CALENDAR_DATA = [
         feasts: [
             { day: 2, type: 'c', name: 'St. Joseph the Carpenter', icon: 'st_joseph' },
             { day: 7, type: 'f', name: 'St. Mary\'s Fast Begins' },
+            { day: 13, type: 'c', name: 'Sts. Maximus & Domadius', icon: 'sts_maximus_domadius' },
             { day: 19, type: 'm', name: 'Transfiguration', icon: 'feast_transfiguration' },
             { day: 21, type: 'e', name: 'St. Mary\'s Fast Ends' },
             { day: 22, type: 'm', name: 'Assumption of St. Mary', icon: 'feast_assumption' },
@@ -328,8 +345,10 @@ const CALENDAR_DATA = [
         copticNext: 'Paope',
         synaxarium: [
             '02: St. Thekla the Martyr',
+            '08: St. Dioscorus of Alexandria',
             '14: Sts. Sergius and Bacchus',
             '17: St. Paul the Simple',
+            '24: St. Irenaeus of Lyon',
             '31: St. Reweis'
         ],
         quote: 'To fall in love with God is the greatest romance.',
@@ -338,8 +357,10 @@ const CALENDAR_DATA = [
         fastingTip: null,
         feasts: [
             { day: 2, type: 'c', name: 'St. Thekla', icon: 'st_thekla' },
+            { day: 8, type: 'c', name: 'St. Dioscorus', icon: 'st_dioscorus' },
             { day: 14, type: 'c', name: 'Sts. Sergius & Bacchus', icon: 'sts_sergius_bacchus' },
             { day: 17, type: 'c', name: 'St. Paul the Simple' },
+            { day: 24, type: 'c', name: 'St. Irenaeus of Lyon', icon: 'st_irenaeus' },
             { day: 31, type: 'c', name: 'St. Reweis' },
         ],
         excludeMonthly: 0
@@ -356,7 +377,9 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Hator',
         synaxarium: [
+            '06: St. Peter Seal of Martyrs',
             '14: Sts. Cosmas and Damian',
+            '20: St. Ephrem the Syrian',
             '24: St. Mina the Miraculous',
             '25: Nativity Fast Begins',
             '26: St. John Chrysostom',
@@ -367,7 +390,9 @@ const CALENDAR_DATA = [
         scripture: '"Prepare the way of the Lord; make His paths straight." — Mark 1:3',
         fastingTip: 'Nativity Fast begins Nov 25 — 43 days of vegan fasting anticipating the Incarnation.',
         feasts: [
+            { day: 6, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
             { day: 14, type: 'c', name: 'Cosmas & Damian', icon: 'sts_cosmas_damian' },
+            { day: 20, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
             { day: 24, type: 'c', name: 'St. Mina', icon: 'st_mina' },
             { day: 25, type: 'f', name: 'Nativity Fast Begins' },
             { day: 26, type: 'c', name: 'St. John Chrysostom', icon: 'st_chrysostom' },
@@ -392,7 +417,9 @@ const CALENDAR_DATA = [
             '08: St. Clement of Rome',
             '10: St. Nicholas of Myra',
             '17: St. Barbara the Martyr',
-            '17: St. Samuel the Confessor'
+            '17: St. Samuel the Confessor',
+            '22: St. Augustine of Hippo',
+            '29: St. Cyril of Alexandria'
         ],
         quote: 'The Sun of Righteousness has risen from the Virgin\'s womb.',
         quoteAuthor: 'St. Ephrem the Syrian',
@@ -404,6 +431,8 @@ const CALENDAR_DATA = [
             { day: 8, type: 'c', name: 'St. Clement of Rome', icon: 'st_clement_rome' },
             { day: 10, type: 'c', name: 'St. Nicholas', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'St. Barbara', icon: 'st_barbara' },
+            { day: 22, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
+            { day: 29, type: 'c', name: 'St. Cyril of Alexandria', icon: 'st_cyril_alexandria' },
         ],
         excludeMonthly: 0
     }
