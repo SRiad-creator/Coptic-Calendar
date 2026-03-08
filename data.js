@@ -23,7 +23,7 @@ const CALENDAR_DATA = [
             '19: Theophany',
             '21: Miracle at Cana / St. Demiana & 40 Virgins',
             '22: St. Maximus',
-            '25: St. Domadius / St. Gregory the Theologian',
+            '25: St. Domadius',
             '30: St. Anthony the Great'
         ],
         quote: 'He became man that we might become divine.',
@@ -41,7 +41,6 @@ const CALENDAR_DATA = [
             { day: 21, type: 'c', name: 'St. Demiana & the 40 Virgins', icon: 'st_demiana' },
             { day: 22, type: 'c', name: 'St. Maximus', icon: 'st_maximus' },
             { day: 25, type: 'c', name: 'St. Domadius', icon: 'st_domadius' },
-            { day: 25, type: 'c', name: 'St. Gregory the Theologian', icon: 'st_gregory_theologian' },
             { day: 30, type: 'c', name: 'St. Anthony the Great', icon: 'st_anthony' },
         ],
         excludeMonthly: 0
@@ -66,7 +65,7 @@ const CALENDAR_DATA = [
             '15: 21 Coptic Martyrs of Libya',
             '16: Great Lent Begins',
             '21: St. Severus of Antioch',
-            '25: St. Didymus the Blind'
+            '25: St. Peter Seal of Martyrs'
         ],
         quote: 'Fasting is the sacrifice of distancing from sins.',
         quoteAuthor: 'St. John Chrysostom',
@@ -80,7 +79,7 @@ const CALENDAR_DATA = [
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
-            { day: 25, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
+            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
         ],
         excludeMonthly: 0
     },
@@ -96,26 +95,22 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Paremhotep',
         synaxarium: [
-            '01: St. Justin Martyr',
             '08: St. Polycarp of Smyrna',
             '09: Pope Cyril VI',
             '14: St. Sarapamon the Archpriest',
             '19: Feast of the Holy Cross',
-            '23: St. Irenaeus of Lyon',
-            '28: St. Dioscorus of Alexandria'
+            '25: Sts. Maximus \u0026 Domadius'
         ],
         quote: 'Let yourself be persecuted, but do not persecute.',
         quoteAuthor: 'St. Isaac the Syrian',
         scripture: '"The Lord is my light and my salvation; whom shall I fear?" — Psalm 27:1',
         fastingTip: 'Great Lent continues — deepen your prayer, fasting, and almsgiving.',
         feasts: [
-            { day: 1, type: 'c', name: 'St. Justin Martyr', icon: 'st_justin_martyr' },
             { day: 8, type: 'c', name: 'St. Polycarp of Smyrna', icon: 'st_polycarp' },
             { day: 9, type: 'c', name: 'Pope Cyril VI', icon: 'st_cyril_vi' },
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
-            { day: 23, type: 'c', name: 'St. Irenaeus of Lyon', icon: 'st_irenaeus' },
-            { day: 28, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
+            { day: 25, type: 'c', name: 'Sts. Maximus & Domadius', icon: 'sts_maximus_domadius' },
         ],
         excludeMonthly: 0
     },
@@ -140,7 +135,7 @@ const CALENDAR_DATA = [
             '10: Good Friday',
             '12: Glorious Resurrection',
             '19: Thomas Sunday',
-            '25: St. Peter Seal of Martyrs'
+            '25: St. Dioscorus of Alexandria'
         ],
         quote: 'Yesterday I was crucified with Him; today I am glorified with Him.',
         quoteAuthor: 'St. Gregory the Theologian',
@@ -156,7 +151,7 @@ const CALENDAR_DATA = [
             { day: 10, type: 'f', name: 'Good Friday' },
             { day: 12, type: 'M', name: 'Resurrection', icon: 'feast_resurrection' },
             { day: 19, type: 'm', name: 'Thomas Sunday', icon: 'feast_thomas' },
-            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
+            { day: 25, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
         ],
         excludeMonthly: 7
     },
@@ -207,8 +202,7 @@ const CALENDAR_DATA = [
         synaxarium: [
             '01: Holy Family to Egypt',
             '01: Apostles\' Fast Begins',
-            '09: St. Ephrem the Syrian',
-            '15: St. Augustine of Hippo',
+            '13: St. Didymus the Blind',
             '23: St. Onuphrius (Anba Noufer)',
             '27: St. Cyril of Alexandria'
         ],
@@ -218,8 +212,7 @@ const CALENDAR_DATA = [
         fastingTip: 'Apostles\' Fast begins June 1 — vegan fast (no animal products). Honor the apostles\' missionary zeal.',
         feasts: [
             { day: 1, type: 'P', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
-            { day: 9, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
-            { day: 15, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
+            { day: 13, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
             { day: 27, type: 'c', name: 'St. Cyril of Alexandria', icon: 'st_cyril_alexandria' },
         ],
@@ -242,6 +235,7 @@ const CALENDAR_DATA = [
             '12: Sts. Peter and Paul',
             '14: St. Shenouda the Archimandrite',
             '15: St. Bishoy the Beloved',
+            '22: St. Ephrem the Syrian',
             '23: St. Marina the Martyr',
             '27: St. Theodore the General',
             '31: St. Abanoub'
@@ -256,6 +250,7 @@ const CALENDAR_DATA = [
             { day: 12, type: 'm', name: 'Sts. Peter and Paul', icon: 'feast_peter_paul' },
             { day: 14, type: 'c', name: 'St. Shenouda', icon: 'st_shenouda' },
             { day: 15, type: 'c', name: 'St. Bishoy', icon: 'st_bishoy' },
+            { day: 22, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
             { day: 23, type: 'c', name: 'St. Marina', icon: 'st_marina' },
             { day: 27, type: 'c', name: 'St. Theodore the General', icon: 'st_theodore' },
             { day: 31, type: 'c', name: 'St. Abanoub', icon: 'st_abanoub' },
@@ -280,7 +275,8 @@ const CALENDAR_DATA = [
             '19: The Transfiguration',
             '21: St. Mary\'s Fast Ends',
             '22: Assumption of St. Mary',
-            '25: St. Macarius the Great'
+            '25: St. Macarius the Great',
+            '28: St. Augustine of Hippo'
         ],
         quote: 'Hail Mary, Mother of God, Treasure of the whole world.',
         quoteAuthor: 'St. Cyril of Alexandria',
@@ -294,6 +290,7 @@ const CALENDAR_DATA = [
             { day: 21, type: 'e', name: 'St. Mary\'s Fast Ends' },
             { day: 22, type: 'm', name: 'Assumption of St. Mary', icon: 'feast_assumption' },
             { day: 25, type: 'c', name: 'St. Macarius the Great', icon: 'st_macarius' },
+            { day: 28, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
         ],
         excludeMonthly: 0
     },
@@ -314,6 +311,7 @@ const CALENDAR_DATA = [
             '12: St. John the Baptist',
             '14: St. Verena',
             '17: St. Rebecca and her 5 Children',
+            '17: St. Dioscorus of Alexandria',
             '27–29: Feast of the Cross (3 days)'
         ],
         quote: 'I am the wheat of God, ground for the bread of Christ.',
@@ -325,6 +323,7 @@ const CALENDAR_DATA = [
             { day: 12, type: 'c', name: 'St. John the Baptist', icon: 'st_john_baptist' },
             { day: 14, type: 'c', name: 'St. Verena', icon: 'st_verena' },
             { day: 17, type: 'c', name: 'St. Rebecca & Children', icon: 'st_rebecca' },
+            { day: 17, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
             { day: 22, type: 'c', name: 'St. Maurice & Theban Legion', icon: 'st_maurice' },
             { day: 27, type: 'm', name: 'Feast of the Cross (Day 1)', icon: 'feast_cross' },
             { day: 28, type: 'm', name: 'Feast of the Cross (Day 2)', icon: 'feast_cross' },
@@ -345,10 +344,9 @@ const CALENDAR_DATA = [
         copticNext: 'Paope',
         synaxarium: [
             '02: St. Thekla the Martyr',
-            '08: St. Dioscorus of Alexandria',
             '14: Sts. Sergius and Bacchus',
             '17: St. Paul the Simple',
-            '24: St. Irenaeus of Lyon',
+
             '31: St. Reweis'
         ],
         quote: 'To fall in love with God is the greatest romance.',
@@ -357,10 +355,9 @@ const CALENDAR_DATA = [
         fastingTip: null,
         feasts: [
             { day: 2, type: 'c', name: 'St. Thekla', icon: 'st_thekla' },
-            { day: 8, type: 'c', name: 'St. Dioscorus', icon: 'st_dioscorus' },
             { day: 14, type: 'c', name: 'Sts. Sergius & Bacchus', icon: 'sts_sergius_bacchus' },
             { day: 17, type: 'c', name: 'St. Paul the Simple' },
-            { day: 24, type: 'c', name: 'St. Irenaeus of Lyon', icon: 'st_irenaeus' },
+
             { day: 31, type: 'c', name: 'St. Reweis' },
         ],
         excludeMonthly: 0
@@ -377,9 +374,8 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Hator',
         synaxarium: [
-            '06: St. Peter Seal of Martyrs',
             '14: Sts. Cosmas and Damian',
-            '20: St. Ephrem the Syrian',
+
             '24: St. Mina the Miraculous',
             '25: Nativity Fast Begins',
             '26: St. John Chrysostom',
@@ -390,9 +386,8 @@ const CALENDAR_DATA = [
         scripture: '"Prepare the way of the Lord; make His paths straight." — Mark 1:3',
         fastingTip: 'Nativity Fast begins Nov 25 — 43 days of vegan fasting anticipating the Incarnation.',
         feasts: [
-            { day: 6, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
             { day: 14, type: 'c', name: 'Cosmas & Damian', icon: 'sts_cosmas_damian' },
-            { day: 20, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
+
             { day: 24, type: 'c', name: 'St. Mina', icon: 'st_mina' },
             { day: 25, type: 'f', name: 'Nativity Fast Begins' },
             { day: 26, type: 'c', name: 'St. John Chrysostom', icon: 'st_chrysostom' },
@@ -418,8 +413,7 @@ const CALENDAR_DATA = [
             '10: St. Nicholas of Myra',
             '17: St. Barbara the Martyr',
             '17: St. Samuel the Confessor',
-            '22: St. Augustine of Hippo',
-            '29: St. Cyril of Alexandria'
+            '25: St. Peter Seal of Martyrs'
         ],
         quote: 'The Sun of Righteousness has risen from the Virgin\'s womb.',
         quoteAuthor: 'St. Ephrem the Syrian',
@@ -431,8 +425,7 @@ const CALENDAR_DATA = [
             { day: 8, type: 'c', name: 'St. Clement of Rome', icon: 'st_clement_rome' },
             { day: 10, type: 'c', name: 'St. Nicholas', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'St. Barbara', icon: 'st_barbara' },
-            { day: 22, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
-            { day: 29, type: 'c', name: 'St. Cyril of Alexandria', icon: 'st_cyril_alexandria' },
+            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
         ],
         excludeMonthly: 0
     }
