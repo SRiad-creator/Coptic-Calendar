@@ -112,21 +112,19 @@ html {
     .screen-header .cross-icon {
         font-size: 2.5rem;
     }
+}
 
-    #printBtn,
-    .gcal-btn {
-        display: inline-block;
-        width: calc(50% - 0.6rem);
-        margin: 0.3rem 0.2rem;
-        padding: 0.6rem 0.5rem;
-        font-size: 0.9rem;
-        box-sizing: border-box;
-        text-align: center;
-    }
+/* Header buttons - always side by side */
+.header-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
 
-    .gcal-btn {
-        margin-left: 0.2rem;
-    }
+.header-buttons #printBtn,
+.header-buttons .gcal-btn {
+    flex: 0 1 auto;
 }
 
 /* --- Month Page --- */
