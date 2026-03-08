@@ -65,7 +65,7 @@ const CALENDAR_DATA = [
             '15: 21 Coptic Martyrs of Libya',
             '16: Great Lent Begins',
             '21: St. Severus of Antioch',
-            '25: St. Peter Seal of Martyrs'
+            '25: St. Mina the Monk'
         ],
         quote: 'Fasting is the sacrifice of distancing from sins.',
         quoteAuthor: 'St. John Chrysostom',
@@ -79,7 +79,7 @@ const CALENDAR_DATA = [
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
-            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
+            { day: 25, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
         ],
         excludeMonthly: 0
     },
@@ -135,7 +135,7 @@ const CALENDAR_DATA = [
             '10: Good Friday',
             '12: Glorious Resurrection',
             '19: Thomas Sunday',
-            '25: St. Dioscorus of Alexandria'
+            '25: St. Antipas of Pergamos'
         ],
         quote: 'Yesterday I was crucified with Him; today I am glorified with Him.',
         quoteAuthor: 'St. Gregory the Theologian',
@@ -151,7 +151,7 @@ const CALENDAR_DATA = [
             { day: 10, type: 'f', name: 'Good Friday' },
             { day: 12, type: 'M', name: 'Resurrection', icon: 'feast_resurrection' },
             { day: 19, type: 'm', name: 'Thomas Sunday', icon: 'feast_thomas' },
-            { day: 25, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
+            { day: 25, type: 'c', name: 'St. Antipas of Pergamos' },
         ],
         excludeMonthly: 7
     },
@@ -409,11 +409,10 @@ const CALENDAR_DATA = [
         synaxarium: [
             '04: Philopater Mercurius (Abu Sefein)',
             '05: St. Gregory of Nyssa',
-            '08: St. Clement of Rome',
+            '08: St. Clement of Rome / St. Peter Seal of Martyrs',
             '10: St. Nicholas of Myra',
             '17: St. Barbara the Martyr',
-            '17: St. Samuel the Confessor',
-            '25: St. Peter Seal of Martyrs'
+            '17: St. Samuel the Confessor'
         ],
         quote: 'The Sun of Righteousness has risen from the Virgin\'s womb.',
         quoteAuthor: 'St. Ephrem the Syrian',
@@ -423,9 +422,9 @@ const CALENDAR_DATA = [
             { day: 4, type: 'c', name: 'Philopater Mercurius', icon: 'st_mercurius' },
             { day: 5, type: 'c', name: 'St. Gregory of Nyssa', icon: 'st_gregory_nyssa' },
             { day: 8, type: 'c', name: 'St. Clement of Rome', icon: 'st_clement_rome' },
+            { day: 8, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
             { day: 10, type: 'c', name: 'St. Nicholas', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'St. Barbara', icon: 'st_barbara' },
-            { day: 25, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
         ],
         excludeMonthly: 0
     }
