@@ -1,107 +1,74 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Coptic Orthodox Calendar//EN
+PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Coptic Fasts (Purple)
+X-WR-CALNAME:Coptic Fasts
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-UID:coptic2026-2@coptic-calendar.app
 DTSTART;VALUE=DATE:20260106
-DTEND;VALUE=DATE:20260107
 SUMMARY:Nativity Fast Ends (28 Kiahk)
-DESCRIPTION:28 Kiahk 1742 AM - Conclusion of the 43-day Advent fast preparing for the Incarnation.
-CATEGORIES:e
+DESCRIPTION:28 Kiahk 1742 AM — Conclusion of the 43-day Advent fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-12@coptic-calendar.app
 DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260203
-SUMMARY:Jonah's Fast Begins (25 Tobe)
-DESCRIPTION:25 Tobe 1742 AM - Three-day fast commemorating the fast of the people of Nineveh after Jonah's preaching.
-CATEGORIES:f
+SUMMARY:🐟 Jonah Fast Begins (25 Tobe)
+DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of the people of Nineveh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-13@coptic-calendar.app
 DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:Jonah's Fast Ends (27 Tobe)
-DESCRIPTION:27 Tobe 1742 AM - Conclusion of the three-day Nineveh fast.
-CATEGORIES:e
+SUMMARY:Jonah Fast Ends (27 Tobe)
+DESCRIPTION:27 Tobe 1742 AM — Conclusion of the three-day Nineveh fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-18@coptic-calendar.app
 DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260217
-SUMMARY:Great Lent Begins (9 Meshir)
-DESCRIPTION:9 Meshir 1742 AM - Beginning of the 55-day Great Lent. Strict vegan fast - no animal products.
-CATEGORIES:f
+SUMMARY:🐟 Great Lent Begins (9 Meshir)
+DESCRIPTION:9 Meshir 1742 AM — Beginning of the 55-day Great Lent, strict vegan fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-31@coptic-calendar.app
 DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
 SUMMARY:Last Friday of Lent (25 Paremhotep)
-DESCRIPTION:25 Paremhotep 1742 AM - Final Friday of the Great Lent before Lazarus Saturday and Holy Week.
-CATEGORIES:e
+DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy Week
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-38@coptic-calendar.app
 DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Good Friday (2 Parmoute)
-DESCRIPTION:2 Parmoute 1742 AM - Crucifixion and death of our Lord Jesus Christ for the salvation of the world.
-CATEGORIES:f
+SUMMARY:✝️ Good Friday (2 Parmoute)
+DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for the salvation of the world
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-50@coptic-calendar.app
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Apostles' Fast Begins (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM - Vegan fast in honour of the apostles. Begins the day after Pentecost.
-CATEGORIES:f
+SUMMARY:🐟 Apostles Fast Begins (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM — Vegan fast in honour of the apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-58@coptic-calendar.app
 DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:Apostles' Fast Ends (4 Epep)
-DESCRIPTION:4 Epep 1742 AM - Conclusion of the Apostles' Fast.
-CATEGORIES:e
+SUMMARY:Apostles Fast Ends (4 Epep)
+DESCRIPTION:4 Epep 1742 AM — Conclusion of the Apostles Fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-67@coptic-calendar.app
 DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-SUMMARY:St. Mary's Fast Begins (1 Mesore)
-DESCRIPTION:1 Mesore 1742 AM - 15-day vegan fast in honour of the Theotokos before the Feast of her Assumption.
-CATEGORIES:f
+SUMMARY:🐟 St. Mary Fast Begins (1 Mesore)
+DESCRIPTION:1 Mesore 1742 AM — 15-day vegan fast before the Assumption
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-71@coptic-calendar.app
 DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:St. Mary's Fast Ends (15 Mesore)
-DESCRIPTION:15 Mesore 1742 AM - Conclusion of the 15-day Theotokos fast.
-CATEGORIES:e
+SUMMARY:St. Mary Fast Ends (15 Mesore)
+DESCRIPTION:15 Mesore 1742 AM — Conclusion of the 15-day Theotokos fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-95@coptic-calendar.app
 DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Nativity Fast Begins (16 Hator)
-DESCRIPTION:16 Hator 1743 AM - 43-day vegan fast preparing for the Feast of the Nativity.
-CATEGORIES:f
+SUMMARY:🐟 Nativity Fast Begins (16 Hator)
+DESCRIPTION:16 Hator 1743 AM — 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
