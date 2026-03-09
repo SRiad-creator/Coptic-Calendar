@@ -472,9 +472,9 @@ const CALENDAR_DATA = [
 
 // Monthly recurring commemorations (by Coptic day)
 const MONTHLY_COMMEMORATIONS = {
-    12: 'Archangel Michael',
-    21: 'Saint Mary',
-    29: 'Annunciation, Nativity, Resurrection'
+    12: { name: 'Archangel Michael', icon: 'archangel_michael' },
+    21: { name: 'Saint Mary', icon: 'st_mary_theotokos' },
+    29: { name: 'Annunciation, Nativity, Resurrection' }
 };
 
 // Feast type labels and colors
