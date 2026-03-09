@@ -66,7 +66,8 @@ const CALENDAR_DATA = [
             '15: 21 Coptic Martyrs of Libya',
             '16: Great Lent Begins',
             '21: St. Severus of Antioch',
-            '25: St. Mina the Monk'
+            '23: Hegumen Michael El Behairy / St. Elizabeth',
+            '24: St. Mina the Monk'
         ],
         quote: 'Fasting is the sacrifice of distancing from sins.',
         quoteAuthor: 'St. John Chrysostom',
@@ -81,7 +82,9 @@ const CALENDAR_DATA = [
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
-            { day: 25, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
+            { day: 23, type: 'c', name: 'Hegumen Michael El Behairy', icon: 'hegumen_michael' },
+            { day: 23, type: 'c', name: 'St. Elizabeth', icon: 'st_elizabeth' },
+            { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
         ],
         excludeMonthly: 0
     },
@@ -100,6 +103,7 @@ const CALENDAR_DATA = [
             '08: St. Polycarp of Smyrna',
             '09: Pope Cyril VI',
             '14: St. Sarapamon the Archpriest',
+            '17: St. Matthias the Apostle',
             '19: Feast of the Holy Cross'
         ],
         quote: 'Let yourself be persecuted, but do not persecute.',
@@ -110,6 +114,7 @@ const CALENDAR_DATA = [
             { day: 8, type: 'c', name: 'St. Polycarp of Smyrna', icon: 'st_polycarp' },
             { day: 9, type: 'c', name: 'Pope Cyril VI', icon: 'st_cyril_vi' },
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
+            { day: 17, type: 'c', name: 'St. Matthias the Apostle', icon: 'st_matthias' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
         ],
         excludeMonthly: 0
@@ -202,9 +207,10 @@ const CALENDAR_DATA = [
         synaxarium: [
             '01: Holy Family to Egypt',
             '01: Apostles\' Fast Begins',
+            '03: St. Thomas the Apostle',
             '13: St. Didymus the Blind',
             '23: St. Onuphrius (Anba Noufer)',
-            '27: Prophet Elisha'
+            '27: Pope Cyril of Alexandria / Prophet Elisha'
         ],
         quote: 'Christ is the vine and we are the branches.',
         quoteAuthor: 'St. Cyril of Alexandria',
@@ -212,9 +218,10 @@ const CALENDAR_DATA = [
         fastingTip: 'Apostles\' Fast begins June 1 — vegan fast (no animal products). Honor the apostles\' missionary zeal.',
         feasts: [
             { day: 1, type: 'P', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
+            { day: 3, type: 'c', name: 'St. Thomas the Apostle', icon: 'st_thomas' },
             { day: 13, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
-            { day: 27, type: 'c', name: 'Prophet Elisha', icon: 'prophet_elisha' },
+            { day: 27, type: 'c', name: 'Pope Cyril of Alexandria', icon: 'st_cyril_alexandria' },
         ],
         excludeMonthly: 0
     },
@@ -341,9 +348,11 @@ const CALENDAR_DATA = [
         copticTransitionDay: 11,
         copticNext: 'Paope',
         synaxarium: [
-            '14: Sts. Sergius and Bacchus',
+            '11: St. Anastasia',
+            '14: St. Bacchus',
             '17: St. Paul the Simple',
             '20: St. Sergius',
+            '22: St. Matthew the Evangelist',
             '31: St. Reweis'
         ],
         quote: 'To fall in love with God is the greatest romance.',
@@ -351,9 +360,11 @@ const CALENDAR_DATA = [
         scripture: '"I have been crucified with Christ; it is no longer I who live, but Christ lives in me." — Galatians 2:20',
         fastingTip: null,
         feasts: [
-            { day: 14, type: 'c', name: 'Sts. Sergius & Bacchus', icon: 'sts_sergius_bacchus' },
+            { day: 11, type: 'c', name: 'St. Anastasia', icon: 'st_anastasia' },
+            { day: 14, type: 'c', name: 'St. Bacchus', icon: 'sts_sergius_bacchus' },
             { day: 17, type: 'c', name: 'St. Paul the Simple', icon: 'st_paul_simple' },
             { day: 20, type: 'c', name: 'St. Sergius', icon: 'sts_sergius_bacchus' },
+            { day: 22, type: 'c', name: 'St. Matthew the Evangelist', icon: 'st_matthew_evan' },
             { day: 31, type: 'c', name: 'St. Reweis', icon: 'st_reweis' },
         ],
         excludeMonthly: 0
@@ -370,24 +381,26 @@ const CALENDAR_DATA = [
         copticTransitionDay: 10,
         copticNext: 'Hator',
         synaxarium: [
-            '01: Cosmas and Damian',
+            '01: St. Luke the Evangelist',
+            '08: St. Demetrius of Thessaloniki',
             '18: Council of Nicaea (325 AD)',
             '24: St. Mina the Miraculous',
             '25: Nativity Fast Begins',
             '26: St. John Chrysostom',
-            '27: St. Simon the Tanner'
+            '27: St. Philip the Apostle'
         ],
         quote: 'Repentance is the renewal of baptism.',
         quoteAuthor: 'St. John Climacus',
         scripture: '"Prepare the way of the Lord; make His paths straight." — Mark 1:3',
         fastingTip: 'Nativity Fast begins Nov 25 — 43 days of vegan fasting anticipating the Incarnation.',
         feasts: [
-            { day: 1, type: 'c', name: 'Cosmas & Damian', icon: 'sts_cosmas_damian' },
+            { day: 1, type: 'c', name: 'St. Luke the Evangelist', icon: 'st_luke' },
+            { day: 8, type: 'c', name: 'St. Demetrius of Thessaloniki' },
             { day: 18, type: 'c', name: 'Council of Nicaea (325 AD)', icon: 'council_nicaea' },
             { day: 24, type: 'c', name: 'St. Mina', icon: 'st_mina' },
             { day: 25, type: 'f', name: 'Nativity Fast Begins' },
             { day: 26, type: 'c', name: 'St. John Chrysostom', icon: 'st_chrysostom' },
-            { day: 27, type: 'c', name: 'St. Simon the Tanner', icon: 'st_simon_tanner' },
+            { day: 27, type: 'c', name: 'St. Philip the Apostle', icon: 'st_philip_apostle' },
         ],
         excludeMonthly: 0
     },
@@ -407,6 +420,7 @@ const CALENDAR_DATA = [
             '04: Philopater Mercurius (Abu Sefein)',
             '05: St. Gregory of Nyssa',
             '08: St. Peter Seal of Martyrs',
+            '13: St. Andrew the Apostle',
             '19: St. Nicholas of Myra',
             '17: St. Barbara the Martyr',
             '17: St. Samuel the Confessor',
@@ -421,6 +435,7 @@ const CALENDAR_DATA = [
             { day: 4, type: 'c', name: 'Philopater Mercurius', icon: 'st_mercurius' },
             { day: 5, type: 'c', name: 'St. Gregory of Nyssa', icon: 'st_gregory_nyssa' },
             { day: 8, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
+            { day: 13, type: 'c', name: 'St. Andrew the Apostle', icon: 'st_andrew' },
             { day: 19, type: 'c', name: 'St. Nicholas', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'St. Barbara', icon: 'st_barbara' },
             { day: 25, type: 'c', name: 'Gideon the Judge', icon: 'gideon_judge' },
