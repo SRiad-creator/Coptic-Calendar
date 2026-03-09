@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coptic Orthodox Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coptic Feasts (Gold/Red)
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+UID:coptic2026-3@coptic-calendar.app
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Feast of the Nativity (29 Kiahk)
+DESCRIPTION:29 Kiahk 1742 AM - Birth of our Lord Jesus Christ. One of the seven Major Feasts of the Lord.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-3@coptic-calendar.app
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Feast of the Nativity (29 Kiahk)
+DESCRIPTION:29 Kiahk 1742 AM - Birth of our Lord Jesus Christ. One of the seven Major Feasts of the Lord.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-5@coptic-calendar.app
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM - Circumcision of our Lord on the 8th day. Also commemoration of St. Basil, Archbishop of Caesarea.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-5@coptic-calendar.app
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM - Circumcision of our Lord on the 8th day. Also commemoration of St. Basil, Archbishop of Caesarea.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-6@coptic-calendar.app
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Theophany (11 Tobe)
+DESCRIPTION:11 Tobe 1742 AM - Baptism of our Lord Jesus Christ in the Jordan River by St. John the Baptist. Major Feast.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-6@coptic-calendar.app
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Theophany (11 Tobe)
+DESCRIPTION:11 Tobe 1742 AM - Baptism of our Lord Jesus Christ in the Jordan River by St. John the Baptist. Major Feast.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-7@coptic-calendar.app
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Miracle at Cana (13 Tobe)
+DESCRIPTION:13 Tobe 1742 AM - First miracle of Christ, turning water into wine at the wedding in Cana of Galilee (John 2:1-11).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-7@coptic-calendar.app
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Miracle at Cana (13 Tobe)
+DESCRIPTION:13 Tobe 1742 AM - First miracle of Christ, turning water into wine at the wedding in Cana of Galilee (John 2:1-11).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-14@coptic-calendar.app
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Feast of Jonah (28 Tobe)
+DESCRIPTION:28 Tobe 1742 AM - Celebration after the Nineveh fast. Commemorates God's mercy on Nineveh.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-14@coptic-calendar.app
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Feast of Jonah (28 Tobe)
+DESCRIPTION:28 Tobe 1742 AM - Celebration after the Nineveh fast. Commemorates God's mercy on Nineveh.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-17@coptic-calendar.app
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:Presentation into the Temple (8 Meshir)
+DESCRIPTION:8 Meshir 1742 AM - Presentation of our Lord Jesus Christ in the Temple, 40 days after Nativity. Simeon's prophecy.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-17@coptic-calendar.app
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:Presentation into the Temple (8 Meshir)
+DESCRIPTION:8 Meshir 1742 AM - Presentation of our Lord Jesus Christ in the Temple, 40 days after Nativity. Simeon's prophecy.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-28@coptic-calendar.app
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:10 Paremhotep 1742 AM - Discovery of the True Cross by Empress Helena in Jerusalem (326 AD).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-28@coptic-calendar.app
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:10 Paremhotep 1742 AM - Discovery of the True Cross by Empress Helena in Jerusalem (326 AD).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-32@coptic-calendar.app
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Lazarus Saturday (26 Paremhotep)
+DESCRIPTION:26 Paremhotep 1742 AM - Commemoration of the raising of Lazarus from the dead (John 11). Gateway to Holy Week.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-32@coptic-calendar.app
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Lazarus Saturday (26 Paremhotep)
+DESCRIPTION:26 Paremhotep 1742 AM - Commemoration of the raising of Lazarus from the dead (John 11). Gateway to Holy Week.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-34@coptic-calendar.app
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Palm Sunday (27 Paremhotep)
+DESCRIPTION:27 Paremhotep 1742 AM - Triumphal entry of Christ into Jerusalem. Beginning of Holy Week. 27 Paremhotep.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-34@coptic-calendar.app
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Palm Sunday (27 Paremhotep)
+DESCRIPTION:27 Paremhotep 1742 AM - Triumphal entry of Christ into Jerusalem. Beginning of Holy Week. 27 Paremhotep.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-36@coptic-calendar.app
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Annunciation (29 Paremhotep)
+DESCRIPTION:29 Paremhotep 1742 AM - The Archangel Gabriel announces to the Virgin Mary that she will bear the Son of God (Luke 1:26-38).
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-36@coptic-calendar.app
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Annunciation (29 Paremhotep)
+DESCRIPTION:29 Paremhotep 1742 AM - The Archangel Gabriel announces to the Virgin Mary that she will bear the Son of God (Luke 1:26-38).
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-37@coptic-calendar.app
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Covenant Thursday (1 Parmoute)
+DESCRIPTION:1 Parmoute 1742 AM - The Last Supper of our Lord with His disciples. Institution of the Holy Eucharist.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-37@coptic-calendar.app
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Covenant Thursday (1 Parmoute)
+DESCRIPTION:1 Parmoute 1742 AM - The Last Supper of our Lord with His disciples. Institution of the Holy Eucharist.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-39@coptic-calendar.app
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Glorious Resurrection (4 Parmoute)
+DESCRIPTION:4 Parmoute 1742 AM - The Resurrection of our Lord Jesus Christ from the dead! The greatest feast of the Church.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-39@coptic-calendar.app
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Glorious Resurrection (4 Parmoute)
+DESCRIPTION:4 Parmoute 1742 AM - The Resurrection of our Lord Jesus Christ from the dead! The greatest feast of the Church.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-45@coptic-calendar.app
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Feast of Ascension (13 Pashons)
+DESCRIPTION:13 Pashons 1742 AM - Ascension of our Lord Jesus Christ into heaven, 40 days after the Resurrection.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-45@coptic-calendar.app
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Feast of Ascension (13 Pashons)
+DESCRIPTION:13 Pashons 1742 AM - Ascension of our Lord Jesus Christ into heaven, 40 days after the Resurrection.
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-48@coptic-calendar.app
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Feast of Pentecost (23 Pashons)
+DESCRIPTION:23 Pashons 1742 AM - Descent of the Holy Spirit upon the Apostles, 50 days after Resurrection (Acts 2).
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-48@coptic-calendar.app
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Feast of Pentecost (23 Pashons)
+DESCRIPTION:23 Pashons 1742 AM - Descent of the Holy Spirit upon the Apostles, 50 days after Resurrection (Acts 2).
+CATEGORIES:M
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-49@coptic-calendar.app
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Holy Family to Egypt (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM - Commemoration of the flight of the Holy Family into Egypt (Matthew 2:13-15).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-49@coptic-calendar.app
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Holy Family to Egypt (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM - Commemoration of the flight of the Holy Family into Egypt (Matthew 2:13-15).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-59@coptic-calendar.app
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Sts. Peter and Paul (5 Epep)
+DESCRIPTION:5 Epep 1742 AM - Feast of the two chief apostles. Peter was crucified upside down; Paul was beheaded in Rome.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-59@coptic-calendar.app
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Sts. Peter and Paul (5 Epep)
+DESCRIPTION:5 Epep 1742 AM - Feast of the two chief apostles. Peter was crucified upside down; Paul was beheaded in Rome.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-69@coptic-calendar.app
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Transfiguration (13 Mesore)
+DESCRIPTION:13 Mesore 1742 AM - The Transfiguration of Christ on Mount Tabor (Matthew 17:1-8).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-69@coptic-calendar.app
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Transfiguration (13 Mesore)
+DESCRIPTION:13 Mesore 1742 AM - The Transfiguration of Christ on Mount Tabor (Matthew 17:1-8).
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-72@coptic-calendar.app
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Assumption of St. Mary (16 Mesore)
+DESCRIPTION:16 Mesore 1742 AM - Assumption of the body of the Blessed Virgin Mary into heaven.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-72@coptic-calendar.app
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Assumption of St. Mary (16 Mesore)
+DESCRIPTION:16 Mesore 1742 AM - Assumption of the body of the Blessed Virgin Mary into heaven.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-75@coptic-calendar.app
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Nayrouz - Coptic New Year 1743 AM (1 Thoout)
+DESCRIPTION:1 Thoout 1743 AM - Feast of the Martyrs. Beginning of the Coptic year. Crown of the Year.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-75@coptic-calendar.app
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Nayrouz - Coptic New Year 1743 AM (1 Thoout)
+DESCRIPTION:1 Thoout 1743 AM - Feast of the Martyrs. Beginning of the Coptic year. Crown of the Year.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-80@coptic-calendar.app
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:17 Thoout 1743 AM - Three-day feast commemorating the discovery of the True Cross by Empress Helena.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-80@coptic-calendar.app
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:17 Thoout 1743 AM - Three-day feast commemorating the discovery of the True Cross by Empress Helena.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-81@coptic-calendar.app
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:18 Thoout 1743 AM - Continuation of the Feast of the Cross.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-81@coptic-calendar.app
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:18 Thoout 1743 AM - Continuation of the Feast of the Cross.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-82@coptic-calendar.app
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:19 Thoout 1743 AM - Third day of the Feast of the Cross.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:coptic2026-82@coptic-calendar.app
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:19 Thoout 1743 AM - Third day of the Feast of the Cross.
+CATEGORIES:m
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
