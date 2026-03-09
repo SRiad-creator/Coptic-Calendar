@@ -117,7 +117,7 @@ const CALENDAR_DATA = [
             { day: 9, type: 'c', name: 'Pope Cyril VI', icon: 'st_cyril_vi' },
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 17, type: 'c', name: 'St. Matthias the Apostle', icon: 'st_matthias' },
-            { day: 17, type: 'c', name: 'Pope Shenouda III', icon: 'pope_shenouda' },
+            { day: 17, type: 'c', name: 'Pope Shenouda III' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
             { day: 26, type: 'c', name: 'St. Sidhom Bishay', icon: 'st_sidhom_bishay' },
         ],
