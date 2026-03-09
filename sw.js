@@ -1,4 +1,4 @@
-const CACHE_NAME = 'coptic-calendar-v21';
+const CACHE_NAME = 'coptic-calendar-v22';
 const urlsToCache = [
     '/Coptic-Calendar/',
     '/Coptic-Calendar/index.html',
@@ -6,7 +6,11 @@ const urlsToCache = [
     '/Coptic-Calendar/data.js',
     '/Coptic-Calendar/style.css',
     '/Coptic-Calendar/coptic_cross.png',
-    '/Coptic-Calendar/coptic_calendar_2026.ics'
+    '/Coptic-Calendar/coptic_calendar_2026.ics',
+    '/Coptic-Calendar/coptic_feasts.ics',
+    '/Coptic-Calendar/coptic_saints.ics',
+    '/Coptic-Calendar/coptic_sundays.ics',
+    '/Coptic-Calendar/coptic_fasts.ics'
 ];
 
 self.addEventListener('install', event => {
