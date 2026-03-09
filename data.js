@@ -105,7 +105,8 @@ const CALENDAR_DATA = [
             '08: St. Polycarp of Smyrna',
             '09: Pope Cyril VI',
             '14: St. Sarapamon the Archpriest',
-            '17: St. Matthias / Pope Shenouda III',
+            '17: St. Matthias the Apostle',
+            '17: Pope Shenouda III',
             '19: Feast of the Holy Cross',
             '26: St. Sidhom Bishay'
         ],
