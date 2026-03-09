@@ -1,1628 +1,1088 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Coptic Orthodox Calendar//EN
+PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Coptic Calendar 2026
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
-UID:coptic2026-3@coptic-calendar.app
 DTSTART;VALUE=DATE:20260107
-DTEND;VALUE=DATE:20260108
-SUMMARY:Feast of the Nativity (29 Kiahk)
-DESCRIPTION:29 Kiahk 1742 AM - Birth of our Lord Jesus Christ. One of the seven Major Feasts of the Lord.
-CATEGORIES:M
+SUMMARY:🎄 Feast of the Nativity (29 Kiahk)
+DESCRIPTION:29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-3@coptic-calendar.app
 DTSTART;VALUE=DATE:20260107
-DTEND;VALUE=DATE:20260108
-SUMMARY:Feast of the Nativity (29 Kiahk)
-DESCRIPTION:29 Kiahk 1742 AM - Birth of our Lord Jesus Christ. One of the seven Major Feasts of the Lord.
-CATEGORIES:M
+SUMMARY:🎄 Feast of the Nativity (29 Kiahk)
+DESCRIPTION:29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-5@coptic-calendar.app
 DTSTART;VALUE=DATE:20260114
-DTEND;VALUE=DATE:20260115
 SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
-DESCRIPTION:6 Tobe 1742 AM - Circumcision of our Lord on the 8th day. Also commemoration of St. Basil, Archbishop of Caesarea.
-CATEGORIES:m
+DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-5@coptic-calendar.app
 DTSTART;VALUE=DATE:20260114
-DTEND;VALUE=DATE:20260115
 SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
-DESCRIPTION:6 Tobe 1742 AM - Circumcision of our Lord on the 8th day. Also commemoration of St. Basil, Archbishop of Caesarea.
-CATEGORIES:m
+DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-6@coptic-calendar.app
 DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-SUMMARY:Theophany (11 Tobe)
-DESCRIPTION:11 Tobe 1742 AM - Baptism of our Lord Jesus Christ in the Jordan River by St. John the Baptist. Major Feast.
-CATEGORIES:M
+SUMMARY:💧 Theophany (11 Tobe)
+DESCRIPTION:11 Tobe 1742 AM — Baptism of our Lord in the Jordan by St. John the Baptist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-6@coptic-calendar.app
 DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-SUMMARY:Theophany (11 Tobe)
-DESCRIPTION:11 Tobe 1742 AM - Baptism of our Lord Jesus Christ in the Jordan River by St. John the Baptist. Major Feast.
-CATEGORIES:M
+SUMMARY:💧 Theophany (11 Tobe)
+DESCRIPTION:11 Tobe 1742 AM — Baptism of our Lord in the Jordan by St. John the Baptist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-7@coptic-calendar.app
 DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
 SUMMARY:Miracle at Cana (13 Tobe)
-DESCRIPTION:13 Tobe 1742 AM - First miracle of Christ, turning water into wine at the wedding in Cana of Galilee (John 2:1-11).
-CATEGORIES:m
+DESCRIPTION:13 Tobe 1742 AM — First miracle of Christ, water into wine (John 2:1-11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-7@coptic-calendar.app
 DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
 SUMMARY:Miracle at Cana (13 Tobe)
-DESCRIPTION:13 Tobe 1742 AM - First miracle of Christ, turning water into wine at the wedding in Cana of Galilee (John 2:1-11).
-CATEGORIES:m
+DESCRIPTION:13 Tobe 1742 AM — First miracle of Christ, water into wine (John 2:1-11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-14@coptic-calendar.app
 DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
 SUMMARY:Feast of Jonah (28 Tobe)
-DESCRIPTION:28 Tobe 1742 AM - Celebration after the Nineveh fast. Commemorates God's mercy on Nineveh.
-CATEGORIES:m
+DESCRIPTION:28 Tobe 1742 AM — Celebration after the Nineveh fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-14@coptic-calendar.app
 DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
 SUMMARY:Feast of Jonah (28 Tobe)
-DESCRIPTION:28 Tobe 1742 AM - Celebration after the Nineveh fast. Commemorates God's mercy on Nineveh.
-CATEGORIES:m
+DESCRIPTION:28 Tobe 1742 AM — Celebration after the Nineveh fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-17@coptic-calendar.app
 DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
 SUMMARY:Presentation into the Temple (8 Meshir)
-DESCRIPTION:8 Meshir 1742 AM - Presentation of our Lord Jesus Christ in the Temple, 40 days after Nativity. Simeon's prophecy.
-CATEGORIES:m
+DESCRIPTION:8 Meshir 1742 AM — Presentation of our Lord 40 days after Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-17@coptic-calendar.app
 DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
 SUMMARY:Presentation into the Temple (8 Meshir)
-DESCRIPTION:8 Meshir 1742 AM - Presentation of our Lord Jesus Christ in the Temple, 40 days after Nativity. Simeon's prophecy.
-CATEGORIES:m
+DESCRIPTION:8 Meshir 1742 AM — Presentation of our Lord 40 days after Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-28@coptic-calendar.app
 DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Feast of the Holy Cross (10 Paremhotep)
-DESCRIPTION:10 Paremhotep 1742 AM - Discovery of the True Cross by Empress Helena in Jerusalem (326 AD).
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:10 Paremhotep 1742 AM — Discovery of the True Cross by Empress Helena (326 AD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-28@coptic-calendar.app
 DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Feast of the Holy Cross (10 Paremhotep)
-DESCRIPTION:10 Paremhotep 1742 AM - Discovery of the True Cross by Empress Helena in Jerusalem (326 AD).
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:10 Paremhotep 1742 AM — Discovery of the True Cross by Empress Helena (326 AD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-32@coptic-calendar.app
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
 SUMMARY:Lazarus Saturday (26 Paremhotep)
-DESCRIPTION:26 Paremhotep 1742 AM - Commemoration of the raising of Lazarus from the dead (John 11). Gateway to Holy Week.
-CATEGORIES:m
+DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-32@coptic-calendar.app
 DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
 SUMMARY:Lazarus Saturday (26 Paremhotep)
-DESCRIPTION:26 Paremhotep 1742 AM - Commemoration of the raising of Lazarus from the dead (John 11). Gateway to Holy Week.
-CATEGORIES:m
+DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 11)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-34@coptic-calendar.app
 DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Palm Sunday (27 Paremhotep)
-DESCRIPTION:27 Paremhotep 1742 AM - Triumphal entry of Christ into Jerusalem. Beginning of Holy Week. 27 Paremhotep.
-CATEGORIES:M
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DESCRIPTION:27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-34@coptic-calendar.app
 DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Palm Sunday (27 Paremhotep)
-DESCRIPTION:27 Paremhotep 1742 AM - Triumphal entry of Christ into Jerusalem. Beginning of Holy Week. 27 Paremhotep.
-CATEGORIES:M
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DESCRIPTION:27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-36@coptic-calendar.app
 DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-SUMMARY:Annunciation (29 Paremhotep)
-DESCRIPTION:29 Paremhotep 1742 AM - The Archangel Gabriel announces to the Virgin Mary that she will bear the Son of God (Luke 1:26-38).
-CATEGORIES:M
+SUMMARY:📢 Annunciation (29 Paremhotep)
+DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the Virgin Mary (Luke 1:26-38)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-36@coptic-calendar.app
 DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-SUMMARY:Annunciation (29 Paremhotep)
-DESCRIPTION:29 Paremhotep 1742 AM - The Archangel Gabriel announces to the Virgin Mary that she will bear the Son of God (Luke 1:26-38).
-CATEGORIES:M
+SUMMARY:📢 Annunciation (29 Paremhotep)
+DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the Virgin Mary (Luke 1:26-38)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-37@coptic-calendar.app
 DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
 SUMMARY:Covenant Thursday (1 Parmoute)
-DESCRIPTION:1 Parmoute 1742 AM - The Last Supper of our Lord with His disciples. Institution of the Holy Eucharist.
-CATEGORIES:m
+DESCRIPTION:1 Parmoute 1742 AM — The Last Supper, institution of the Holy Eucharist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-37@coptic-calendar.app
 DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
 SUMMARY:Covenant Thursday (1 Parmoute)
-DESCRIPTION:1 Parmoute 1742 AM - The Last Supper of our Lord with His disciples. Institution of the Holy Eucharist.
-CATEGORIES:m
+DESCRIPTION:1 Parmoute 1742 AM — The Last Supper, institution of the Holy Eucharist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-39@coptic-calendar.app
 DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:Glorious Resurrection (4 Parmoute)
-DESCRIPTION:4 Parmoute 1742 AM - The Resurrection of our Lord Jesus Christ from the dead! The greatest feast of the Church.
-CATEGORIES:M
+SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
+DESCRIPTION:4 Parmoute 1742 AM — The Resurrection of our Lord Jesus Christ from the dead!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-39@coptic-calendar.app
 DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:Glorious Resurrection (4 Parmoute)
-DESCRIPTION:4 Parmoute 1742 AM - The Resurrection of our Lord Jesus Christ from the dead! The greatest feast of the Church.
-CATEGORIES:M
+SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
+DESCRIPTION:4 Parmoute 1742 AM — The Resurrection of our Lord Jesus Christ from the dead!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-45@coptic-calendar.app
 DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:Feast of Ascension (13 Pashons)
-DESCRIPTION:13 Pashons 1742 AM - Ascension of our Lord Jesus Christ into heaven, 40 days after the Resurrection.
-CATEGORIES:M
+SUMMARY:☁️ Feast of Ascension (13 Pashons)
+DESCRIPTION:13 Pashons 1742 AM — Ascension of our Lord 40 days after Resurrection
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-45@coptic-calendar.app
 DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:Feast of Ascension (13 Pashons)
-DESCRIPTION:13 Pashons 1742 AM - Ascension of our Lord Jesus Christ into heaven, 40 days after the Resurrection.
-CATEGORIES:M
+SUMMARY:☁️ Feast of Ascension (13 Pashons)
+DESCRIPTION:13 Pashons 1742 AM — Ascension of our Lord 40 days after Resurrection
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-48@coptic-calendar.app
 DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Feast of Pentecost (23 Pashons)
-DESCRIPTION:23 Pashons 1742 AM - Descent of the Holy Spirit upon the Apostles, 50 days after Resurrection (Acts 2).
-CATEGORIES:M
+SUMMARY:🔥 Feast of Pentecost (23 Pashons)
+DESCRIPTION:23 Pashons 1742 AM — Descent of the Holy Spirit upon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-48@coptic-calendar.app
 DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Feast of Pentecost (23 Pashons)
-DESCRIPTION:23 Pashons 1742 AM - Descent of the Holy Spirit upon the Apostles, 50 days after Resurrection (Acts 2).
-CATEGORIES:M
+SUMMARY:🔥 Feast of Pentecost (23 Pashons)
+DESCRIPTION:23 Pashons 1742 AM — Descent of the Holy Spirit upon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-49@coptic-calendar.app
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Holy Family to Egypt (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM - Commemoration of the flight of the Holy Family into Egypt (Matthew 2:13-15).
-CATEGORIES:m
+SUMMARY:🏠 Holy Family to Egypt (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-49@coptic-calendar.app
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Holy Family to Egypt (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM - Commemoration of the flight of the Holy Family into Egypt (Matthew 2:13-15).
-CATEGORIES:m
+SUMMARY:🏠 Holy Family to Egypt (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-59@coptic-calendar.app
 DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
 SUMMARY:Sts. Peter and Paul (5 Epep)
-DESCRIPTION:5 Epep 1742 AM - Feast of the two chief apostles. Peter was crucified upside down; Paul was beheaded in Rome.
-CATEGORIES:m
+DESCRIPTION:5 Epep 1742 AM — Feast of the two chief apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-59@coptic-calendar.app
 DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
 SUMMARY:Sts. Peter and Paul (5 Epep)
-DESCRIPTION:5 Epep 1742 AM - Feast of the two chief apostles. Peter was crucified upside down; Paul was beheaded in Rome.
-CATEGORIES:m
+DESCRIPTION:5 Epep 1742 AM — Feast of the two chief apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-69@coptic-calendar.app
 DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Transfiguration (13 Mesore)
-DESCRIPTION:13 Mesore 1742 AM - The Transfiguration of Christ on Mount Tabor (Matthew 17:1-8).
-CATEGORIES:m
+SUMMARY:✨ Transfiguration (13 Mesore)
+DESCRIPTION:13 Mesore 1742 AM — Transfiguration of Christ on Mount Tabor (Matt 17:1-8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-69@coptic-calendar.app
 DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Transfiguration (13 Mesore)
-DESCRIPTION:13 Mesore 1742 AM - The Transfiguration of Christ on Mount Tabor (Matthew 17:1-8).
-CATEGORIES:m
+SUMMARY:✨ Transfiguration (13 Mesore)
+DESCRIPTION:13 Mesore 1742 AM — Transfiguration of Christ on Mount Tabor (Matt 17:1-8)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-72@coptic-calendar.app
 DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Assumption of St. Mary (16 Mesore)
-DESCRIPTION:16 Mesore 1742 AM - Assumption of the body of the Blessed Virgin Mary into heaven.
-CATEGORIES:m
+SUMMARY:🕊️ Assumption of St. Mary (16 Mesore)
+DESCRIPTION:16 Mesore 1742 AM — Assumption of the Blessed Virgin Mary into heaven
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-72@coptic-calendar.app
 DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Assumption of St. Mary (16 Mesore)
-DESCRIPTION:16 Mesore 1742 AM - Assumption of the body of the Blessed Virgin Mary into heaven.
-CATEGORIES:m
+SUMMARY:🕊️ Assumption of St. Mary (16 Mesore)
+DESCRIPTION:16 Mesore 1742 AM — Assumption of the Blessed Virgin Mary into heaven
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-75@coptic-calendar.app
 DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Nayrouz - Coptic New Year 1743 AM (1 Thoout)
-DESCRIPTION:1 Thoout 1743 AM - Feast of the Martyrs. Beginning of the Coptic year. Crown of the Year.
-CATEGORIES:m
+SUMMARY:🎊 Nayrouz - Coptic New Year 1743 AM (1 Thoout)
+DESCRIPTION:1 Thoout 1743 AM — Feast of the Martyrs, crown of the year
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-75@coptic-calendar.app
 DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Nayrouz - Coptic New Year 1743 AM (1 Thoout)
-DESCRIPTION:1 Thoout 1743 AM - Feast of the Martyrs. Beginning of the Coptic year. Crown of the Year.
-CATEGORIES:m
+SUMMARY:🎊 Nayrouz - Coptic New Year 1743 AM (1 Thoout)
+DESCRIPTION:1 Thoout 1743 AM — Feast of the Martyrs, crown of the year
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-80@coptic-calendar.app
 DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Feast of the Cross (Day 1) (17 Thoout)
-DESCRIPTION:17 Thoout 1743 AM - Three-day feast commemorating the discovery of the True Cross by Empress Helena.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:17 Thoout 1743 AM — Discovery of the True Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-80@coptic-calendar.app
 DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Feast of the Cross (Day 1) (17 Thoout)
-DESCRIPTION:17 Thoout 1743 AM - Three-day feast commemorating the discovery of the True Cross by Empress Helena.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:17 Thoout 1743 AM — Discovery of the True Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-81@coptic-calendar.app
 DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Feast of the Cross (Day 2) (18 Thoout)
-DESCRIPTION:18 Thoout 1743 AM - Continuation of the Feast of the Cross.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:18 Thoout 1743 AM — Feast of the Cross continues
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-81@coptic-calendar.app
 DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Feast of the Cross (Day 2) (18 Thoout)
-DESCRIPTION:18 Thoout 1743 AM - Continuation of the Feast of the Cross.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:18 Thoout 1743 AM — Feast of the Cross continues
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-82@coptic-calendar.app
 DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Feast of the Cross (Day 3) (19 Thoout)
-DESCRIPTION:19 Thoout 1743 AM - Third day of the Feast of the Cross.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:19 Thoout 1743 AM — Third day of the Feast of the Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-82@coptic-calendar.app
 DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Feast of the Cross (Day 3) (19 Thoout)
-DESCRIPTION:19 Thoout 1743 AM - Third day of the Feast of the Cross.
-CATEGORIES:m
+SUMMARY:✝️ Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:19 Thoout 1743 AM — Third day of the Feast of the Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-1@coptic-calendar.app
 DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260103
-SUMMARY:St. Ignatius of Antioch (24 Kiahk)
-DESCRIPTION:24 Kiahk 1742 AM - Bishop of Antioch and early Church Father. Fed to lions in Rome c. 108 AD. Author of seven epistles.
-CATEGORIES:c
+SUMMARY:☦️ St. Ignatius of Antioch (24 Kiahk)
+DESCRIPTION:24 Kiahk 1742 AM — Bishop of Antioch and early Church Father, fed to lions in Rome c. 108 AD
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-4@coptic-calendar.app
 DTSTART;VALUE=DATE:20260112
-DTEND;VALUE=DATE:20260113
-SUMMARY:St. John the Apostle (4 Tobe)
-DESCRIPTION:4 Tobe 1742 AM - The beloved disciple, author of the Gospel of John, three Epistles, and the Book of Revelation.
-CATEGORIES:c
+SUMMARY:☦️ St. John the Apostle (4 Tobe)
+DESCRIPTION:4 Tobe 1742 AM — Beloved disciple, author of the Gospel of John and Revelation
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-8@coptic-calendar.app
 DTSTART;VALUE=DATE:20260121
-DTEND;VALUE=DATE:20260122
-SUMMARY:St. Demiana and the 40 Virgins (13 Tobe)
-DESCRIPTION:13 Tobe 1742 AM - Virgin martyr who inspired 40 companions to remain faithful. Martyred under Diocletian.
-CATEGORIES:c
+SUMMARY:☦️ St. Demiana and the 40 Virgins (13 Tobe)
+DESCRIPTION:13 Tobe 1742 AM — Virgin martyr who inspired 40 companions under Diocletian
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-9@coptic-calendar.app
 DTSTART;VALUE=DATE:20260122
-DTEND;VALUE=DATE:20260123
-SUMMARY:St. Maximus (14 Tobe)
-DESCRIPTION:14 Tobe 1742 AM - Desert father known for confession and asceticism in the Egyptian desert.
-CATEGORIES:c
+SUMMARY:☦️ St. Maximus (14 Tobe)
+DESCRIPTION:14 Tobe 1742 AM — Desert father known for asceticism
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-10@coptic-calendar.app
 DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-SUMMARY:St. Domadius (17 Tobe)
-DESCRIPTION:17 Tobe 1742 AM - Desert father known for his extreme asceticism and prayer life.
-CATEGORIES:c
+SUMMARY:☦️ St. Domadius (17 Tobe)
+DESCRIPTION:17 Tobe 1742 AM — Desert father known for extreme asceticism and prayer
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-11@coptic-calendar.app
 DTSTART;VALUE=DATE:20260130
-DTEND;VALUE=DATE:20260131
-SUMMARY:St. Anthony the Great (22 Tobe)
-DESCRIPTION:22 Tobe 1742 AM - Father of all monks. Lived 105 years in the Egyptian desert. His life was written by St. Athanasius.
-CATEGORIES:c
+SUMMARY:☦️ St. Anthony the Great (22 Tobe)
+DESCRIPTION:22 Tobe 1742 AM — Father of all monks. Lived 105 years in the Egyptian desert
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-15@coptic-calendar.app
 DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:Council of Constantinople (381 AD) (1 Meshir)
-DESCRIPTION:1 Meshir 1742 AM - Second Ecumenical Council. Affirmed the divinity of the Holy Spirit and expanded the Nicene Creed.
-CATEGORIES:c
+SUMMARY:☦️ Council of Constantinople (381 AD) (1 Meshir)
+DESCRIPTION:1 Meshir 1742 AM — Second Ecumenical Council, affirmed the divinity of the Holy Spirit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-16@coptic-calendar.app
 DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-SUMMARY:St. Paul the First Hermit (2 Meshir)
-DESCRIPTION:2 Meshir 1742 AM - First Christian hermit. Lived in a cave in the Egyptian desert for nearly 100 years.
-CATEGORIES:c
+SUMMARY:☦️ St. Paul the First Hermit (2 Meshir)
+DESCRIPTION:2 Meshir 1742 AM — First Christian hermit, lived in a cave for nearly 100 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-19@coptic-calendar.app
 DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260218
-SUMMARY:St. James son of Alphaeus (10 Meshir)
-DESCRIPTION:10 Meshir 1742 AM - One of the twelve apostles. Also known as James the Less. Martyred by stoning in Jerusalem.
-CATEGORIES:c
+SUMMARY:☦️ St. James son of Alphaeus (10 Meshir)
+DESCRIPTION:10 Meshir 1742 AM — One of the twelve apostles, martyred by stoning in Jerusalem
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-20@coptic-calendar.app
 DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260222
-SUMMARY:St. Severus of Antioch (14 Meshir)
-DESCRIPTION:14 Meshir 1742 AM - Patriarch of Antioch (512-538 AD). Defender of Miaphysite Christology and prolific theologian.
-CATEGORIES:c
+SUMMARY:☦️ St. Severus of Antioch (14 Meshir)
+DESCRIPTION:14 Meshir 1742 AM — Patriarch of Antioch (512-538 AD), Miaphysite theologian
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-21@coptic-calendar.app
 DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260224
-SUMMARY:St. Elizabeth (16 Meshir)
-DESCRIPTION:16 Meshir 1742 AM - Mother of St. John the Baptist and cousin of the Virgin Mary. Her story is told in Luke 1.
-CATEGORIES:c
+SUMMARY:☦️ St. Elizabeth (16 Meshir)
+DESCRIPTION:16 Meshir 1742 AM — Mother of St. John the Baptist and cousin of the Virgin Mary
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-22@coptic-calendar.app
 DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
-SUMMARY:St. Mina the Monk (17 Meshir)
-DESCRIPTION:17 Meshir 1742 AM - Egyptian monk and ascetic of the desert.
-CATEGORIES:c
+SUMMARY:☦️ St. Mina the Monk (17 Meshir)
+DESCRIPTION:17 Meshir 1742 AM — Egyptian monk and ascetic of the desert
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-23@coptic-calendar.app
 DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260303
-SUMMARY:St. Eusebius of Caesarea (23 Meshir)
-DESCRIPTION:23 Meshir 1742 AM - Father of Church History. Bishop of Caesarea and author of the Ecclesiastical History.
-CATEGORIES:c
+SUMMARY:☦️ St. Eusebius of Caesarea (23 Meshir)
+DESCRIPTION:23 Meshir 1742 AM — Father of Church History
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-24@coptic-calendar.app
 DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
-SUMMARY:St. Polycarp of Smyrna (29 Meshir)
-DESCRIPTION:29 Meshir 1742 AM - Disciple of St. John the Apostle. Bishop of Smyrna. Martyred by burning at age 86 (c. 155 AD).
-CATEGORIES:c
+SUMMARY:☦️ St. Polycarp of Smyrna (29 Meshir)
+DESCRIPTION:29 Meshir 1742 AM — Disciple of St. John, martyred at age 86 (c. 155 AD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-25@coptic-calendar.app
 DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Pope Cyril VI (30 Meshir)
-DESCRIPTION:30 Meshir 1742 AM - 116th Pope of Alexandria (1959-1971). Known for miracles and deep prayer life. Built St. Mina monastery.
-CATEGORIES:c
+SUMMARY:☦️ Pope Cyril VI (30 Meshir)
+DESCRIPTION:30 Meshir 1742 AM — 116th Pope of Alexandria (1959-1971), known for miracles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-26@coptic-calendar.app
 DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
-SUMMARY:St. Sarapamon (5 Paremhotep)
-DESCRIPTION:5 Paremhotep 1742 AM - Bishop of Nikiou. Martyred during the Diocletian persecution. Known as the veiled bishop.
-CATEGORIES:c
+SUMMARY:☦️ St. Sarapamon (5 Paremhotep)
+DESCRIPTION:5 Paremhotep 1742 AM — Bishop of Nikiou, martyred during Diocletian persecution
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-27@coptic-calendar.app
 DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260318
-SUMMARY:St. Matthias the Apostle (8 Paremhotep)
-DESCRIPTION:8 Paremhotep 1742 AM - Chosen to replace Judas Iscariot (Acts 1:26). Preached in Judea and was martyred.
-CATEGORIES:c
+SUMMARY:☦️ St. Matthias the Apostle (8 Paremhotep)
+DESCRIPTION:8 Paremhotep 1742 AM — Chosen to replace Judas (Acts 1:26)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-29@coptic-calendar.app
 DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-SUMMARY:St. Sidhom Bishay (17 Paremhotep)
-DESCRIPTION:17 Paremhotep 1742 AM - Coptic layman martyred in Damietta (1844). Last Coptic martyr before the modern era.
-CATEGORIES:c
+SUMMARY:☦️ St. Sidhom Bishay (17 Paremhotep)
+DESCRIPTION:17 Paremhotep 1742 AM — Coptic layman martyred in Damietta (1844)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-30@coptic-calendar.app
 DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:Apparition at Zeitoun (24 Paremhotep)
-DESCRIPTION:24 Paremhotep 1742 AM - Apparition of the Blessed Virgin Mary above Zeitoun Church, Cairo (1968). Witnessed by millions.
-CATEGORIES:c
+SUMMARY:☦️ Apparition at Zeitoun (24 Paremhotep)
+DESCRIPTION:24 Paremhotep 1742 AM — Apparition of the Virgin Mary above Zeitoun Church Cairo (1968)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-33@coptic-calendar.app
 DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:St. Macarius the Great (27 Paremhotep)
-DESCRIPTION:27 Paremhotep 1742 AM - Father of Scetis monasticism. Founded the monastery in Wadi El Natrun. Departed 390 AD.
-CATEGORIES:c
+SUMMARY:☦️ St. Macarius the Great (27 Paremhotep)
+DESCRIPTION:27 Paremhotep 1742 AM — Father of Scetis monasticism, Wadi El Natrun
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-35@coptic-calendar.app
 DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260407
-SUMMARY:Emperor Constantine the Great (28 Paremhotep)
-DESCRIPTION:28 Paremhotep 1742 AM - First Christian Roman Emperor. Convened the Council of Nicaea (325 AD). Departed 337 AD.
-CATEGORIES:c
+SUMMARY:☦️ Emperor Constantine the Great (28 Paremhotep)
+DESCRIPTION:28 Paremhotep 1742 AM — First Christian Roman Emperor, convened Nicaea 325 AD
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-40@coptic-calendar.app
 DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:St. Mary of Egypt (6 Parmoute)
-DESCRIPTION:6 Parmoute 1742 AM - Repentant saint who lived 47 years in the desert. Model of repentance in the Coptic tradition.
-CATEGORIES:c
+SUMMARY:☦️ St. Mary of Egypt (6 Parmoute)
+DESCRIPTION:6 Parmoute 1742 AM — Repentant saint who lived 47 years in the desert
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-41@coptic-calendar.app
 DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-SUMMARY:St. James the Apostle (17 Parmoute)
-DESCRIPTION:17 Parmoute 1742 AM - Son of Zebedee, brother of John. First apostle to be martyred (Acts 12:2).
-CATEGORIES:c
+SUMMARY:☦️ St. James the Apostle (17 Parmoute)
+DESCRIPTION:17 Parmoute 1742 AM — Son of Zebedee, first apostle martyred (Acts 12:2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-42@coptic-calendar.app
 DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:St. George the Martyr (23 Parmoute)
-DESCRIPTION:23 Parmoute 1742 AM - Roman soldier and Great Martyr. Patron saint of many Coptic churches. Martyred c. 303 AD.
-CATEGORIES:c
+SUMMARY:☦️ St. George the Martyr (23 Parmoute)
+DESCRIPTION:23 Parmoute 1742 AM — Roman soldier and Great Martyr
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-43@coptic-calendar.app
 DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:St. Mark the Evangelist (30 Parmoute)
-DESCRIPTION:30 Parmoute 1742 AM - Author of the Gospel of Mark. Founder of the Church of Alexandria. First Pope of the Coptic Church.
-CATEGORIES:c
+SUMMARY:☦️ St. Mark the Evangelist (30 Parmoute)
+DESCRIPTION:30 Parmoute 1742 AM — Founder of the Church of Alexandria
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-44@coptic-calendar.app
 DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:St. Athanasius the Apostolic (7 Pashons)
-DESCRIPTION:7 Pashons 1742 AM - 20th Pope of Alexandria. Champion of Orthodoxy against Arianism. Author of the Nicene Creed defence.
-CATEGORIES:c
+SUMMARY:☦️ St. Athanasius the Apostolic (7 Pashons)
+DESCRIPTION:7 Pashons 1742 AM — 20th Pope of Alexandria, champion against Arianism
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-46@coptic-calendar.app
 DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-SUMMARY:St. Pachomius (14 Pashons)
-DESCRIPTION:14 Pashons 1742 AM - Father of communal monasticism. Founded the first cenobitic monastery in Upper Egypt.
-CATEGORIES:c
+SUMMARY:☦️ St. Pachomius (14 Pashons)
+DESCRIPTION:14 Pashons 1742 AM — Father of communal monasticism
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-47@coptic-calendar.app
 DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:St. Simon the Zealot (15 Pashons)
-DESCRIPTION:15 Pashons 1742 AM - One of the twelve apostles. Preached in Africa and was martyred by crucifixion.
-CATEGORIES:c
+SUMMARY:☦️ St. Simon the Zealot (15 Pashons)
+DESCRIPTION:15 Pashons 1742 AM — One of the twelve, preached in Africa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-51@coptic-calendar.app
 DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:St. Thomas the Apostle (26 Pashons)
-DESCRIPTION:26 Pashons 1742 AM - One of the twelve apostles. Preached in India where he was martyred.
-CATEGORIES:c
+SUMMARY:☦️ St. Thomas the Apostle (26 Pashons)
+DESCRIPTION:26 Pashons 1742 AM — One of the twelve, preached in India
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-52@coptic-calendar.app
 DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Anba Abraam, Bishop of Fayoum (3 Paone)
-DESCRIPTION:3 Paone 1742 AM - Bishop of Fayoum (1829-1914). Known as the Friend of the Poor for his extreme generosity.
-CATEGORIES:c
+SUMMARY:☦️ Anba Abraam Bishop of Fayoum (3 Paone)
+DESCRIPTION:3 Paone 1742 AM — Friend of the Poor (1829-1914)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-53@coptic-calendar.app
 DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:St. Didymus the Blind (6 Paone)
-DESCRIPTION:6 Paone 1742 AM - Theologian of Alexandria who was blind from age 4. Head of the Catechetical School.
-CATEGORIES:c
+SUMMARY:☦️ St. Didymus the Blind (6 Paone)
+DESCRIPTION:6 Paone 1742 AM — Head of Catechetical School of Alexandria
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-54@coptic-calendar.app
 DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-SUMMARY:St. Onuphrius (Anba Noufer) (16 Paone)
-DESCRIPTION:16 Paone 1742 AM - Great desert hermit who lived 60 years in solitude. His story was told by Abba Paphnutius.
-CATEGORIES:c
+SUMMARY:☦️ St. Onuphrius (Anba Noufer) (16 Paone)
+DESCRIPTION:16 Paone 1742 AM — Desert hermit, 60 years in solitude
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-55@coptic-calendar.app
 DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-SUMMARY:Pope Cyril of Alexandria (20 Paone)
-DESCRIPTION:20 Paone 1742 AM - 24th Pope of Alexandria. Defender of the title Theotokos at the Council of Ephesus (431 AD).
-CATEGORIES:c
+SUMMARY:☦️ Pope Cyril of Alexandria (20 Paone)
+DESCRIPTION:20 Paone 1742 AM — Defended Theotokos at Council of Ephesus (431 AD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-56@coptic-calendar.app
 DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260702
-SUMMARY:St. Moses the Black (24 Paone)
-DESCRIPTION:24 Paone 1742 AM - Former robber who became a desert monk. Ordained priest and martyred c. 405 AD.
-CATEGORIES:c
+SUMMARY:☦️ St. Moses the Black (24 Paone)
+DESCRIPTION:24 Paone 1742 AM — Former robber turned desert monk, martyred c. 405 AD
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-57@coptic-calendar.app
 DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:St. Jude Thaddaeus (2 Epep)
-DESCRIPTION:2 Epep 1742 AM - One of the twelve apostles. Also known as Lebbaeus. Preached in Syria and was martyred.
-CATEGORIES:c
+SUMMARY:☦️ St. Jude Thaddaeus (2 Epep)
+DESCRIPTION:2 Epep 1742 AM — One of the twelve apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-60@coptic-calendar.app
 DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:St. Shenouda the Archimandrite (7 Epep)
-DESCRIPTION:7 Epep 1742 AM - Father of the White Monastery. Greatest Coptic writer. Lived to over 100 years.
-CATEGORIES:c
+SUMMARY:☦️ St. Shenouda the Archimandrite (7 Epep)
+DESCRIPTION:7 Epep 1742 AM — Father of the White Monastery
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-61@coptic-calendar.app
 DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:St. Bishoy / St. Karas (8 Epep)
-DESCRIPTION:8 Epep 1742 AM - St. Bishoy, beloved of Christ, body remains incorrupt. St. Karas the Anchorite, extreme austerity.
-CATEGORIES:c
+SUMMARY:☦️ St. Bishoy / St. Karas (8 Epep)
+DESCRIPTION:8 Epep 1742 AM — Beloved of Christ / The Anchorite
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-62@coptic-calendar.app
 DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:St. Ephrem the Syrian (15 Epep)
-DESCRIPTION:15 Epep 1742 AM - Deacon and prolific hymn writer. 'Harp of the Holy Spirit.' Doctor of the Church.
-CATEGORIES:c
+SUMMARY:☦️ St. Ephrem the Syrian (15 Epep)
+DESCRIPTION:15 Epep 1742 AM — Harp of the Holy Spirit, deacon and hymn writer
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-63@coptic-calendar.app
 DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260728
-SUMMARY:St. Theodore the General (20 Epep)
-DESCRIPTION:20 Epep 1742 AM - Roman general martyred for his faith. One of the most venerated military saints.
-CATEGORIES:c
+SUMMARY:☦️ St. Theodore the General (20 Epep)
+DESCRIPTION:20 Epep 1742 AM — Roman general martyred for his faith
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-64@coptic-calendar.app
 DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:St. Marina / St. Longinus (23 Epep)
-DESCRIPTION:23 Epep 1742 AM - St. Marina, virgin martyr who defeated the devil. St. Longinus, centurion who pierced Christ's side.
-CATEGORIES:c
+SUMMARY:☦️ St. Marina / St. Longinus (23 Epep)
+DESCRIPTION:23 Epep 1742 AM — Virgin martyr / Centurion at the Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-65@coptic-calendar.app
 DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:St. Abanoub (24 Epep)
-DESCRIPTION:24 Epep 1742 AM - Child martyr of Samanoud. Martyred at age 12 during the Diocletian persecution.
-CATEGORIES:c
+SUMMARY:☦️ St. Abanoub (24 Epep)
+DESCRIPTION:24 Epep 1742 AM — Child martyr of Samanoud, age 12
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-66@coptic-calendar.app
 DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:St. Joseph the Carpenter (26 Epep)
-DESCRIPTION:26 Epep 1742 AM - Foster father of Christ and husband of the Virgin Mary. Patron of families and workers.
-CATEGORIES:c
+SUMMARY:☦️ St. Joseph the Carpenter (26 Epep)
+DESCRIPTION:26 Epep 1742 AM — Foster father of Christ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-68@coptic-calendar.app
 DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Pope Timothy II (7 Mesore)
-DESCRIPTION:7 Mesore 1742 AM - 26th Pope of Alexandria (457-477 AD). Defended Orthodoxy during turbulent times.
-CATEGORIES:c
+SUMMARY:☦️ Pope Timothy II (7 Mesore)
+DESCRIPTION:7 Mesore 1742 AM — 26th Pope of Alexandria (457-477 AD)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-70@coptic-calendar.app
 DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Habib Guirguis (15 Mesore)
-DESCRIPTION:15 Mesore 1742 AM - Archdeacon and great educator of the Coptic Church (1876-1951). Pioneer of Sunday School movement.
-CATEGORIES:c
+SUMMARY:☦️ Habib Guirguis (15 Mesore)
+DESCRIPTION:15 Mesore 1742 AM — Archdeacon and educator (1876-1951)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-73@coptic-calendar.app
 DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:St. Augustine of Hippo (22 Mesore)
-DESCRIPTION:22 Mesore 1742 AM - Bishop of Hippo and Doctor of the Church. Author of Confessions and City of God.
-CATEGORIES:c
+SUMMARY:☦️ St. Augustine of Hippo (22 Mesore)
+DESCRIPTION:22 Mesore 1742 AM — Bishop of Hippo, author of Confessions
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-74@coptic-calendar.app
 DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:St. Habakkuk the Prophet (28 Mesore)
-DESCRIPTION:28 Mesore 1742 AM - Old Testament prophet. Author of the Book of Habakkuk. 'The just shall live by faith.'
-CATEGORIES:c
+SUMMARY:☦️ St. Habakkuk the Prophet (28 Mesore)
+DESCRIPTION:28 Mesore 1742 AM — Old Testament prophet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-76@coptic-calendar.app
 DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:St. John the Baptist (2 Thoout)
-DESCRIPTION:2 Thoout 1743 AM - Forerunner of Christ. Baptized the Lord in the Jordan. 'He must increase, I must decrease.'
-CATEGORIES:c
+SUMMARY:☦️ St. John the Baptist (2 Thoout)
+DESCRIPTION:2 Thoout 1743 AM — Forerunner of Christ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-77@coptic-calendar.app
 DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:St. Verena (4 Thoout)
-DESCRIPTION:4 Thoout 1743 AM - Egyptian saint who traveled to Switzerland. Known for healing and teaching hygiene.
-CATEGORIES:c
+SUMMARY:☦️ St. Verena (4 Thoout)
+DESCRIPTION:4 Thoout 1743 AM — Egyptian saint in Switzerland
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-78@coptic-calendar.app
 DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:St. Rebecca and her 5 Children (7 Thoout)
-DESCRIPTION:7 Thoout 1743 AM - Mother who encouraged her five children to accept martyrdom. Model of faithful motherhood.
-CATEGORIES:c
+SUMMARY:☦️ St. Rebecca and her 5 Children (7 Thoout)
+DESCRIPTION:7 Thoout 1743 AM — Model of faithful motherhood
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-79@coptic-calendar.app
 DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Council of Ephesus (431 AD) (12 Thoout)
-DESCRIPTION:12 Thoout 1743 AM - Third Ecumenical Council. Affirmed Mary as Theotokos. Condemned Nestorianism.
-CATEGORIES:c
+SUMMARY:☦️ Council of Ephesus (431 AD) (12 Thoout)
+DESCRIPTION:12 Thoout 1743 AM — Third Ecumenical Council, affirmed Mary as Theotokos
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-83@coptic-calendar.app
 DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:St. Maurice / Jonah the Prophet (25 Thoout)
-DESCRIPTION:25 Thoout 1743 AM - St. Maurice: commander of the Theban Legion. Jonah: prophet who preached to Nineveh.
-CATEGORIES:c
+SUMMARY:☦️ St. Maurice / Jonah the Prophet (25 Thoout)
+DESCRIPTION:25 Thoout 1743 AM — Commander of the Theban Legion / Prophet
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-84@coptic-calendar.app
 DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:St. Anastasia (1 Paope)
-DESCRIPTION:1 Paope 1743 AM - Roman martyr during the Diocletian persecution. Known for secretly helping imprisoned Christians.
-CATEGORIES:c
+SUMMARY:☦️ St. Anastasia (1 Paope)
+DESCRIPTION:1 Paope 1743 AM — Roman martyr, helped imprisoned Christians
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-85@coptic-calendar.app
 DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:St. Bacchus (4 Paope)
-DESCRIPTION:4 Paope 1743 AM - Roman soldier martyred for his faith alongside St. Sergius. Patron of many Coptic churches.
-CATEGORIES:c
+SUMMARY:☦️ St. Bacchus (4 Paope)
+DESCRIPTION:4 Paope 1743 AM — Roman soldier martyred alongside St. Sergius
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-86@coptic-calendar.app
 DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:St. Paul the Simple (7 Paope)
-DESCRIPTION:7 Paope 1743 AM - Disciple of St. Anthony. Known for extreme simplicity and obedience. Could cast out demons.
-CATEGORIES:c
+SUMMARY:☦️ St. Paul the Simple (7 Paope)
+DESCRIPTION:7 Paope 1743 AM — Disciple of St. Anthony
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-87@coptic-calendar.app
 DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:St. Sergius (10 Paope)
-DESCRIPTION:10 Paope 1743 AM - Roman soldier and companion of St. Bacchus. Martyred for refusing to worship idols.
-CATEGORIES:c
+SUMMARY:☦️ St. Sergius (10 Paope)
+DESCRIPTION:10 Paope 1743 AM — Companion of St. Bacchus, martyred
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-88@coptic-calendar.app
 DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:St. Matthew the Evangelist (12 Paope)
-DESCRIPTION:12 Paope 1743 AM - Tax collector who became one of the twelve. Author of the Gospel of Matthew.
-CATEGORIES:c
+SUMMARY:☦️ St. Matthew the Evangelist (12 Paope)
+DESCRIPTION:12 Paope 1743 AM — Tax collector turned apostle
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-89@coptic-calendar.app
 DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:St. John Chrysostom (16 Paope)
-DESCRIPTION:16 Paope 1743 AM - 'Golden-mouthed' preacher. Archbishop of Constantinople. One of the greatest Church Fathers.
-CATEGORIES:c
+SUMMARY:☦️ St. John Chrysostom (16 Paope)
+DESCRIPTION:16 Paope 1743 AM — Golden-mouthed preacher
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-90@coptic-calendar.app
 DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:St. Reweis (21 Paope)
-DESCRIPTION:21 Paope 1743 AM - Simple Coptic saint known for his childlike faith and miraculous deeds.
-CATEGORIES:c
+SUMMARY:☦️ St. Reweis (21 Paope)
+DESCRIPTION:21 Paope 1743 AM — Simple saint, childlike faith
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-91@coptic-calendar.app
 DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:St. Luke the Evangelist (22 Paope)
-DESCRIPTION:22 Paope 1743 AM - Physician and companion of St. Paul. Author of the Gospel of Luke and Acts of the Apostles.
-CATEGORIES:c
+SUMMARY:☦️ St. Luke the Evangelist (22 Paope)
+DESCRIPTION:22 Paope 1743 AM — Physician, author of Luke and Acts
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-92@coptic-calendar.app
 DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:St. Simon the Tanner (5 Hator)
-DESCRIPTION:5 Hator 1743 AM - Coptic cobbler whose faith moved the Mokattam Mountain in Cairo (10th century).
-CATEGORIES:c
+SUMMARY:☦️ St. Simon the Tanner (5 Hator)
+DESCRIPTION:5 Hator 1743 AM — Moved the Mokattam Mountain
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-93@coptic-calendar.app
 DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Council of Nicaea (325 AD) (9 Hator)
-DESCRIPTION:9 Hator 1743 AM - First Ecumenical Council. Formulated the Nicene Creed. Condemned Arianism.
-CATEGORIES:c
+SUMMARY:☦️ Council of Nicaea (325 AD) (9 Hator)
+DESCRIPTION:9 Hator 1743 AM — First Ecumenical Council, Nicene Creed
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-94@coptic-calendar.app
 DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:St. Mina the Miraculous (15 Hator)
-DESCRIPTION:15 Hator 1743 AM - Egyptian soldier martyred in Phrygia. Known for countless miracles. Major pilgrimage site.
-CATEGORIES:c
+SUMMARY:☦️ St. Mina the Miraculous (15 Hator)
+DESCRIPTION:15 Hator 1743 AM — Martyred in Phrygia, known for miracles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-96@coptic-calendar.app
 DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:St. John Chrysostom (17 Hator)
-DESCRIPTION:17 Hator 1743 AM - Departure commemoration of the golden-mouthed preacher.
-CATEGORIES:c
+SUMMARY:☦️ St. John Chrysostom (17 Hator)
+DESCRIPTION:17 Hator 1743 AM — Departure commemoration
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-97@coptic-calendar.app
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:St. Philip the Apostle (18 Hator)
-DESCRIPTION:18 Hator 1743 AM - One of the twelve apostles. From Bethsaida. Led Nathanael to Christ (John 1:43-46).
-CATEGORIES:c
+SUMMARY:☦️ St. Philip the Apostle (18 Hator)
+DESCRIPTION:18 Hator 1743 AM — Led Nathanael to Christ (John 1:43-46)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-98@coptic-calendar.app
 DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Cosmas and Damian (22 Hator)
-DESCRIPTION:22 Hator 1743 AM - Unmercenary physicians. Treated the sick without charge. Martyred during Diocletian persecution.
-CATEGORIES:c
+SUMMARY:☦️ Cosmas and Damian (22 Hator)
+DESCRIPTION:22 Hator 1743 AM — Unmercenary physicians
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-99@coptic-calendar.app
 DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Philopater Mercurius (Abu Sefein) (25 Hator)
-DESCRIPTION:25 Hator 1743 AM - 'Father of Two Swords.' Roman soldier and Great Martyr.
-CATEGORIES:c
+SUMMARY:☦️ Philopater Mercurius (Abu Sefein) (25 Hator)
+DESCRIPTION:25 Hator 1743 AM — Father of Two Swords
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-100@coptic-calendar.app
 DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:St. Gregory of Nyssa (26 Hator)
-DESCRIPTION:26 Hator 1743 AM - Cappadocian Father. Bishop of Nyssa. Major theologian of the Trinity and human nature.
-CATEGORIES:c
+SUMMARY:☦️ St. Gregory of Nyssa (26 Hator)
+DESCRIPTION:26 Hator 1743 AM — Cappadocian Father
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-101@coptic-calendar.app
 DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:St. Peter Seal of Martyrs (29 Hator)
-DESCRIPTION:29 Hator 1743 AM - 17th Pope of Alexandria (300-311 AD). Last martyr of the Diocletian persecution.
-CATEGORIES:c
+SUMMARY:☦️ St. Peter Seal of Martyrs (29 Hator)
+DESCRIPTION:29 Hator 1743 AM — 17th Pope of Alexandria
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-102@coptic-calendar.app
 DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:St. Andrew the Apostle (4 Kiahk)
-DESCRIPTION:4 Kiahk 1743 AM - First-called of the apostles. Brother of Peter. Preached in Asia Minor and was crucified.
-CATEGORIES:c
+SUMMARY:☦️ St. Andrew the Apostle (4 Kiahk)
+DESCRIPTION:4 Kiahk 1743 AM — First-called, brother of Peter
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-103@coptic-calendar.app
 DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:Sts. Barbara and Juliana (8 Kiahk)
-DESCRIPTION:8 Kiahk 1743 AM - St. Barbara: daughter of a pagan noble, martyred with her companion St. Juliana.
-CATEGORIES:c
+SUMMARY:☦️ Sts. Barbara and Juliana (8 Kiahk)
+DESCRIPTION:8 Kiahk 1743 AM — Martyred companions
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-104@coptic-calendar.app
 DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:St. Nicholas of Myra (10 Kiahk)
-DESCRIPTION:10 Kiahk 1743 AM - Bishop of Myra. Attended Council of Nicaea. Known for generous charity to the poor.
-CATEGORIES:c
+SUMMARY:☦️ St. Nicholas of Myra (10 Kiahk)
+DESCRIPTION:10 Kiahk 1743 AM — Bishop of Myra, known for charity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-105@coptic-calendar.app
 DTSTART;VALUE=DATE:20261225
-DTEND;VALUE=DATE:20261226
-SUMMARY:Gideon the Judge (16 Kiahk)
-DESCRIPTION:16 Kiahk 1743 AM - Old Testament judge who defeated the Midianites with 300 men (Judges 7).
-CATEGORIES:c
+SUMMARY:☦️ Gideon the Judge (16 Kiahk)
+DESCRIPTION:16 Kiahk 1743 AM — Defeated Midianites with 300 men (Judges 7)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-106@coptic-calendar.app
 DTSTART;VALUE=DATE:20260104
-DTEND;VALUE=DATE:20260105
-SUMMARY:4th Sunday of Kiahk - Birth of John
-DESCRIPTION:Gospel: Luke 1:57-80 - Birth of John the Baptist and Zechariah's prophecy.
-CATEGORIES:SUNDAY
+SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
+DESCRIPTION:Gospel: Luke 1:57-80 — Birth of John the Baptist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-107@coptic-calendar.app
 DTSTART;VALUE=DATE:20260111
-DTEND;VALUE=DATE:20260112
-SUMMARY:1st Sunday of Tobe (3 Tobe)
+SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Tobe 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-108@coptic-calendar.app
 DTSTART;VALUE=DATE:20260118
-DTEND;VALUE=DATE:20260119
-SUMMARY:2nd Sunday of Tobe (10 Tobe)
+SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Tobe 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-109@coptic-calendar.app
 DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-SUMMARY:3rd Sunday of Tobe (17 Tobe)
+SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Tobe 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-110@coptic-calendar.app
 DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
-SUMMARY:4th Sunday of Tobe (24 Tobe)
+SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Tobe 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-111@coptic-calendar.app
 DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
-SUMMARY:1st Sunday of Meshir (1 Meshir)
+SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Meshir 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-112@coptic-calendar.app
 DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-SUMMARY:2nd Sunday of Meshir (8 Meshir)
+SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 8 Meshir 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-113@coptic-calendar.app
 DTSTART;VALUE=DATE:20260222
-DTEND;VALUE=DATE:20260223
-SUMMARY:1st Sunday of Lent - Treasures in Heaven
-DESCRIPTION:Gospel: Matthew 6:19-34 - Seek first the Kingdom of God.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
+DESCRIPTION:Gospel: Matthew 6:19-34 — Seek first the Kingdom of God
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-114@coptic-calendar.app
 DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260302
-SUMMARY:2nd Sunday of Lent - Temptation
-DESCRIPTION:Gospel: Matthew 4:1-11 - Christ's temptation in the wilderness.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 2nd Sunday of Lent — Temptation
+DESCRIPTION:Gospel: Matthew 4:1-11 — Christ tempted in the wilderness
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-115@coptic-calendar.app
 DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
-SUMMARY:3rd Sunday of Lent - Prodigal Son
-DESCRIPTION:Gospel: Luke 15:11-32 - Repentance in the Father's bosom.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
+DESCRIPTION:Gospel: Luke 15:11-32 — Repentance in the Fathers bosom
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-116@coptic-calendar.app
 DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
-SUMMARY:4th Sunday of Lent - Samaritan Woman
-DESCRIPTION:Gospel: John 4:1-42 - Worship the Father in Spirit and Truth.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
+DESCRIPTION:Gospel: John 4:1-42 — Worship the Father in Spirit and Truth
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-117@coptic-calendar.app
 DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
-SUMMARY:5th Sunday of Lent - Paralytic Man
-DESCRIPTION:Gospel: John 5:1-18 - Bethesda and Baptism.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 5th Sunday of Lent — Paralytic Man
+DESCRIPTION:Gospel: John 5:1-18 — Bethesda and Baptism
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-118@coptic-calendar.app
 DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
-SUMMARY:6th Sunday of Lent - Man Born Blind
-DESCRIPTION:Gospel: John 9:1-41 - Spiritual enlightenment.
-CATEGORIES:SUNDAY
+SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
+DESCRIPTION:Gospel: John 9:1-41 — Spiritual enlightenment
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-119@coptic-calendar.app
 DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:Palm Sunday (27 Paremhotep)
-DESCRIPTION:Triumphal entry of Christ into Jerusalem. Beginning of Holy Week.
-CATEGORIES:SUNDAY
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DESCRIPTION:Triumphal entry of Christ into Jerusalem — Holy Week begins
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-120@coptic-calendar.app
 DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:Resurrection Sunday
-DESCRIPTION:Christ is Risen! The Lord has risen indeed! Christos Anesti!
-CATEGORIES:SUNDAY
+SUMMARY:🌅 Resurrection Sunday
+DESCRIPTION:Christ is Risen! Christos Anesti!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-121@coptic-calendar.app
 DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:Thomas Sunday (2nd Holy 50)
-DESCRIPTION:Gospel: John 20:19-31 - Blessed are those who have not seen and yet believe.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 Thomas Sunday
+DESCRIPTION:Gospel: John 20:19-31 — Blessed are those who have not seen
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-122@coptic-calendar.app
 DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-SUMMARY:3rd Sunday of Holy 50 - Bread of Life
-DESCRIPTION:Gospel: John 6:35-45 - Christ the Bread of Life.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 3rd Sunday of Holy 50 — Bread of Life
+DESCRIPTION:Gospel: John 6:35-45 — Christ the Bread of Life
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-123@coptic-calendar.app
 DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:4th Sunday of Holy 50 - Water of Life
-DESCRIPTION:Gospel: John 4:14 - Christ the Water of Life.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 4th Sunday of Holy 50 — Water of Life
+DESCRIPTION:Gospel: John 4:14 — Christ the Water of Life
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-124@coptic-calendar.app
 DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-SUMMARY:5th Sunday of Holy 50 - Light of the World
-DESCRIPTION:Gospel: John 12:46 - Christ the Light of the World.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 5th Sunday of Holy 50 — Light of the World
+DESCRIPTION:Gospel: John 12:46 — Christ the Light of the World
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-125@coptic-calendar.app
 DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:6th Sunday of Holy 50 - Way, Truth, Life
-DESCRIPTION:Gospel: John 14:6 - I am the Way, the Truth, and the Life.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 6th Sunday of Holy 50 — Way Truth Life
+DESCRIPTION:Gospel: John 14:6 — I am the Way the Truth and the Life
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-126@coptic-calendar.app
 DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-SUMMARY:7th Sunday of Holy 50 - Conqueror of the World
-DESCRIPTION:Gospel: John 16:33 - Be of good cheer, I have overcome the world.
-CATEGORIES:SUNDAY
+SUMMARY:🟡 7th Sunday of Holy 50 — Conqueror
+DESCRIPTION:Gospel: John 16:33 — Be of good cheer I have overcome the world
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-127@coptic-calendar.app
 DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Pentecost Sunday
-DESCRIPTION:Descent of the Holy Spirit upon the Apostles, 50 days after Resurrection (Acts 2).
-CATEGORIES:SUNDAY
+SUMMARY:🔥 Pentecost Sunday
+DESCRIPTION:Descent of the Holy Spirit upon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-128@coptic-calendar.app
 DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:5th Sunday of Pashons (30 Pashons)
+SUMMARY:🟢 5th Sunday of Pashons (30 Pashons)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 30 Pashons 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-129@coptic-calendar.app
 DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-SUMMARY:1st Sunday of Paone (7 Paone)
+SUMMARY:🟢 1st Sunday of Paone (7 Paone)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 7 Paone 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-130@coptic-calendar.app
 DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:2nd Sunday of Paone (14 Paone)
+SUMMARY:🟢 2nd Sunday of Paone (14 Paone)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 14 Paone 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-131@coptic-calendar.app
 DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:3rd Sunday of Paone (21 Paone)
+SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 21 Paone 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-132@coptic-calendar.app
 DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-SUMMARY:4th Sunday of Paone (28 Paone)
+SUMMARY:🟢 4th Sunday of Paone (28 Paone)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 28 Paone 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-133@coptic-calendar.app
 DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:1st Sunday of Epep (5 Epep)
+SUMMARY:🟢 1st Sunday of Epep (5 Epep)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 5 Epep 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-134@coptic-calendar.app
 DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:2nd Sunday of Epep (12 Epep)
+SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 12 Epep 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-135@coptic-calendar.app
 DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:3rd Sunday of Epep (19 Epep)
+SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 19 Epep 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-136@coptic-calendar.app
 DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:4th Sunday of Epep (26 Epep)
+SUMMARY:🟢 4th Sunday of Epep (26 Epep)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 26 Epep 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-137@coptic-calendar.app
 DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-SUMMARY:1st Sunday of Mesore (3 Mesore)
+SUMMARY:🟢 1st Sunday of Mesore (3 Mesore)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Mesore 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-138@coptic-calendar.app
 DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:2nd Sunday of Mesore (10 Mesore)
+SUMMARY:🟢 2nd Sunday of Mesore (10 Mesore)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Mesore 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-139@coptic-calendar.app
 DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:3rd Sunday of Mesore (17 Mesore)
+SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Mesore 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-140@coptic-calendar.app
 DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:4th Sunday of Mesore (24 Mesore)
+SUMMARY:🟢 4th Sunday of Mesore (24 Mesore)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Mesore 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-141@coptic-calendar.app
 DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:1st Sunday of Nesi (1 Nesi)
+SUMMARY:🟢 1st Sunday of Nesi (1 Nesi)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Nesi 1742 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-142@coptic-calendar.app
 DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:1st Sunday of Thoout (3 Thoout)
+SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Thoout 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-143@coptic-calendar.app
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:2nd Sunday of Thoout (10 Thoout)
+SUMMARY:🟢 2nd Sunday of Thoout (10 Thoout)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Thoout 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-144@coptic-calendar.app
 DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:3rd Sunday of Thoout (17 Thoout)
+SUMMARY:🟢 3rd Sunday of Thoout (17 Thoout)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Thoout 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-145@coptic-calendar.app
 DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:4th Sunday of Thoout (24 Thoout)
+SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Thoout 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-146@coptic-calendar.app
 DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:1st Sunday of Paope (1 Paope)
+SUMMARY:🟢 1st Sunday of Paope (1 Paope)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Paope 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-147@coptic-calendar.app
 DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:2nd Sunday of Paope (8 Paope)
+SUMMARY:🟢 2nd Sunday of Paope (8 Paope)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 8 Paope 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-148@coptic-calendar.app
 DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:3rd Sunday of Paope (15 Paope)
+SUMMARY:🟢 3rd Sunday of Paope (15 Paope)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 15 Paope 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-149@coptic-calendar.app
 DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:4th Sunday of Paope (22 Paope)
+SUMMARY:🟢 4th Sunday of Paope (22 Paope)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 22 Paope 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-150@coptic-calendar.app
 DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:5th Sunday of Paope (29 Paope)
+SUMMARY:🟢 5th Sunday of Paope (29 Paope)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 29 Paope 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-151@coptic-calendar.app
 DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:1st Sunday of Hator (6 Hator)
+SUMMARY:🟢 1st Sunday of Hator (6 Hator)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 6 Hator 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-152@coptic-calendar.app
 DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:2nd Sunday of Hator (13 Hator)
+SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 13 Hator 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-153@coptic-calendar.app
 DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:3rd Sunday of Hator (20 Hator)
+SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 20 Hator 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-154@coptic-calendar.app
 DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:4th Sunday of Hator (27 Hator)
+SUMMARY:🟢 4th Sunday of Hator (27 Hator)
 DESCRIPTION:Regular Sunday liturgy. Coptic date: 27 Hator 1743 AM.
-CATEGORIES:SUNDAY
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-155@coptic-calendar.app
 DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-SUMMARY:1st Sunday of Kiahk - Annunciation to Zechariah
-DESCRIPTION:Gospel: Luke 1:1-25 - The angel announces the birth of John the Baptist.
-CATEGORIES:SUNDAY
+SUMMARY:🟢 1st Sunday of Kiahk — Annunciation to Zechariah
+DESCRIPTION:Gospel: Luke 1:1-25 — The angel announces the birth of John
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-156@coptic-calendar.app
 DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:2nd Sunday of Kiahk - Annunciation to Mary
-DESCRIPTION:Gospel: Luke 1:26-38 - The angel announces to St. Mary.
-CATEGORIES:SUNDAY
+SUMMARY:🟢 2nd Sunday of Kiahk — Annunciation to Mary
+DESCRIPTION:Gospel: Luke 1:26-38 — The angel announces to St. Mary
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-157@coptic-calendar.app
 DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:3rd Sunday of Kiahk - Visitation
-DESCRIPTION:Gospel: Luke 1:39-56 - St. Mary visits Elizabeth.
-CATEGORIES:SUNDAY
+SUMMARY:🟢 3rd Sunday of Kiahk — Visitation
+DESCRIPTION:Gospel: Luke 1:39-56 — St. Mary visits Elizabeth
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-158@coptic-calendar.app
 DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:4th Sunday of Kiahk - Birth of John
-DESCRIPTION:Gospel: Luke 1:57-80 - Birth of John the Baptist and Zechariah's prophecy.
-CATEGORIES:SUNDAY
+SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
+DESCRIPTION:Gospel: Luke 1:57-80 — Birth of John the Baptist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-2@coptic-calendar.app
 DTSTART;VALUE=DATE:20260106
-DTEND;VALUE=DATE:20260107
 SUMMARY:Nativity Fast Ends (28 Kiahk)
-DESCRIPTION:28 Kiahk 1742 AM - Conclusion of the 43-day Advent fast preparing for the Incarnation.
-CATEGORIES:e
+DESCRIPTION:28 Kiahk 1742 AM — Conclusion of the 43-day Advent fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-12@coptic-calendar.app
 DTSTART;VALUE=DATE:20260202
-DTEND;VALUE=DATE:20260203
-SUMMARY:Jonah's Fast Begins (25 Tobe)
-DESCRIPTION:25 Tobe 1742 AM - Three-day fast commemorating the fast of the people of Nineveh after Jonah's preaching.
-CATEGORIES:f
+SUMMARY:🐟 Jonah Fast Begins (25 Tobe)
+DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of the people of Nineveh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-13@coptic-calendar.app
 DTSTART;VALUE=DATE:20260204
-DTEND;VALUE=DATE:20260205
-SUMMARY:Jonah's Fast Ends (27 Tobe)
-DESCRIPTION:27 Tobe 1742 AM - Conclusion of the three-day Nineveh fast.
-CATEGORIES:e
+SUMMARY:Jonah Fast Ends (27 Tobe)
+DESCRIPTION:27 Tobe 1742 AM — Conclusion of the three-day Nineveh fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-18@coptic-calendar.app
 DTSTART;VALUE=DATE:20260216
-DTEND;VALUE=DATE:20260217
-SUMMARY:Great Lent Begins (9 Meshir)
-DESCRIPTION:9 Meshir 1742 AM - Beginning of the 55-day Great Lent. Strict vegan fast - no animal products.
-CATEGORIES:f
+SUMMARY:🐟 Great Lent Begins (9 Meshir)
+DESCRIPTION:9 Meshir 1742 AM — Beginning of the 55-day Great Lent, strict vegan fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-31@coptic-calendar.app
 DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
 SUMMARY:Last Friday of Lent (25 Paremhotep)
-DESCRIPTION:25 Paremhotep 1742 AM - Final Friday of the Great Lent before Lazarus Saturday and Holy Week.
-CATEGORIES:e
+DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy Week
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-38@coptic-calendar.app
 DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-SUMMARY:Good Friday (2 Parmoute)
-DESCRIPTION:2 Parmoute 1742 AM - Crucifixion and death of our Lord Jesus Christ for the salvation of the world.
-CATEGORIES:f
+SUMMARY:✝️ Good Friday (2 Parmoute)
+DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for the salvation of the world
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-50@coptic-calendar.app
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Apostles' Fast Begins (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM - Vegan fast in honour of the apostles. Begins the day after Pentecost.
-CATEGORIES:f
+SUMMARY:🐟 Apostles Fast Begins (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM — Vegan fast in honour of the apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-58@coptic-calendar.app
 DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:Apostles' Fast Ends (4 Epep)
-DESCRIPTION:4 Epep 1742 AM - Conclusion of the Apostles' Fast.
-CATEGORIES:e
+SUMMARY:Apostles Fast Ends (4 Epep)
+DESCRIPTION:4 Epep 1742 AM — Conclusion of the Apostles Fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-67@coptic-calendar.app
 DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-SUMMARY:St. Mary's Fast Begins (1 Mesore)
-DESCRIPTION:1 Mesore 1742 AM - 15-day vegan fast in honour of the Theotokos before the Feast of her Assumption.
-CATEGORIES:f
+SUMMARY:🐟 St. Mary Fast Begins (1 Mesore)
+DESCRIPTION:1 Mesore 1742 AM — 15-day vegan fast before the Assumption
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-71@coptic-calendar.app
 DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:St. Mary's Fast Ends (15 Mesore)
-DESCRIPTION:15 Mesore 1742 AM - Conclusion of the 15-day Theotokos fast.
-CATEGORIES:e
+SUMMARY:St. Mary Fast Ends (15 Mesore)
+DESCRIPTION:15 Mesore 1742 AM — Conclusion of the 15-day Theotokos fast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:coptic2026-95@coptic-calendar.app
 DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Nativity Fast Begins (16 Hator)
-DESCRIPTION:16 Hator 1743 AM - 43-day vegan fast preparing for the Feast of the Nativity.
-CATEGORIES:f
+SUMMARY:🐟 Nativity Fast Begins (16 Hator)
+DESCRIPTION:16 Hator 1743 AM — 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
