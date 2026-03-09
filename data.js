@@ -65,8 +65,9 @@ const CALENDAR_DATA = [
             '15: Presentation into the Temple',
             '15: 21 Coptic Martyrs of Libya',
             '16: Great Lent Begins',
+            '17: St. James son of Alphaeus',
             '21: St. Severus of Antioch',
-            '23: Hegumen Michael El Behairy / St. Elizabeth',
+            '23: St. Elizabeth / Hegumen Michael El Behairy',
             '24: St. Mina the Monk'
         ],
         quote: 'Fasting is the sacrifice of distancing from sins.',
@@ -81,7 +82,9 @@ const CALENDAR_DATA = [
             { day: 9, type: 'c', name: 'St. Paul the First Hermit', icon: 'st_paul_hermit' },
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
+            { day: 17, type: 'c', name: 'St. James son of Alphaeus' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
+            { day: 23, type: 'c', name: 'St. Elizabeth', icon: 'st_elizabeth' },
             { day: 23, type: 'c', name: 'Hegumen Michael El Behairy' },
             { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
         ],
@@ -138,7 +141,8 @@ const CALENDAR_DATA = [
             '02: Apparition at Zeitoun',
             '03: Last Friday of Lent',
             '04: Lazarus Saturday',
-            '05: Palm Sunday',
+            '05: St. Macarius the Great / Palm Sunday',
+            '06: Emperor Constantine the Great',
             '07: Annunciation',
             '09: Covenant Thursday',
             '10: Good Friday',
@@ -155,7 +159,9 @@ const CALENDAR_DATA = [
             { day: 2, type: 'c', name: 'Apparition at Zeitoun' },
             { day: 3, type: 'e', name: 'Last Friday of Lent' },
             { day: 4, type: 'm', name: 'Lazarus Saturday', icon: 'feast_lazarus' },
+            { day: 5, type: 'c', name: 'St. Macarius the Great', icon: 'st_macarius' },
             { day: 5, type: 'M', name: 'Palm Sunday', icon: 'feast_palm_sunday' },
+            { day: 6, type: 'c', name: 'Emperor Constantine the Great' },
             { day: 7, type: 'M', name: 'Annunciation', icon: 'feast_annunciation' },
             { day: 9, type: 'm', name: 'Covenant Thursday', icon: 'feast_covenant' },
             { day: 10, type: 'f', name: 'Good Friday' },
@@ -183,6 +189,7 @@ const CALENDAR_DATA = [
             '15: St. Athanasius the Apostolic',
             '21: Feast of Ascension',
             '22: St. Pachomius',
+            '23: St. Simon the Zealot',
             '31: Feast of Pentecost'
         ],
         quote: 'The Holy Spirit is the source of holiness.',
@@ -195,6 +202,7 @@ const CALENDAR_DATA = [
             { day: 15, type: 'c', name: 'St. Athanasius', icon: 'st_athanasius' },
             { day: 21, type: 'M', name: 'Feast of Ascension', icon: 'feast_ascension' },
             { day: 22, type: 'c', name: 'St. Pachomius', icon: 'st_pachomius' },
+            { day: 23, type: 'c', name: 'St. Simon the Zealot' },
             { day: 31, type: 'M', name: 'Feast of Pentecost', icon: 'feast_pentecost' },
         ],
         excludeMonthly: 0
@@ -246,6 +254,7 @@ const CALENDAR_DATA = [
         copticNext: 'Epep',
         synaxarium: [
             '01: St. Moses the Black',
+            '09: St. Jude Thaddaeus',
             '11: Apostles\' Fast Ends',
             '12: Sts. Peter and Paul',
             '14: St. Shenouda the Archimandrite',
@@ -261,6 +270,7 @@ const CALENDAR_DATA = [
         fastingTip: 'Apostles\' Fast ends July 11. Feast of Sts. Peter & Paul on July 12!',
         feasts: [
             { day: 1, type: 'c', name: 'St. Moses the Black', icon: 'st_moses_black' },
+            { day: 9, type: 'c', name: 'St. Jude Thaddaeus' },
             { day: 11, type: 'e', name: 'Apostles\' Fast Ends' },
             { day: 12, type: 'm', name: 'Sts. Peter and Paul', icon: 'feast_peter_paul' },
             { day: 14, type: 'c', name: 'St. Shenouda', icon: 'st_shenouda' },
@@ -292,7 +302,6 @@ const CALENDAR_DATA = [
             '19: The Transfiguration',
             '21: Habib Guirguis / St. Mary\'s Fast Ends',
             '22: Assumption of St. Mary',
-            '25: St. Macarius the Great',
             '28: St. Augustine of Hippo'
         ],
         quote: 'Hail Mary, Mother of God, Treasure of the whole world.',
@@ -307,7 +316,6 @@ const CALENDAR_DATA = [
             { day: 21, type: 'c', name: 'Habib Guirguis', icon: 'habib_guirguis' },
             { day: 21, type: 'e', name: 'St. Mary\'s Fast Ends' },
             { day: 22, type: 'm', name: 'Assumption of St. Mary', icon: 'feast_assumption' },
-            { day: 25, type: 'c', name: 'St. Macarius the Great', icon: 'st_macarius' },
             { day: 28, type: 'c', name: 'St. Augustine of Hippo', icon: 'st_augustine' },
         ],
         excludeMonthly: 0
