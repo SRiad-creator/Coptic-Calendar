@@ -189,7 +189,7 @@ function buildCalendarGrid(monthData) {
         const skip29th = coptic.day === 29 && (coptic.month === 'Tobe' || coptic.month === 'Meshir');
         if (dayNum !== monthData.excludeMonthly && MONTHLY_COMMEMORATIONS[coptic.day] && !skip29th) {
             if (coptic.day === 29 && inHoly50) {
-                monthlyFeast = 'Resurrection';
+                monthlyFeast = { name: 'Resurrection' };
             } else {
                 monthlyFeast = MONTHLY_COMMEMORATIONS[coptic.day];
             }
@@ -226,7 +226,8 @@ function buildCalendarGrid(monthData) {
                 return `<div class="feast-label">${iconHTML}${f.name}</div>`;
             }).join('');
         } else if (monthlyFeast) {
-            feastLabel = `<div class="feast-label">${monthlyFeast}</div>`;
+            const mIcon = monthlyFeast.icon ? `<img src="${monthlyFeast.icon}.png" class="saint-tiny-icon" alt="">` : '';
+            feastLabel = `<div class="feast-label">${mIcon}${monthlyFeast.name}</div>`;
         }
 
         gridHTML += `
