@@ -1,4 +1,4 @@
-const CACHE_NAME = 'coptic-calendar-v12';
+const CACHE_NAME = 'coptic-calendar-v13';
 const urlsToCache = [
     '/Coptic-Calendar/',
     '/Coptic-Calendar/index.html',
