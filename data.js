@@ -474,7 +474,7 @@ const CALENDAR_DATA = [
 const MONTHLY_COMMEMORATIONS = {
     12: { name: 'Archangel Michael', icon: 'archangel_michael' },
     21: { name: 'Saint Mary', icon: 'st_mary_theotokos' },
-    29: { name: 'Annunciation, Nativity, Resurrection' }
+    29: { name: 'Annunciation, Nativity, Resurrection', icon: 'feast_monthly_29' }
 };
 
 // Feast type labels and colors
