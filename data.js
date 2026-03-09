@@ -82,7 +82,7 @@ const CALENDAR_DATA = [
             { day: 15, type: 'm', name: 'Presentation into the Temple', icon: 'feast_presentation' },
             { day: 16, type: 'f', name: 'Great Lent Begins' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
-            { day: 23, type: 'c', name: 'Hegumen Michael El Behairy', icon: 'hegumen_michael' },
+            { day: 23, type: 'c', name: 'Hegumen Michael El Behairy' },
             { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
         ],
         excludeMonthly: 0
