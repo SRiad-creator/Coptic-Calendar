@@ -19,14 +19,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
-DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day
+SUMMARY:Circumcision of Our Lord (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-SUMMARY:Circumcision / St. Basil the Great (6 Tobe)
-DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day
+SUMMARY:Circumcision of Our Lord (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -183,18 +183,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 SUMMARY:🏠 Holy Family to Egypt (24 Pashons)
 DESCRIPTION:24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-SUMMARY:Sts. Peter and Paul (5 Epep)
-DESCRIPTION:5 Epep 1742 AM — Feast of the two chief apostles
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-SUMMARY:Sts. Peter and Paul (5 Epep)
-DESCRIPTION:5 Epep 1742 AM — Feast of the two chief apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
