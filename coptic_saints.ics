@@ -18,6 +18,12 @@ DESCRIPTION:4 Tobe 1742 AM — Beloved disciple, author of the Gospel of John an
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+SUMMARY:☦️ St. Basil the Great (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM — Archbishop of Caesarea, Doctor of the Church (330-379 AD)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 SUMMARY:☦️ St. Demiana and the 40 Virgins (13 Tobe)
 DESCRIPTION:13 Tobe 1742 AM — Virgin martyr who inspired 40 companions under Diocletian
@@ -216,6 +222,18 @@ DESCRIPTION:2 Epep 1742 AM — One of the twelve apostles
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+SUMMARY:☦️ St. Peter the Apostle (5 Epep)
+DESCRIPTION:5 Epep 1742 AM — Chief of the apostles, crucified upside down in Rome
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+SUMMARY:☦️ St. Paul the Apostle (5 Epep)
+DESCRIPTION:5 Epep 1742 AM — Apostle to the Gentiles, beheaded in Rome
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
 SUMMARY:☦️ St. Shenouda the Archimandrite (7 Epep)
 DESCRIPTION:7 Epep 1742 AM — Father of the White Monastery
@@ -223,8 +241,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
-SUMMARY:☦️ St. Bishoy / St. Karas (8 Epep)
-DESCRIPTION:8 Epep 1742 AM — Beloved of Christ / The Anchorite
+SUMMARY:☦️ St. Bishoy (8 Epep)
+DESCRIPTION:8 Epep 1742 AM — Beloved of Christ, body remains incorrupt in Wadi El Natrun
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+SUMMARY:☦️ St. Karas the Anchorite (8 Epep)
+DESCRIPTION:8 Epep 1742 AM — Desert hermit, lived in extreme austerity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -241,8 +265,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
-SUMMARY:☦️ St. Marina / St. Longinus (23 Epep)
-DESCRIPTION:23 Epep 1742 AM — Virgin martyr / Centurion at the Cross
+SUMMARY:☦️ St. Marina (23 Epep)
+DESCRIPTION:23 Epep 1742 AM — Virgin martyr known for defeating the devil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+SUMMARY:☦️ St. Longinus (23 Epep)
+DESCRIPTION:23 Epep 1742 AM — Roman centurion who pierced Christ's side and confessed His divinity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -307,8 +337,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261005
-SUMMARY:☦️ St. Maurice / Jonah the Prophet (25 Thoout)
-DESCRIPTION:25 Thoout 1743 AM — Commander of the Theban Legion / Prophet
+SUMMARY:☦️ St. Maurice (25 Thoout)
+DESCRIPTION:25 Thoout 1743 AM — Commander of the Theban Legion, martyred with his soldiers
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261005
+SUMMARY:☦️ Jonah the Prophet (25 Thoout)
+DESCRIPTION:25 Thoout 1743 AM — Prophet who preached to Nineveh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -421,8 +457,14 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261217
-SUMMARY:☦️ Sts. Barbara and Juliana (8 Kiahk)
-DESCRIPTION:8 Kiahk 1743 AM — Martyred companions
+SUMMARY:☦️ St. Barbara (8 Kiahk)
+DESCRIPTION:8 Kiahk 1743 AM — Daughter of a pagan noble, martyred for the faith
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+SUMMARY:☦️ St. Juliana (8 Kiahk)
+DESCRIPTION:8 Kiahk 1743 AM — Companion of St. Barbara, martyred together
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
