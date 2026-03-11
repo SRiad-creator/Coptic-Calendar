@@ -740,37 +740,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Tobe 1742 AM.
+DESCRIPTION:Joyful Sunday. Coptic date: 3 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Tobe 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 10 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Tobe 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 17 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Tobe 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 24 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Meshir 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 1 Meshir 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 8 Meshir 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 8 Meshir 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -866,163 +866,163 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 SUMMARY:🟢 5th Sunday of Pashons (30 Pashons)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 30 Pashons 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 30 Pashons 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 SUMMARY:🟢 1st Sunday of Paone (7 Paone)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 7 Paone 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 7 Paone 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
 SUMMARY:🟢 2nd Sunday of Paone (14 Paone)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 14 Paone 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 14 Paone 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 21 Paone 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 21 Paone 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
 SUMMARY:🟢 4th Sunday of Paone (28 Paone)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 28 Paone 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 28 Paone 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 SUMMARY:🟢 1st Sunday of Epep (5 Epep)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 5 Epep 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 5 Epep 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 12 Epep 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 12 Epep 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 19 Epep 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 19 Epep 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
 SUMMARY:🟢 4th Sunday of Epep (26 Epep)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 26 Epep 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 26 Epep 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 SUMMARY:🟢 1st Sunday of Mesore (3 Mesore)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Mesore 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 3 Mesore 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 SUMMARY:🟢 2nd Sunday of Mesore (10 Mesore)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Mesore 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 10 Mesore 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Mesore 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 17 Mesore 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
 SUMMARY:🟢 4th Sunday of Mesore (24 Mesore)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Mesore 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 24 Mesore 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 SUMMARY:🟢 1st Sunday of Nesi (1 Nesi)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Nesi 1742 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 1 Nesi 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 3 Thoout 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 3 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 SUMMARY:🟢 2nd Sunday of Thoout (10 Thoout)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 10 Thoout 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 10 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 SUMMARY:🟢 3rd Sunday of Thoout (17 Thoout)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 17 Thoout 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 17 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 24 Thoout 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 24 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
 SUMMARY:🟢 1st Sunday of Paope (1 Paope)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 1 Paope 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 1 Paope 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 SUMMARY:🟢 2nd Sunday of Paope (8 Paope)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 8 Paope 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 8 Paope 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
 SUMMARY:🟢 3rd Sunday of Paope (15 Paope)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 15 Paope 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 15 Paope 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
 SUMMARY:🟢 4th Sunday of Paope (22 Paope)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 22 Paope 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 22 Paope 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 SUMMARY:🟢 5th Sunday of Paope (29 Paope)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 29 Paope 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 29 Paope 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
 SUMMARY:🟢 1st Sunday of Hator (6 Hator)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 6 Hator 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 6 Hator 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
 SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 13 Hator 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 13 Hator 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 20 Hator 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 20 Hator 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 SUMMARY:🟢 4th Sunday of Hator (27 Hator)
-DESCRIPTION:Regular Sunday liturgy. Coptic date: 27 Hator 1743 AM.
+DESCRIPTION:Annual Sunday. Coptic date: 27 Hator 1743 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
