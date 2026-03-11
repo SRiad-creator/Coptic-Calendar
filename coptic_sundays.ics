@@ -14,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
-DESCRIPTION:Synaxarion: Slain Children of Bethlehem. Coptic date: 3 Tobe 1742 AM.
+DESCRIPTION:Synaxarion: Children of Bethlehem. Coptic date: 3 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
