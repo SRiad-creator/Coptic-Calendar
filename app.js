@@ -145,7 +145,9 @@ function buildCalendarGrid(monthData) {
                     'Samaritan Woman', 'Paralytic Man', 'Man Born Blind', 'Palm Sunday'
                 ];
                 const title = lentTitles[weekNum] || '';
-                gospelLabel = `<div class="gospel-label">${title ? title + ' · ' : ''}${copticWeekLabel}</div>`;
+                const ordSuffix = ['','st','nd','rd'][weekNum] || 'th';
+                const lentLabel = `${weekNum}${ordSuffix} Sunday of Lent`;
+                gospelLabel = `<div class="gospel-label">${lentLabel}${title ? ' — ' + title : ''}</div>`;
             }
             // Holy 50 Sundays (faint gold) — with Gospel titles
             else if ((m === 3 && dayNum >= 12) || (m === 4)) {
