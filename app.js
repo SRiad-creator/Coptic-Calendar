@@ -161,7 +161,9 @@ function buildCalendarGrid(monthData) {
                     'Conqueror of the World', 'Pentecost'
                 ];
                 const title = h50Titles[weekNum] || '';
-                gospelLabel = `<div class="gospel-label">${title ? title + ' · ' : ''}${copticWeekLabel}</div>`;
+                const ordSuffix = ['','st','nd','rd'][weekNum] || 'th';
+                const h50Label = `${weekNum}${ordSuffix} Sunday of Holy 50`;
+                gospelLabel = `<div class="gospel-label">${h50Label}${title ? ' — ' + title : ''}</div>`;
             }
             // Kiahk Sundays (faint green) — with Gospel titles
             else if ((m === 11 && dayNum >= 10) || (m === 0 && dayNum <= 8)) {
