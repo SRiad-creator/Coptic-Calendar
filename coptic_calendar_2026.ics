@@ -1,4 +1,4 @@
-BEGIN:VCALENDAR
+﻿BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
@@ -12,27 +12,9 @@ DESCRIPTION:29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260107
-SUMMARY:🎄 Feast of the Nativity (29 Kiahk)
-DESCRIPTION:29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 SUMMARY:Circumcision of Our Lord (6 Tobe)
 DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-SUMMARY:Circumcision of Our Lord (6 Tobe)
-DESCRIPTION:6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260119
-SUMMARY:💧 Theophany (11 Tobe)
-DESCRIPTION:11 Tobe 1742 AM — Baptism of our Lord in the Jordan by St. John the Baptist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -48,27 +30,9 @@ DESCRIPTION:13 Tobe 1742 AM — First miracle of Christ, water into wine (John 2
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-SUMMARY:Miracle at Cana (13 Tobe)
-DESCRIPTION:13 Tobe 1742 AM — First miracle of Christ, water into wine (John 2:1-11)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 SUMMARY:Feast of Jonah (28 Tobe)
 DESCRIPTION:28 Tobe 1742 AM — Celebration after the Nineveh fast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-SUMMARY:Feast of Jonah (28 Tobe)
-DESCRIPTION:28 Tobe 1742 AM — Celebration after the Nineveh fast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-SUMMARY:Presentation into the Temple (8 Meshir)
-DESCRIPTION:8 Meshir 1742 AM — Presentation of our Lord 40 days after Nativity
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -84,27 +48,9 @@ DESCRIPTION:10 Paremhotep 1742 AM — Discovery of the True Cross by Empress Hel
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-SUMMARY:✝️ Feast of the Holy Cross (10 Paremhotep)
-DESCRIPTION:10 Paremhotep 1742 AM — Discovery of the True Cross by Empress Helena (326 AD)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 SUMMARY:Lazarus Saturday (26 Paremhotep)
 DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 11)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-SUMMARY:Lazarus Saturday (26 Paremhotep)
-DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 11)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DESCRIPTION:27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -120,27 +66,9 @@ DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the Vir
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-SUMMARY:📢 Annunciation (29 Paremhotep)
-DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the Virgin Mary (Luke 1:26-38)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
 SUMMARY:Covenant Thursday (1 Parmoute)
 DESCRIPTION:1 Parmoute 1742 AM — The Last Supper, institution of the Holy Eucharist
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-SUMMARY:Covenant Thursday (1 Parmoute)
-DESCRIPTION:1 Parmoute 1742 AM — The Last Supper, institution of the Holy Eucharist
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
-DESCRIPTION:4 Parmoute 1742 AM — The Resurrection of our Lord Jesus Christ from the dead!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -156,27 +84,9 @@ DESCRIPTION:13 Pashons 1742 AM — Ascension of our Lord 40 days after Resurrect
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-SUMMARY:☁️ Feast of Ascension (13 Pashons)
-DESCRIPTION:13 Pashons 1742 AM — Ascension of our Lord 40 days after Resurrection
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
 SUMMARY:🔥 Feast of Pentecost (23 Pashons)
 DESCRIPTION:23 Pashons 1742 AM — Descent of the Holy Spirit upon the Apostles (Acts 2)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-SUMMARY:🔥 Feast of Pentecost (23 Pashons)
-DESCRIPTION:23 Pashons 1742 AM — Descent of the Holy Spirit upon the Apostles (Acts 2)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-SUMMARY:🏠 Holy Family to Egypt (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -192,27 +102,9 @@ DESCRIPTION:13 Mesore 1742 AM — Transfiguration of Christ on Mount Tabor (Matt
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-SUMMARY:✨ Transfiguration (13 Mesore)
-DESCRIPTION:13 Mesore 1742 AM — Transfiguration of Christ on Mount Tabor (Matt 17:1-8)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 SUMMARY:🕊️ Assumption of St. Mary (16 Mesore)
 DESCRIPTION:16 Mesore 1742 AM — Assumption of the Blessed Virgin Mary into heaven
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-SUMMARY:🕊️ Assumption of St. Mary (16 Mesore)
-DESCRIPTION:16 Mesore 1742 AM — Assumption of the Blessed Virgin Mary into heaven
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-SUMMARY:🎊 Nayrouz - Coptic New Year 1743 AM (1 Thoout)
-DESCRIPTION:1 Thoout 1743 AM — Feast of the Martyrs, crown of the year
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -228,27 +120,9 @@ DESCRIPTION:17 Thoout 1743 AM — Discovery of the True Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-SUMMARY:✝️ Feast of the Cross (Day 1) (17 Thoout)
-DESCRIPTION:17 Thoout 1743 AM — Discovery of the True Cross
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260928
 SUMMARY:✝️ Feast of the Cross (Day 2) (18 Thoout)
 DESCRIPTION:18 Thoout 1743 AM — Feast of the Cross continues
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-SUMMARY:✝️ Feast of the Cross (Day 2) (18 Thoout)
-DESCRIPTION:18 Thoout 1743 AM — Feast of the Cross continues
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260929
-SUMMARY:✝️ Feast of the Cross (Day 3) (19 Thoout)
-DESCRIPTION:19 Thoout 1743 AM — Third day of the Feast of the Cross
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -631,8 +505,8 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
-SUMMARY:☦️ St. John Chrysostom (16 Paope)
-DESCRIPTION:16 Paope 1743 AM — Golden-mouthed preacher
+SUMMARY:☦️ Pope Agathon (16 Paope)
+DESCRIPTION:16 Paope 1743 AM — 39th Pope of Alexandria
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -740,13 +614,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
-DESCRIPTION:Joyful Sunday. Coptic date: 3 Tobe 1742 AM.
+DESCRIPTION:Synaxarion: Children of Bethlehem. Coptic date: 3 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
-DESCRIPTION:Annual Sunday. Coptic date: 10 Tobe 1742 AM.
+DESCRIPTION:Synaxarion: Paramouni of Theophany. Coptic date: 10 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -758,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
-DESCRIPTION:Annual Sunday. Coptic date: 24 Tobe 1742 AM.
+DESCRIPTION:Synaxarion: St. Mary the Ascetic. Coptic date: 24 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -807,12 +681,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
 DESCRIPTION:Gospel: John 9:1-41 — Spiritual enlightenment
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DESCRIPTION:Triumphal entry of Christ into Jerusalem — Holy Week begins
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
