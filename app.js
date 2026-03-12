@@ -128,18 +128,11 @@ function buildCalendarGrid(monthData) {
         let liturgicalClass = '';
         let gospelLabel = '';
 
-        let sundaySaintShown = false;
-
         if (isSunday) {
             // Coptic week label for ALL Sundays
             const copticWeekNum = Math.ceil(coptic.day / 7);
             const ordinals = ['', '1st', '2nd', '3rd', '4th', '5th'];
             const copticWeekLabel = `${ordinals[copticWeekNum] || copticWeekNum + 'th'} Sunday of ${coptic.month}`;
-
-            // Find any saint commemorations for this Sunday
-            const sundayFeasts = feastMap[dayNum] || [];
-            const sundaySaints = sundayFeasts.filter(f => f.type === 'c' || f.type === 's');
-            const sundaySaintText = sundaySaints.length > 0 ? sundaySaints[0].name : '';
 
             // Great Lent Sundays (faint purple) — with Gospel titles
             if ((m === 1 && dayNum >= 16) || (m === 2) || (m === 3 && dayNum <= 11)) {
@@ -185,14 +178,9 @@ function buildCalendarGrid(monthData) {
                 const title = kiahkTitles[weekNum] || '';
                 gospelLabel = `<div class="gospel-label">${title ? title + ' · ' : ''}${copticWeekLabel}</div>`;
             }
-            // All other Sundays — Coptic week label + saint name
+            // All other Sundays — just Coptic week label
             else {
-                if (sundaySaintText) {
-                    gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div><div class="gospel-label sunday-saint">${sundaySaintText}</div>`;
-                    sundaySaintShown = true;
-                } else {
-                    gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div>`;
-                }
+                gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div>`;
             }
         }
 
@@ -218,10 +206,8 @@ function buildCalendarGrid(monthData) {
 
         // Determine cell class — use highest priority feast type for color
         let cellClass = 'day-cell' + liturgicalClass;
-        if (sorted.length > 0 && !sundaySaintShown) {
+        if (sorted.length > 0) {
             cellClass += ` feast-${sorted[0].type}`;
-        } else if (sorted.length > 0) {
-            // On Sundays where saint is in gospel label, don't add grey commemoration bg
         } else if (monthlyFeast) {
             cellClass += ' monthly-commem';
         }
@@ -232,13 +218,9 @@ function buildCalendarGrid(monthData) {
             copticMonthLabel = `<div class="coptic-month-label">${coptic.month}</div>`;
         }
 
-        // Build feast labels
-        // On Sundays where saint is already shown in gospel label, skip the feast label entirely
+        // Build feast labels — icon + name at bottom, same format for all days
         let feastLabel = '';
-        if (sundaySaintShown) {
-            // Saint already displayed in gospel label — skip feast label
-            feastLabel = '';
-        } else if (sorted.length > 0) {
+        if (sorted.length > 0) {
             const hasNonSaint = sorted.some(f => f.type !== 'c');
             const display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
             feastLabel = display.map(f => {
