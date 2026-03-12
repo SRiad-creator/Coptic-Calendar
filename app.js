@@ -134,6 +134,11 @@ function buildCalendarGrid(monthData) {
             const ordinals = ['', '1st', '2nd', '3rd', '4th', '5th'];
             const copticWeekLabel = `${ordinals[copticWeekNum] || copticWeekNum + 'th'} Sunday of ${coptic.month}`;
 
+            // Find any saint commemorations for this Sunday
+            const sundayFeasts = feastMap[dayNum] || [];
+            const sundaySaints = sundayFeasts.filter(f => f.type === 'c' || f.type === 's');
+            const sundaySaintText = sundaySaints.length > 0 ? sundaySaints[0].name : '';
+
             // Great Lent Sundays (faint purple) — with Gospel titles
             if ((m === 1 && dayNum >= 16) || (m === 2) || (m === 3 && dayNum <= 11)) {
                 liturgicalClass = ' period-lent';
@@ -178,9 +183,13 @@ function buildCalendarGrid(monthData) {
                 const title = kiahkTitles[weekNum] || '';
                 gospelLabel = `<div class="gospel-label">${title ? title + ' · ' : ''}${copticWeekLabel}</div>`;
             }
-            // All other Sundays — just Coptic week label
+            // All other Sundays — Coptic week label + saint name
             else {
-                gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div>`;
+                if (sundaySaintText) {
+                    gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div><div class="gospel-label sunday-saint">${sundaySaintText}</div>`;
+                } else {
+                    gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div>`;
+                }
             }
         }
 
