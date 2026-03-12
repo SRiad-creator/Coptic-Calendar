@@ -461,6 +461,14 @@ html {
     opacity: 0.75;
 }
 
+.sunday-saint {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: var(--coptic-gold-dark);
+    opacity: 0.85;
+    font-style: italic;
+}
+
 .period-lent .gospel-label {
     color: #7b2d8e;
 }
