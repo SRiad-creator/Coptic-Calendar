@@ -236,8 +236,8 @@ html {
 }
 
 .watercolour-cross {
-    width: 110%;
-    max-height: 110%;
+    width: 100%;
+    max-height: 100%;
     object-fit: contain;
 }
 
@@ -536,9 +536,10 @@ html {
 /* Per-month sidebar icon overrides */
 .month-page[data-month="january"] .watercolour-cross,
 .month-page[data-month="april"] .watercolour-cross,
-.month-page[data-month="august"] .watercolour-cross {
-    width: 115%;
-    max-height: 115%;
+.month-page[data-month="august"] .watercolour-cross,
+.month-page[data-month="november"] .watercolour-cross {
+    width: 105%;
+    max-height: 105%;
 }
 
 /* December: clip bottom edge of nativity image */
