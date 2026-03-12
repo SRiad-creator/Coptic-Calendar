@@ -537,8 +537,8 @@ html {
 .month-page[data-month="january"] .watercolour-cross,
 .month-page[data-month="april"] .watercolour-cross,
 .month-page[data-month="august"] .watercolour-cross {
-    width: 130%;
-    max-height: 130%;
+    width: 115%;
+    max-height: 115%;
 }
 
 /* December: clip bottom edge of nativity image */
@@ -547,8 +547,8 @@ html {
 }
 
 .month-page[data-month="december"] .watercolour-cross {
-    width: 130%;
-    max-height: 130%;
+    width: 115%;
+    max-height: 115%;
     clip-path: inset(0 0 10% 0);
 }
 
