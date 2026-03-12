@@ -128,6 +128,8 @@ function buildCalendarGrid(monthData) {
         let liturgicalClass = '';
         let gospelLabel = '';
 
+        let sundaySaintShown = false;
+
         if (isSunday) {
             // Coptic week label for ALL Sundays
             const copticWeekNum = Math.ceil(coptic.day / 7);
@@ -187,6 +189,7 @@ function buildCalendarGrid(monthData) {
             else {
                 if (sundaySaintText) {
                     gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div><div class="gospel-label sunday-saint">${sundaySaintText}</div>`;
+                    sundaySaintShown = true;
                 } else {
                     gospelLabel = `<div class="gospel-label">${copticWeekLabel}</div>`;
                 }
@@ -215,8 +218,10 @@ function buildCalendarGrid(monthData) {
 
         // Determine cell class — use highest priority feast type for color
         let cellClass = 'day-cell' + liturgicalClass;
-        if (sorted.length > 0) {
+        if (sorted.length > 0 && !sundaySaintShown) {
             cellClass += ` feast-${sorted[0].type}`;
+        } else if (sorted.length > 0) {
+            // On Sundays where saint is in gospel label, don't add grey commemoration bg
         } else if (monthlyFeast) {
             cellClass += ' monthly-commem';
         }
@@ -227,17 +232,15 @@ function buildCalendarGrid(monthData) {
             copticMonthLabel = `<div class="coptic-month-label">${coptic.month}</div>`;
         }
 
-        // Build feast labels — if a feast shares a day with a saint, only show the feast
-        // (saint stays in the sidebar synaxarium list)
-        // On regular Sundays, skip saints already shown in the gospel label
+        // Build feast labels
+        // On Sundays where saint is already shown in gospel label, skip the feast label entirely
         let feastLabel = '';
-        if (sorted.length > 0) {
+        if (sundaySaintShown) {
+            // Saint already displayed in gospel label — skip feast label
+            feastLabel = '';
+        } else if (sorted.length > 0) {
             const hasNonSaint = sorted.some(f => f.type !== 'c');
-            let display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
-            // If this is a regular Sunday with saint in gospel label, skip that saint in feast label
-            if (isSunday && gospelLabel.includes('sunday-saint')) {
-                display = display.filter(f => f.type !== 'c' && f.type !== 's');
-            }
+            const display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
             feastLabel = display.map(f => {
                 const saintKey = f.icon || null;
                 const iconHTML = saintKey ? `<img src="${saintKey}.png" class="saint-tiny-icon" alt="">` : '';
