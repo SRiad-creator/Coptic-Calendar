@@ -229,10 +229,15 @@ function buildCalendarGrid(monthData) {
 
         // Build feast labels — if a feast shares a day with a saint, only show the feast
         // (saint stays in the sidebar synaxarium list)
+        // On regular Sundays, skip saints already shown in the gospel label
         let feastLabel = '';
         if (sorted.length > 0) {
             const hasNonSaint = sorted.some(f => f.type !== 'c');
-            const display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
+            let display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
+            // If this is a regular Sunday with saint in gospel label, skip that saint in feast label
+            if (isSunday && gospelLabel.includes('sunday-saint')) {
+                display = display.filter(f => f.type !== 'c' && f.type !== 's');
+            }
             feastLabel = display.map(f => {
                 const saintKey = f.icon || null;
                 const iconHTML = saintKey ? `<img src="${saintKey}.png" class="saint-tiny-icon" alt="">` : '';
