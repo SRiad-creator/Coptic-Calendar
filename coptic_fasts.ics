@@ -15,7 +15,7 @@ UID:nativity-fast-ends--28-kiahk--20260106@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
-SUMMARY:Jonah Fast Begins (25 Tobe)
+SUMMARY:🐟 Jonah Fast Begins (25 Tobe)
 DTEND;VALUE=DATE:20260203
 DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of th
  e people of Nineveh
@@ -32,7 +32,7 @@ UID:jonah-fast-ends--27-tobe--20260204@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
-SUMMARY:Great Lent Begins (9 Meshir)
+SUMMARY:🐟 Great Lent Begins (9 Meshir)
 DTEND;VALUE=DATE:20260217
 DESCRIPTION:9 Meshir 1742 AM — Beginning of the 55-day Great Lent, strict
   vegan fast
@@ -50,7 +50,7 @@ UID:last-friday-of-lent--25-paremhotep--20260403@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
-SUMMARY:Good Friday (2 Parmoute)
+SUMMARY:✝️ Good Friday (2 Parmoute)
 DTEND;VALUE=DATE:20260411
 DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for
   the salvation of the world
@@ -59,7 +59,7 @@ UID:--good-friday--2-parmoute--20260410@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
-SUMMARY:Apostles Fast Begins (24 Pashons)
+SUMMARY:🐟 Apostles Fast Begins (24 Pashons)
 DTEND;VALUE=DATE:20260602
 DESCRIPTION:24 Pashons 1742 AM — Vegan fast in honour of the apostles
 TRANSP:TRANSPARENT
@@ -75,7 +75,7 @@ UID:apostles-fast-ends--4-epep--20260711@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
-SUMMARY:St. Mary Fast Begins (1 Mesore)
+SUMMARY:🐟 St. Mary Fast Begins (1 Mesore)
 DTEND;VALUE=DATE:20260808
 DESCRIPTION:1 Mesore 1742 AM — 15-day vegan fast before the Assumption
 TRANSP:TRANSPARENT
@@ -91,7 +91,7 @@ UID:st--mary-fast-ends--15-mesore--20260821@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
-SUMMARY:Nativity Fast Begins (16 Hator)
+SUMMARY:🐟 Nativity Fast Begins (16 Hator)
 DTEND;VALUE=DATE:20261126
 DESCRIPTION:16 Hator 1743 AM — 43-day vegan fast preparing for the Nativi
  ty
@@ -99,3 +99,4 @@ TRANSP:TRANSPARENT
 UID:---nativity-fast-begins--16-hator--20261125@coptic-calendar
 END:VEVENT
 END:VCALENDAR
+
