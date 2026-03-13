@@ -28,20 +28,39 @@
             <p>Year of Our Lord 2026 &bull; Coptic Year 1742–1743 AM</p>
             <div class="header-buttons">
                 <button id="printBtn" onclick="window.print()">🖨️ Print Calendar</button>
-                <a href="coptic_calendar_2026.ics" download="Coptic_Calendar_2026.ics" class="gcal-btn">📅 All
+                <a href="coptic_calendar_2026.ics" class="gcal-btn" onclick="return openIcs(event, 'coptic_calendar_2026.ics')">📅 All
                     Events</a>
             </div>
             <div class="header-buttons ics-split">
-                <a href="coptic_feasts.ics" download class="gcal-btn gcal-feast">🎄 Feasts</a>
-                <a href="coptic_saints.ics" download class="gcal-btn gcal-saint">☦️ Saints</a>
-                <a href="coptic_sundays.ics" download class="gcal-btn gcal-sunday">🟢 Sundays</a>
-                <a href="coptic_fasts.ics" download class="gcal-btn gcal-fast">🐟 Fasts</a>
+                <a href="coptic_feasts.ics" class="gcal-btn gcal-feast" onclick="return openIcs(event, 'coptic_feasts.ics')">🎄 Feasts</a>
+                <a href="coptic_saints.ics" class="gcal-btn gcal-saint" onclick="return openIcs(event, 'coptic_saints.ics')">☦️ Saints</a>
+                <a href="coptic_sundays.ics" class="gcal-btn gcal-sunday" onclick="return openIcs(event, 'coptic_sundays.ics')">🟢 Sundays</a>
+                <a href="coptic_fasts.ics" class="gcal-btn gcal-fast" onclick="return openIcs(event, 'coptic_fasts.ics')">🐟 Fasts</a>
             </div>
         </div>
     </div>
 
     <div id="calendar-container"></div>
 
+    <script>
+        // ICS handler — opens calendar app on Android instead of downloading
+        function openIcs(e, filename) {
+            e.preventDefault();
+            fetch(filename)
+                .then(r => r.blob())
+                .then(blob => {
+                    var calBlob = new Blob([blob], { type: 'text/calendar' });
+                    var url = URL.createObjectURL(calBlob);
+                    window.open(url, '_blank');
+                    setTimeout(function() { URL.revokeObjectURL(url); }, 10000);
+                })
+                .catch(function() {
+                    // Fallback: direct navigation
+                    window.location.href = filename;
+                });
+            return false;
+        }
+    </script>
     <script src="data.js"></script>
     <script src="app.js"></script>
     <script>
