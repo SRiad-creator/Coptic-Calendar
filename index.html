@@ -44,9 +44,31 @@
     <script src="data.js"></script>
     <script src="app.js"></script>
     <script>
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js');
-        }
+        // One-time cache nuke to clear stale service workers
+        (function() {
+            if ('serviceWorker' in navigator) {
+                if (!localStorage.getItem('sw_v36_cleaned')) {
+                    // Unregister ALL service workers
+                    navigator.serviceWorker.getRegistrations().then(function(regs) {
+                        var promises = regs.map(function(r) { return r.unregister(); });
+                        return Promise.all(promises);
+                    }).then(function() {
+                        // Delete all caches
+                        return caches.keys().then(function(keys) {
+                            return Promise.all(keys.map(function(k) { return caches.delete(k); }));
+                        });
+                    }).then(function() {
+                        localStorage.setItem('sw_v36_cleaned', '1');
+                        // Re-register fresh SW and reload
+                        navigator.serviceWorker.register('sw.js').then(function() {
+                            window.location.reload();
+                        });
+                    });
+                } else {
+                    navigator.serviceWorker.register('sw.js');
+                }
+            }
+        })();
     </script>
 </body>
 
