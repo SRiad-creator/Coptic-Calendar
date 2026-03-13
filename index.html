@@ -28,46 +28,19 @@
             <p>Year of Our Lord 2026 &bull; Coptic Year 1742–1743 AM</p>
             <div class="header-buttons">
                 <button id="printBtn" onclick="window.print()">🖨️ Print Calendar</button>
-                <a href="coptic_calendar_2026.ics" class="gcal-btn" onclick="return openIcs(this)">📅 All Events</a>
+                <a href="coptic_calendar_2026.ics" type="text/calendar" class="gcal-btn">📅 All Events</a>
             </div>
             <div class="header-buttons ics-split">
-                <a href="coptic_feasts.ics" class="gcal-btn gcal-feast" onclick="return openIcs(this)">🎄 Feasts</a>
-                <a href="coptic_saints.ics" class="gcal-btn gcal-saint" onclick="return openIcs(this)">☦️ Saints</a>
-                <a href="coptic_sundays.ics" class="gcal-btn gcal-sunday" onclick="return openIcs(this)">🟢 Sundays</a>
-                <a href="coptic_fasts.ics" class="gcal-btn gcal-fast" onclick="return openIcs(this)">🐟 Fasts</a>
+                <a href="coptic_feasts.ics" type="text/calendar" class="gcal-btn gcal-feast">🎄 Feasts</a>
+                <a href="coptic_saints.ics" type="text/calendar" class="gcal-btn gcal-saint">☦️ Saints</a>
+                <a href="coptic_sundays.ics" type="text/calendar" class="gcal-btn gcal-sunday">🟢 Sundays</a>
+                <a href="coptic_fasts.ics" type="text/calendar" class="gcal-btn gcal-fast">🐟 Fasts</a>
             </div>
         </div>
     </div>
 
     <div id="calendar-container"></div>
 
-    <script>
-        // ICS handler for Android/iOS calendar import
-        function openIcs(el) {
-            var file = el.getAttribute('href');
-            var base = 'https://sriad-creator.github.io/Coptic-Calendar/';
-            var fullUrl = base + file;
-            
-            // Try webcal:// first (triggers calendar subscription on mobile)
-            // Falls back to Google Calendar import URL on failure
-            var isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-            
-            if (isMobile) {
-                // Use Google Calendar import — most reliable on Android
-                var gcalUrl = 'https://calendar.google.com/calendar/r?cid=' + 
-                    encodeURIComponent('webcal://sriad-creator.github.io/Coptic-Calendar/' + file);
-                window.location.href = gcalUrl;
-                return false;
-            }
-            
-            // Desktop: just download normally
-            var a = document.createElement('a');
-            a.href = file;
-            a.download = file;
-            a.click();
-            return false;
-        }
-    </script>
     <script src="data.js"></script>
     <script src="app.js"></script>
     <script>
