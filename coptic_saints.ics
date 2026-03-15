@@ -9,8 +9,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260102
 SUMMARY:St. Ignatius of Antioch (24 Kiahk)
 DTEND;VALUE=DATE:20260103
-DESCRIPTION:24 Kiahk 1742 AM — Bishop of Antioch and early Church Father,
-  fed to lions in Rome c. 108 AD
+DESCRIPTION:24 Kiahk 1742 AM — Bishop of Antioch and early Church Father, fed to lions in Rome c. 108 AD
 TRANSP:TRANSPARENT
 UID:--st--ignatius-of-antioch--24-kiahk--20260102@coptic-calendar
 END:VEVENT
@@ -18,8 +17,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
 SUMMARY:St. John the Apostle (4 Tobe)
 DTEND;VALUE=DATE:20260113
-DESCRIPTION:4 Tobe 1742 AM — Beloved disciple, author of the Gospel of Jo
- hn and Revelation
+DESCRIPTION:4 Tobe 1742 AM — Beloved disciple, author of the Gospel of John and Revelation
 TRANSP:TRANSPARENT
 UID:--st--john-the-apostle--4-tobe--20260112@coptic-calendar
 END:VEVENT
@@ -27,8 +25,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 SUMMARY:St. Basil the Great (6 Tobe)
 DTEND;VALUE=DATE:20260115
-DESCRIPTION:6 Tobe 1742 AM — Archbishop of Caesarea, Doctor of the Church
-  (330-379 AD)
+DESCRIPTION:6 Tobe 1742 AM — Archbishop of Caesarea, Doctor of the Church (330-379 AD)
 TRANSP:TRANSPARENT
 UID:--st--basil-the-great--6-tobe--20260114@coptic-calendar
 END:VEVENT
@@ -36,8 +33,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 SUMMARY:St. Demiana and the 40 Virgins (13 Tobe)
 DTEND;VALUE=DATE:20260122
-DESCRIPTION:13 Tobe 1742 AM — Virgin martyr who inspired 40 companions un
- der Diocletian
+DESCRIPTION:13 Tobe 1742 AM — Virgin martyr who inspired 40 companions under Diocletian
 TRANSP:TRANSPARENT
 UID:--st--demiana-and-the-40-virgins--13-to-20260121@coptic-calendar
 END:VEVENT
@@ -53,8 +49,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 SUMMARY:St. Domadius (17 Tobe)
 DTEND;VALUE=DATE:20260126
-DESCRIPTION:17 Tobe 1742 AM — Desert father known for extreme asceticism 
- and prayer
+DESCRIPTION:17 Tobe 1742 AM — Desert father known for extreme asceticism and prayer
 TRANSP:TRANSPARENT
 UID:--st--domadius--17-tobe--20260125@coptic-calendar
 END:VEVENT
@@ -62,8 +57,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 SUMMARY:St. Anthony the Great (22 Tobe)
 DTEND;VALUE=DATE:20260131
-DESCRIPTION:22 Tobe 1742 AM — Father of all monks. Lived 105 years in the
-  Egyptian desert
+DESCRIPTION:22 Tobe 1742 AM — Father of all monks. Lived 105 years in the Egyptian desert
 TRANSP:TRANSPARENT
 UID:--st--anthony-the-great--22-tobe--20260130@coptic-calendar
 END:VEVENT
@@ -71,8 +65,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 SUMMARY:Council of Constantinople (381 AD) (1 Meshir)
 DTEND;VALUE=DATE:20260209
-DESCRIPTION:1 Meshir 1742 AM — Second Ecumenical Council, affirmed the di
- vinity of the Holy Spirit
+DESCRIPTION:1 Meshir 1742 AM — Second Ecumenical Council, affirmed the divinity of the Holy Spirit
 TRANSP:TRANSPARENT
 UID:--council-of-constantinople--381-ad---1-20260208@coptic-calendar
 END:VEVENT
@@ -80,8 +73,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
 SUMMARY:St. Paul the First Hermit (2 Meshir)
 DTEND;VALUE=DATE:20260210
-DESCRIPTION:2 Meshir 1742 AM — First Christian hermit, lived in a cave fo
- r nearly 100 years
+DESCRIPTION:2 Meshir 1742 AM — First Christian hermit, lived in a cave for nearly 100 years
 TRANSP:TRANSPARENT
 UID:--st--paul-the-first-hermit--2-meshir--20260209@coptic-calendar
 END:VEVENT
@@ -89,8 +81,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
 SUMMARY:St. James son of Alphaeus (10 Meshir)
 DTEND;VALUE=DATE:20260218
-DESCRIPTION:10 Meshir 1742 AM — One of the twelve apostles, martyred by s
- toning in Jerusalem
+DESCRIPTION:10 Meshir 1742 AM — One of the twelve apostles, martyred by stoning in Jerusalem
 TRANSP:TRANSPARENT
 UID:--st--james-son-of-alphaeus--10-meshir--20260217@coptic-calendar
 END:VEVENT
@@ -98,8 +89,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 SUMMARY:St. Severus of Antioch (14 Meshir)
 DTEND;VALUE=DATE:20260222
-DESCRIPTION:14 Meshir 1742 AM — Patriarch of Antioch (512-538 AD), Miaphy
- site theologian
+DESCRIPTION:14 Meshir 1742 AM — Patriarch of Antioch (512-538 AD), Miaphysite theologian
 TRANSP:TRANSPARENT
 UID:--st--severus-of-antioch--14-meshir--20260221@coptic-calendar
 END:VEVENT
@@ -107,8 +97,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
 SUMMARY:St. Elizabeth (16 Meshir)
 DTEND;VALUE=DATE:20260224
-DESCRIPTION:16 Meshir 1742 AM — Mother of St. John the Baptist and cousin
-  of the Virgin Mary
+DESCRIPTION:16 Meshir 1742 AM — Mother of St. John the Baptist and cousin of the Virgin Mary
 TRANSP:TRANSPARENT
 UID:--st--elizabeth--16-meshir--20260223@coptic-calendar
 END:VEVENT
@@ -132,8 +121,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
 SUMMARY:St. Polycarp of Smyrna (29 Meshir)
 DTEND;VALUE=DATE:20260309
-DESCRIPTION:29 Meshir 1742 AM — Disciple of St. John, martyred at age 86 
- (c. 155 AD)
+DESCRIPTION:29 Meshir 1742 AM — Disciple of St. John, martyred at age 86 (c. 155 AD)
 TRANSP:TRANSPARENT
 UID:--st--polycarp-of-smyrna--29-meshir--20260308@coptic-calendar
 END:VEVENT
@@ -141,8 +129,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260309
 SUMMARY:Pope Cyril VI (30 Meshir)
 DTEND;VALUE=DATE:20260310
-DESCRIPTION:30 Meshir 1742 AM — 116th Pope of Alexandria (1959-1971), kno
- wn for miracles
+DESCRIPTION:30 Meshir 1742 AM — 116th Pope of Alexandria (1959-1971), known for miracles
 TRANSP:TRANSPARENT
 UID:--pope-cyril-vi--30-meshir--20260309@coptic-calendar
 END:VEVENT
@@ -150,8 +137,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 SUMMARY:St. Sarapamon (5 Paremhotep)
 DTEND;VALUE=DATE:20260315
-DESCRIPTION:5 Paremhotep 1742 AM — Bishop of Nikiou, martyred during Dioc
- letian persecution
+DESCRIPTION:5 Paremhotep 1742 AM — Bishop of Nikiou, martyred during Diocletian persecution
 TRANSP:TRANSPARENT
 UID:--st--sarapamon--5-paremhotep--20260314@coptic-calendar
 END:VEVENT
@@ -167,8 +153,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 SUMMARY:St. Sidhom Bishay (17 Paremhotep)
 DTEND;VALUE=DATE:20260327
-DESCRIPTION:17 Paremhotep 1742 AM — Coptic layman martyred in Damietta (1
- 844)
+DESCRIPTION:17 Paremhotep 1742 AM — Coptic layman martyred in Damietta (1844)
 TRANSP:TRANSPARENT
 UID:--st--sidhom-bishay--17-paremhotep--20260326@coptic-calendar
 END:VEVENT
@@ -176,8 +161,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260402
 SUMMARY:Apparition at Zeitoun (24 Paremhotep)
 DTEND;VALUE=DATE:20260403
-DESCRIPTION:24 Paremhotep 1742 AM — Apparition of the Virgin Mary above Z
- eitoun Church Cairo (1968)
+DESCRIPTION:24 Paremhotep 1742 AM — Apparition of the Virgin Mary above Zeitoun Church Cairo (1968)
 TRANSP:TRANSPARENT
 UID:--apparition-at-zeitoun--24-paremhotep--20260402@coptic-calendar
 END:VEVENT
@@ -185,8 +169,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 SUMMARY:St. Macarius the Great (27 Paremhotep)
 DTEND;VALUE=DATE:20260406
-DESCRIPTION:27 Paremhotep 1742 AM — Father of Scetis monasticism, Wadi El
-  Natrun
+DESCRIPTION:27 Paremhotep 1742 AM — Father of Scetis monasticism, Wadi El Natrun
 TRANSP:TRANSPARENT
 UID:--st--macarius-the-great--27-paremhotep-20260405@coptic-calendar
 END:VEVENT
@@ -194,8 +177,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260406
 SUMMARY:Emperor Constantine the Great (28 Paremhotep)
 DTEND;VALUE=DATE:20260407
-DESCRIPTION:28 Paremhotep 1742 AM — First Christian Roman Emperor, conven
- ed Nicaea 325 AD
+DESCRIPTION:28 Paremhotep 1742 AM — First Christian Roman Emperor, convened Nicaea 325 AD
 TRANSP:TRANSPARENT
 UID:--emperor-constantine-the-great--28-par-20260406@coptic-calendar
 END:VEVENT
@@ -203,8 +185,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 SUMMARY:St. Mary of Egypt (6 Parmoute)
 DTEND;VALUE=DATE:20260415
-DESCRIPTION:6 Parmoute 1742 AM — Repentant saint who lived 47 years in th
- e desert
+DESCRIPTION:6 Parmoute 1742 AM — Repentant saint who lived 47 years in the desert
 TRANSP:TRANSPARENT
 UID:--st--mary-of-egypt--6-parmoute--20260414@coptic-calendar
 END:VEVENT
@@ -212,8 +193,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 SUMMARY:St. James the Apostle (17 Parmoute)
 DTEND;VALUE=DATE:20260426
-DESCRIPTION:17 Parmoute 1742 AM — Son of Zebedee, first apostle martyred 
- (Acts 12:2)
+DESCRIPTION:17 Parmoute 1742 AM — Son of Zebedee, first apostle martyred (Acts 12:2)
 TRANSP:TRANSPARENT
 UID:--st--james-the-apostle--17-parmoute--20260425@coptic-calendar
 END:VEVENT
@@ -237,8 +217,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 SUMMARY:St. Athanasius the Apostolic (7 Pashons)
 DTEND;VALUE=DATE:20260516
-DESCRIPTION:7 Pashons 1742 AM — 20th Pope of Alexandria, champion against
-  Arianism
+DESCRIPTION:7 Pashons 1742 AM — 20th Pope of Alexandria, champion against Arianism
 TRANSP:TRANSPARENT
 UID:--st--athanasius-the-apostolic--7-pasho-20260515@coptic-calendar
 END:VEVENT
@@ -294,8 +273,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 SUMMARY:Pope Cyril of Alexandria (20 Paone)
 DTEND;VALUE=DATE:20260628
-DESCRIPTION:20 Paone 1742 AM — Defended Theotokos at Council of Ephesus (
- 431 AD)
+DESCRIPTION:20 Paone 1742 AM — Defended Theotokos at Council of Ephesus (431 AD)
 TRANSP:TRANSPARENT
 UID:--pope-cyril-of-alexandria--20-paone--20260627@coptic-calendar
 END:VEVENT
@@ -303,8 +281,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
 SUMMARY:St. Moses the Black (24 Paone)
 DTEND;VALUE=DATE:20260702
-DESCRIPTION:24 Paone 1742 AM — Former robber turned desert monk, martyred
-  c. 405 AD
+DESCRIPTION:24 Paone 1742 AM — Former robber turned desert monk, martyred c. 405 AD
 TRANSP:TRANSPARENT
 UID:--st--moses-the-black--24-paone--20260701@coptic-calendar
 END:VEVENT
@@ -320,8 +297,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 SUMMARY:St. Peter the Apostle (5 Epep)
 DTEND;VALUE=DATE:20260713
-DESCRIPTION:5 Epep 1742 AM — Chief of the apostles, crucified upside down
-  in Rome
+DESCRIPTION:5 Epep 1742 AM — Chief of the apostles, crucified upside down in Rome
 TRANSP:TRANSPARENT
 UID:--st--peter-the-apostle--5-epep--20260712@coptic-calendar
 END:VEVENT
@@ -345,8 +321,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
 SUMMARY:St. Bishoy (8 Epep)
 DTEND;VALUE=DATE:20260716
-DESCRIPTION:8 Epep 1742 AM — Beloved of Christ, body remains incorrupt in
-  Wadi El Natrun
+DESCRIPTION:8 Epep 1742 AM — Beloved of Christ, body remains incorrupt in Wadi El Natrun
 TRANSP:TRANSPARENT
 UID:--st--bishoy--8-epep--20260715@coptic-calendar
 END:VEVENT
@@ -362,8 +337,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
 SUMMARY:St. Ephrem the Syrian (15 Epep)
 DTEND;VALUE=DATE:20260723
-DESCRIPTION:15 Epep 1742 AM — Harp of the Holy Spirit, deacon and hymn wr
- iter
+DESCRIPTION:15 Epep 1742 AM — Harp of the Holy Spirit, deacon and hymn writer
 TRANSP:TRANSPARENT
 UID:--st--ephrem-the-syrian--15-epep--20260722@coptic-calendar
 END:VEVENT
@@ -387,8 +361,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 SUMMARY:St. Longinus (23 Epep)
 DTEND;VALUE=DATE:20260731
-DESCRIPTION:23 Epep 1742 AM — Roman centurion who pierced Christ's side a
- nd confessed His divinity
+DESCRIPTION:23 Epep 1742 AM — Roman centurion who pierced Christ's side and confessed His divinity
 TRANSP:TRANSPARENT
 UID:--st--longinus--23-epep--20260730@coptic-calendar
 END:VEVENT
@@ -468,8 +441,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Council of Ephesus (431 AD) (12 Thoout)
 DTEND;VALUE=DATE:20260923
-DESCRIPTION:12 Thoout 1743 AM — Third Ecumenical Council, affirmed Mary a
- s Theotokos
+DESCRIPTION:12 Thoout 1743 AM — Third Ecumenical Council, affirmed Mary as Theotokos
 TRANSP:TRANSPARENT
 UID:--council-of-ephesus--431-ad---12-thoou-20260922@coptic-calendar
 END:VEVENT
@@ -477,8 +449,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261005
 SUMMARY:St. Maurice (25 Thoout)
 DTEND;VALUE=DATE:20261006
-DESCRIPTION:25 Thoout 1743 AM — Commander of the Theban Legion, martyred 
- with his soldiers
+DESCRIPTION:25 Thoout 1743 AM — Commander of the Theban Legion, martyred with his soldiers
 TRANSP:TRANSPARENT
 UID:--st--maurice--25-thoout--20261005@coptic-calendar
 END:VEVENT
@@ -502,8 +473,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261014
 SUMMARY:St. Bacchus (4 Paope)
 DTEND;VALUE=DATE:20261015
-DESCRIPTION:4 Paope 1743 AM — Roman soldier martyred alongside St. Sergiu
- s
+DESCRIPTION:4 Paope 1743 AM — Roman soldier martyred alongside St. Sergius
 TRANSP:TRANSPARENT
 UID:--st--bacchus--4-paope--20261014@coptic-calendar
 END:VEVENT
@@ -639,8 +609,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261217
 SUMMARY:St. Barbara (8 Kiahk)
 DTEND;VALUE=DATE:20261218
-DESCRIPTION:8 Kiahk 1743 AM — Daughter of a pagan noble, martyred for the
-  faith
+DESCRIPTION:8 Kiahk 1743 AM — Daughter of a pagan noble, martyred for the faith
 TRANSP:TRANSPARENT
 UID:--st--barbara--8-kiahk--20261217@coptic-calendar
 END:VEVENT
@@ -664,8 +633,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 SUMMARY:Gideon the Judge (16 Kiahk)
 DTEND;VALUE=DATE:20261226
-DESCRIPTION:16 Kiahk 1743 AM — Defeated Midianites with 300 men (Judges 7
- )
+DESCRIPTION:16 Kiahk 1743 AM — Defeated Midianites with 300 men (Judges 7)
 TRANSP:TRANSPARENT
 UID:--gideon-the-judge--16-kiahk--20261225@coptic-calendar
 END:VEVENT
@@ -678,3 +646,4 @@ TRANSP:TRANSPARENT
 UID:pope-agathon-20261026@coptic-calendar
 END:VEVENT
 END:VCALENDAR
+
