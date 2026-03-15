@@ -25,8 +25,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
 DTEND;VALUE=DATE:20260119
-DESCRIPTION:Synaxarion: Paramouni of Theophany. Coptic date: 10 Tobe 1742 A
- M.
+DESCRIPTION:Synaxarion: Paramouni of Theophany. Coptic date: 10 Tobe 1742 AM.
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-tobe--10-tobe--20260118@coptic-calendar
 END:VEVENT
@@ -50,8 +49,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
 DTEND;VALUE=DATE:20260209
-DESCRIPTION:Synaxarion: Council of Constantinople. Coptic date: 1 Meshir 17
- 42 AM.
+DESCRIPTION:Synaxarion: Council of Constantinople. Coptic date: 1 Meshir 1742 AM.
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-meshir--1-meshir--20260208@coptic-calendar
 END:VEVENT
@@ -59,8 +57,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
 DTEND;VALUE=DATE:20260216
-DESCRIPTION:Synaxarion: Presentation into the Temple. Coptic date: 8 Meshir
-  1742 AM.
+DESCRIPTION:Synaxarion: Presentation into the Temple. Coptic date: 8 Meshir 1742 AM.
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-meshir--8-meshir--20260215@coptic-calendar
 END:VEVENT
@@ -68,8 +65,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
 DTEND;VALUE=DATE:20260223
-DESCRIPTION:Tune: Lenten. Gospel: Matthew 6:19-34 — Seek first the Kingdo
- m of God
+DESCRIPTION:Tune: Lenten. Gospel: Matthew 6:19-34 — Seek first the Kingdom of God
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
 END:VEVENT
@@ -77,8 +73,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260301
 SUMMARY:🟣 2nd Sunday of Lent — Temptation
 DTEND;VALUE=DATE:20260302
-DESCRIPTION:Tune: Lenten. Gospel: Matthew 4:1-11 — Christ tempted in the 
- wilderness
+DESCRIPTION:Tune: Lenten. Gospel: Matthew 4:1-11 — Christ tempted in the wilderness
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
 END:VEVENT
@@ -86,8 +81,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
 SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
 DTEND;VALUE=DATE:20260309
-DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11-32 — Repentance in the Fathe
- rs bosom
+DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11-32 — Repentance in the Fathers bosom
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
 END:VEVENT
@@ -95,8 +89,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
 SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
 DTEND;VALUE=DATE:20260316
-DESCRIPTION:Tune: Lenten. Gospel: John 4:1-42 — Worship the Father in Spi
- rit and Truth
+DESCRIPTION:Tune: Lenten. Gospel: John 4:1-42 — Worship the Father in Spirit and Truth
 TRANSP:TRANSPARENT
 UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
 END:VEVENT
@@ -120,8 +113,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 SUMMARY:🌿 Palm Sunday (27 Paremhotep)
 DTEND;VALUE=DATE:20260406
-DESCRIPTION:Tune: Hosanna. Triumphal entry of Christ into Jerusalem — Hol
- y Week begins
+DESCRIPTION:Tune: Hosanna. Triumphal entry of Christ into Jerusalem — Holy Week begins
 TRANSP:TRANSPARENT
 UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
 END:VEVENT
@@ -137,8 +129,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 SUMMARY:🟡 Thomas Sunday
 DTEND;VALUE=DATE:20260420
-DESCRIPTION:Tune: Joyful. Gospel: John 20:19-31 — Blessed are those who h
- ave not seen
+DESCRIPTION:Tune: Joyful. Gospel: John 20:19-31 — Blessed are those who have not seen
 TRANSP:TRANSPARENT
 UID:---thomas-sunday-20260419@coptic-calendar
 END:VEVENT
@@ -162,8 +153,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
 SUMMARY:🟡 5th Sunday of Holy 50 — Light of the World
 DTEND;VALUE=DATE:20260511
-DESCRIPTION:Tune: Joyful. Gospel: John 12:46 — Christ the Light of the Wo
- rld
+DESCRIPTION:Tune: Joyful. Gospel: John 12:46 — Christ the Light of the World
 TRANSP:TRANSPARENT
 UID:---5th-sunday-of-holy-50---light-of-the--20260510@coptic-calendar
 END:VEVENT
@@ -171,8 +161,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
 SUMMARY:🟡 6th Sunday of Holy 50 — Way Truth Life
 DTEND;VALUE=DATE:20260518
-DESCRIPTION:Tune: Joyful. Gospel: John 14:6 — I am the Way the Truth and 
- the Life
+DESCRIPTION:Tune: Joyful. Gospel: John 14:6 — I am the Way the Truth and the Life
 TRANSP:TRANSPARENT
 UID:---6th-sunday-of-holy-50---way-truth-lif-20260517@coptic-calendar
 END:VEVENT
@@ -180,8 +169,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260524
 SUMMARY:🟡 7th Sunday of Holy 50 — Conqueror
 DTEND;VALUE=DATE:20260525
-DESCRIPTION:Tune: Joyful. Gospel: John 16:33 — Be of good cheer I have ov
- ercome the world
+DESCRIPTION:Tune: Joyful. Gospel: John 16:33 — Be of good cheer I have overcome the world
 TRANSP:TRANSPARENT
 UID:---7th-sunday-of-holy-50---conqueror-20260524@coptic-calendar
 END:VEVENT
@@ -189,8 +177,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
 SUMMARY:🔥 Pentecost Sunday
 DTEND;VALUE=DATE:20260601
-DESCRIPTION:Tune: Joyful. Descent of the Holy Spirit upon the Apostles (Act
- s 2)
+DESCRIPTION:Tune: Joyful. Descent of the Holy Spirit upon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
 UID:---pentecost-sunday-20260531@coptic-calendar
 END:VEVENT
@@ -206,8 +193,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 SUMMARY:🟢 1st Sunday of Paone (7 Paone)
 DTEND;VALUE=DATE:20260615
-DESCRIPTION:Synaxarion: St. Abaskhiroun the Soldier. Coptic date: 7 Paone 1
- 742 AM.
+DESCRIPTION:Synaxarion: St. Abaskhiroun the Soldier. Coptic date: 7 Paone 1742 AM.
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-paone--7-paone--20260614@coptic-calendar
 END:VEVENT
@@ -223,8 +209,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
 DTEND;VALUE=DATE:20260629
-DESCRIPTION:Synaxarion: St. Timothy of Memphis. Coptic date: 21 Paone 1742 
- AM.
+DESCRIPTION:Synaxarion: St. Timothy of Memphis. Coptic date: 21 Paone 1742 AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-paone--21-paone--20260628@coptic-calendar
 END:VEVENT
@@ -248,8 +233,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
 DTEND;VALUE=DATE:20260720
-DESCRIPTION:Synaxarion: St. Ephrem the Syrian. Coptic date: 12 Epep 1742 AM
- .
+DESCRIPTION:Synaxarion: St. Ephrem the Syrian. Coptic date: 12 Epep 1742 AM.
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-epep--12-epep--20260719@coptic-calendar
 END:VEVENT
@@ -257,8 +241,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
 DTEND;VALUE=DATE:20260727
-DESCRIPTION:Synaxarion: St. Bidaba, Bishop of Qift. Coptic date: 19 Epep 17
- 42 AM.
+DESCRIPTION:Synaxarion: St. Bidaba, Bishop of Qift. Coptic date: 19 Epep 1742 AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-epep--19-epep--20260726@coptic-calendar
 END:VEVENT
@@ -266,8 +249,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
 SUMMARY:🟢 4th Sunday of Epep (26 Epep)
 DTEND;VALUE=DATE:20260803
-DESCRIPTION:Synaxarion: St. Joseph the Carpenter. Coptic date: 26 Epep 1742
-  AM.
+DESCRIPTION:Synaxarion: St. Joseph the Carpenter. Coptic date: 26 Epep 1742 AM.
 TRANSP:TRANSPARENT
 UID:---4th-sunday-of-epep--26-epep--20260802@coptic-calendar
 END:VEVENT
@@ -291,8 +273,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
 DTEND;VALUE=DATE:20260824
-DESCRIPTION:Synaxarion: St. James the Soldier. Coptic date: 17 Mesore 1742 
- AM.
+DESCRIPTION:Synaxarion: St. James the Soldier. Coptic date: 17 Mesore 1742 AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-mesore--17-mesore--20260823@coptic-calendar
 END:VEVENT
@@ -316,8 +297,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
 DTEND;VALUE=DATE:20260914
-DESCRIPTION:Synaxarion: Council of Alexandria. Coptic date: 3 Thoout 1743 A
- M.
+DESCRIPTION:Synaxarion: Council of Alexandria. Coptic date: 3 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-thoout--3-thoout--20260913@coptic-calendar
 END:VEVENT
@@ -341,8 +321,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
 DTEND;VALUE=DATE:20261005
-DESCRIPTION:Synaxarion: St. Gregory the Ascetic. Coptic date: 24 Thoout 174
- 3 AM.
+DESCRIPTION:Synaxarion: St. Gregory the Ascetic. Coptic date: 24 Thoout 1743 AM.
 TRANSP:TRANSPARENT
 UID:---4th-sunday-of-thoout--24-thoout--20261004@coptic-calendar
 END:VEVENT
@@ -374,8 +353,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
 SUMMARY:🟢 4th Sunday of Paope (22 Paope)
 DTEND;VALUE=DATE:20261102
-DESCRIPTION:Synaxarion: St. Luke the Evangelist. Coptic date: 22 Paope 1743
-  AM.
+DESCRIPTION:Synaxarion: St. Luke the Evangelist. Coptic date: 22 Paope 1743 AM.
 TRANSP:TRANSPARENT
 UID:---4th-sunday-of-paope--22-paope--20261101@coptic-calendar
 END:VEVENT
@@ -383,8 +361,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 SUMMARY:🟢 5th Sunday of Paope (29 Paope)
 DTEND;VALUE=DATE:20261109
-DESCRIPTION:Tune: Joyful. Synaxarion: St. Demetrius of Thessalonica. Coptic
-  date: 29 Paope 1743 AM.
+DESCRIPTION:Tune: Joyful. Synaxarion: St. Demetrius of Thessalonica. Coptic date: 29 Paope 1743 AM.
 TRANSP:TRANSPARENT
 UID:---5th-sunday-of-paope--29-paope--20261108@coptic-calendar
 END:VEVENT
@@ -392,8 +369,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
 SUMMARY:🟢 1st Sunday of Hator (6 Hator)
 DTEND;VALUE=DATE:20261116
-DESCRIPTION:Synaxarion: St. Felix, Pope of Rome. Coptic date: 6 Hator 1743 
- AM.
+DESCRIPTION:Synaxarion: St. Felix, Pope of Rome. Coptic date: 6 Hator 1743 AM.
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-hator--6-hator--20261115@coptic-calendar
 END:VEVENT
@@ -401,8 +377,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
 SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
 DTEND;VALUE=DATE:20261123
-DESCRIPTION:Synaxarion: St. Timothy, Bishop of Ansena. Coptic date: 13 Hato
- r 1743 AM.
+DESCRIPTION:Synaxarion: St. Timothy, Bishop of Ansena. Coptic date: 13 Hator 1743 AM.
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-hator--13-hator--20261122@coptic-calendar
 END:VEVENT
@@ -410,8 +385,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
 DTEND;VALUE=DATE:20261130
-DESCRIPTION:Synaxarion: St. Anianus, 2nd Pope. Coptic date: 20 Hator 1743 A
- M.
+DESCRIPTION:Synaxarion: St. Anianus, 2nd Pope. Coptic date: 20 Hator 1743 AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-hator--20-hator--20261129@coptic-calendar
 END:VEVENT
@@ -419,8 +393,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 SUMMARY:🟢 4th Sunday of Hator (27 Hator)
 DTEND;VALUE=DATE:20261207
-DESCRIPTION:Synaxarion: St. James the Mangled. Coptic date: 27 Hator 1743 A
- M.
+DESCRIPTION:Synaxarion: St. James the Mangled. Coptic date: 27 Hator 1743 AM.
 TRANSP:TRANSPARENT
 UID:---4th-sunday-of-hator--27-hator--20261206@coptic-calendar
 END:VEVENT
@@ -428,8 +401,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
 SUMMARY:🕊️ 1st Sunday of Kiahk — Annunciation to Zechariah
 DTEND;VALUE=DATE:20261214
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:1-25 — The angel announces the bi
- rth of John
+DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:1-25 — The angel announces the birth of John
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-kiahk---annunciation-to-20261213@coptic-calendar
 END:VEVENT
@@ -437,8 +409,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261220
 SUMMARY:🕊️ 2nd Sunday of Kiahk — Annunciation to Mary
 DTEND;VALUE=DATE:20261221
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:26-38 — The angel announces to St
- . Mary
+DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:26-38 — The angel announces to St. Mary
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-kiahk---annunciation-to-20261220@coptic-calendar
 END:VEVENT
@@ -459,3 +430,4 @@ TRANSP:TRANSPARENT
 UID:---4th-sunday-of-kiahk---birth-of-john-20270103@coptic-calendar
 END:VEVENT
 END:VCALENDAR
+
