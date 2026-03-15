@@ -17,8 +17,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
 SUMMARY:🐟 Jonah Fast Begins (25 Tobe)
 DTEND;VALUE=DATE:20260203
-DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of th
- e people of Nineveh
+DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of the people of Nineveh
 TRANSP:TRANSPARENT
 UID:---jonah-fast-begins--25-tobe--20260202@coptic-calendar
 END:VEVENT
@@ -34,8 +33,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 SUMMARY:🐟 Great Lent Begins (9 Meshir)
 DTEND;VALUE=DATE:20260217
-DESCRIPTION:9 Meshir 1742 AM — Beginning of the 55-day Great Lent, strict
-  vegan fast
+DESCRIPTION:9 Meshir 1742 AM — Beginning of the 55-day Great Lent, strict vegan fast
 TRANSP:TRANSPARENT
 UID:---great-lent-begins--9-meshir--20260216@coptic-calendar
 END:VEVENT
@@ -43,8 +41,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 SUMMARY:Last Friday of Lent (25 Paremhotep)
 DTEND;VALUE=DATE:20260404
-DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Hol
- y Week
+DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy Week
 TRANSP:TRANSPARENT
 UID:last-friday-of-lent--25-paremhotep--20260403@coptic-calendar
 END:VEVENT
@@ -52,8 +49,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 SUMMARY:✝️ Good Friday (2 Parmoute)
 DTEND;VALUE=DATE:20260411
-DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for
-  the salvation of the world
+DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for the salvation of the world
 TRANSP:TRANSPARENT
 UID:--good-friday--2-parmoute--20260410@coptic-calendar
 END:VEVENT
@@ -93,9 +89,9 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 SUMMARY:🐟 Nativity Fast Begins (16 Hator)
 DTEND;VALUE=DATE:20261126
-DESCRIPTION:16 Hator 1743 AM — 43-day vegan fast preparing for the Nativi
- ty
+DESCRIPTION:16 Hator 1743 AM — 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 UID:---nativity-fast-begins--16-hator--20261125@coptic-calendar
 END:VEVENT
 END:VCALENDAR
+
