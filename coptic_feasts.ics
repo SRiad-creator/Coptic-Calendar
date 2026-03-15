@@ -1,4 +1,4 @@
-BEGIN:VCALENDAR
+﻿BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
@@ -18,7 +18,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260114
-SUMMARY:Circumcision of Our Lord (6 Tobe)
+SUMMARY:âœ¨ Circumcision of Our Lord (6 Tobe)
 DTEND;VALUE=DATE:20260115
 DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM — Circumcision of our Lord on 
  the 8th day after Nativity
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260121
-SUMMARY:Miracle at Cana (13 Tobe)
+SUMMARY:â˜¦ï¸ Miracle at Cana (13 Tobe)
 DTEND;VALUE=DATE:20260122
 DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM — First miracle of Christ, wa
  ter into wine (John 2:1-11)
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260205
-SUMMARY:Feast of Jonah (28 Tobe)
+SUMMARY:ðŸ³ Feast of Jonah (28 Tobe)
 DTEND;VALUE=DATE:20260206
 DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM — Celebration after the Ninev
  eh fast
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260215
-SUMMARY:Presentation into the Temple (8 Meshir)
+SUMMARY:ðŸ•¯ï¸ Presentation into the Temple (8 Meshir)
 DTEND;VALUE=DATE:20260216
 DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM — Presentation of our Lord 4
  0 days after Nativity
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260521
-SUMMARY:Feast of Ascension (13 Pashons)
+SUMMARY:â˜ï¸ Feast of Ascension (13 Pashons)
 DTEND;VALUE=DATE:20260522
 DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM — Ascension of our Lord 40
   days after Resurrection
@@ -148,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260601
-SUMMARY:Holy Family to Egypt (24 Pashons)
+SUMMARY:ðŸª Holy Family to Egypt (24 Pashons)
 DTEND;VALUE=DATE:20260602
 DESCRIPTION:Tune: Joyful. 24 Pashons 1742 AM — Flight of the Holy Famil
  y into Egypt (Matthew 2:13-15)
