@@ -1,225 +1,10 @@
-BEGIN:VCALENDAR
+﻿BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Coptic Sundays
 X-WR-TIMEZONE:Australia/Sydney
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260104
-SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
-DTEND;VALUE=DATE:20260105
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57-80 — Birth of John the Bapti
- st
-TRANSP:TRANSPARENT
-UID:---4th-sunday-of-kiahk---birth-of-john-20260104@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260111
-SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
-DTEND;VALUE=DATE:20260112
-DESCRIPTION:Synaxarion: Children of Bethlehem. Coptic date: 3 Tobe 1742 A
- M.
-TRANSP:TRANSPARENT
-UID:---1st-sunday-of-tobe--3-tobe--20260111@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260118
-SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
-DTEND;VALUE=DATE:20260119
-DESCRIPTION:Synaxarion: Paramouni of Theophany. Coptic date: 10 Tobe 1742
-  AM.
-TRANSP:TRANSPARENT
-UID:---2nd-sunday-of-tobe--10-tobe--20260118@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260125
-SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
-DTEND;VALUE=DATE:20260126
-DESCRIPTION:Synaxarion: St. Domadius. Coptic date: 17 Tobe 1742 AM.
-TRANSP:TRANSPARENT
-UID:---3rd-sunday-of-tobe--17-tobe--20260125@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260201
-SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
-DTEND;VALUE=DATE:20260202
-DESCRIPTION:Synaxarion: St. Mary the Ascetic. Coptic date: 24 Tobe 1742 A
- M.
-TRANSP:TRANSPARENT
-UID:---4th-sunday-of-tobe--24-tobe--20260201@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260208
-SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
-DTEND;VALUE=DATE:20260209
-DESCRIPTION:Synaxarion: Council of Constantinople. Coptic date: 1 Meshir 
- 1742 AM.
-TRANSP:TRANSPARENT
-UID:---1st-sunday-of-meshir--1-meshir--20260208@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260215
-SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
-DTEND;VALUE=DATE:20260216
-DESCRIPTION:Synaxarion: Presentation into the Temple. Coptic date: 8 Mesh
- ir 1742 AM.
-TRANSP:TRANSPARENT
-UID:---2nd-sunday-of-meshir--8-meshir--20260215@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260222
-SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
-DTEND;VALUE=DATE:20260223
-DESCRIPTION:Tune: Lenten. Gospel: Matthew 6:19-34 — Seek first the King
- dom of God
-TRANSP:TRANSPARENT
-UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260301
-SUMMARY:🟣 2nd Sunday of Lent — Temptation
-DTEND;VALUE=DATE:20260302
-DESCRIPTION:Tune: Lenten. Gospel: Matthew 4:1-11 — Christ tempted in th
- e wilderness
-TRANSP:TRANSPARENT
-UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260308
-SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
-DTEND;VALUE=DATE:20260309
-DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11-32 — Repentance in the Fat
- hers bosom
-TRANSP:TRANSPARENT
-UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260315
-SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
-DTEND;VALUE=DATE:20260316
-DESCRIPTION:Tune: Lenten. Gospel: John 4:1-42 — Worship the Father in S
- pirit and Truth
-TRANSP:TRANSPARENT
-UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260322
-SUMMARY:🟣 5th Sunday of Lent — Paralytic Man
-DTEND;VALUE=DATE:20260323
-DESCRIPTION:Tune: Lenten. Gospel: John 5:1-18 — Bethesda and Baptism
-TRANSP:TRANSPARENT
-UID:---5th-sunday-of-lent---paralytic-man-20260322@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260329
-SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
-DTEND;VALUE=DATE:20260330
-DESCRIPTION:Tune: Lenten. Gospel: John 9:1-41 — Spiritual enlightenment
-TRANSP:TRANSPARENT
-UID:---6th-sunday-of-lent---man-born-blind-20260329@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:Tune: Hosanna. Triumphal entry of Christ into Jerusalem — H
- oly Week begins
-TRANSP:TRANSPARENT
-UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260412
-SUMMARY:🌅 Resurrection Sunday
-DTEND;VALUE=DATE:20260413
-DESCRIPTION:Tune: Joyful. Christ is Risen! Christos Anesti!
-TRANSP:TRANSPARENT
-UID:---resurrection-sunday-20260412@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260419
-SUMMARY:🟡 Thomas Sunday
-DTEND;VALUE=DATE:20260420
-DESCRIPTION:Tune: Joyful. Gospel: John 20:19-31 — Blessed are those who
-  have not seen
-TRANSP:TRANSPARENT
-UID:---thomas-sunday-20260419@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260426
-SUMMARY:🟡 3rd Sunday of Holy 50 — Bread of Life
-DTEND;VALUE=DATE:20260427
-DESCRIPTION:Tune: Joyful. Gospel: John 6:35-45 — Christ the Bread of Li
- fe
-TRANSP:TRANSPARENT
-UID:---3rd-sunday-of-holy-50---bread-of-life-20260426@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260503
-SUMMARY:🟡 4th Sunday of Holy 50 — Water of Life
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:Tune: Joyful. Gospel: John 4:14 — Christ the Water of Life
-TRANSP:TRANSPARENT
-UID:---4th-sunday-of-holy-50---water-of-life-20260503@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260510
-SUMMARY:🟡 5th Sunday of Holy 50 — Light of the World
-DTEND;VALUE=DATE:20260511
-DESCRIPTION:Tune: Joyful. Gospel: John 12:46 — Christ the Light of the 
- World
-TRANSP:TRANSPARENT
-UID:---5th-sunday-of-holy-50---light-of-the--20260510@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260517
-SUMMARY:🟡 6th Sunday of Holy 50 — Way Truth Life
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:Tune: Joyful. Gospel: John 14:6 — I am the Way the Truth an
- d the Life
-TRANSP:TRANSPARENT
-UID:---6th-sunday-of-holy-50---way-truth-lif-20260517@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260524
-SUMMARY:🟡 7th Sunday of Holy 50 — Conqueror
-DTEND;VALUE=DATE:20260525
-DESCRIPTION:Tune: Joyful. Gospel: John 16:33 — Be of good cheer I have 
- overcome the world
-TRANSP:TRANSPARENT
-UID:---7th-sunday-of-holy-50---conqueror-20260524@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260315T000000Z
-DTSTART;VALUE=DATE:20260531
-SUMMARY:🔥 Pentecost Sunday
-DTEND;VALUE=DATE:20260601
-DESCRIPTION:Tune: Joyful. Descent of the Holy Spirit upon the Apostles (A
- cts 2)
-TRANSP:TRANSPARENT
-UID:---pentecost-sunday-20260531@coptic-calendar
-END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260607
@@ -501,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20261227
-SUMMARY:🟢 3rd Sunday of Kiahk — Visitation
+SUMMARY:ðŸ•Šï¸ 3rd Sunday of Kiahk — Visitation
 DTEND;VALUE=DATE:20261228
 DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:39-56 — St. Mary visits Elizabe
  th
@@ -511,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20270103
-SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
+SUMMARY:ðŸ•Šï¸ 4th Sunday of Kiahk — Birth of John
 DTEND;VALUE=DATE:20270104
 DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57-80 — Birth of John the Bapti
  st
