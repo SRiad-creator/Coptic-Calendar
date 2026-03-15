@@ -258,7 +258,7 @@ html {
 .prayer-box {
     border: 1.5px solid var(--coptic-gold);
     border-radius: 4px;
-    height: 7rem;
+    height: 10rem;
     background: rgba(193, 160, 118, 0.03);
 }
 
@@ -280,9 +280,9 @@ html {
 }
 
 .legend-items {
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.3rem 1rem;
 }
 
 .legend-item {
