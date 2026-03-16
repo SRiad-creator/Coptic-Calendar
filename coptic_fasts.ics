@@ -7,7 +7,7 @@ X-WR-CALNAME:Coptic Fasts
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
-SUMMARY:Nativity Fast Ends (28 Kiahk)
+SUMMARY:?? Nativity Fast Ends (28 Kiahk)
 DTEND;VALUE=DATE:20260107
 DESCRIPTION:28 Kiahk 1742 AM — Conclusion of the 43-day Advent fast
 TRANSP:TRANSPARENT
@@ -23,7 +23,7 @@ UID:---jonah-fast-begins--25-tobe--20260202@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
-SUMMARY:Jonah Fast Ends (27 Tobe)
+SUMMARY:?? Jonah Fast Ends (27 Tobe)
 DTEND;VALUE=DATE:20260205
 DESCRIPTION:27 Tobe 1742 AM — Conclusion of the three-day Nineveh fast
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ UID:---great-lent-begins--9-meshir--20260216@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
-SUMMARY:Last Friday of Lent (25 Paremhotep)
+SUMMARY:?? Last Friday of Lent (25 Paremhotep)
 DTEND;VALUE=DATE:20260404
 DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy Week
 TRANSP:TRANSPARENT
@@ -63,7 +63,7 @@ UID:---apostles-fast-begins--24-pashons--20260601@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
-SUMMARY:Apostles Fast Ends (4 Epep)
+SUMMARY:?? Apostles Fast Ends (4 Epep)
 DTEND;VALUE=DATE:20260712
 DESCRIPTION:4 Epep 1742 AM — Conclusion of the Apostles Fast
 TRANSP:TRANSPARENT
@@ -79,7 +79,7 @@ UID:---st--mary-fast-begins--1-mesore--20260807@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
-SUMMARY:St. Mary Fast Ends (15 Mesore)
+SUMMARY:?? St. Mary Fast Ends (15 Mesore)
 DTEND;VALUE=DATE:20260822
 DESCRIPTION:15 Mesore 1742 AM — Conclusion of the 15-day Theotokos fast
 TRANSP:TRANSPARENT
