@@ -200,7 +200,8 @@ DTSTART;VALUE=DATE:20260412
 SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
 DTEND;VALUE=DATE:20260413
 DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM — The Resurrection of our Lord
-  Jesus Christ from the dead!
+  Jesus Christ from the dead!\n\nXristos Anesti, Alithos Anesti! Piekhristo
+ s Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
 UID:---glorious-resurrection--4-parmoute--20260412@coptic-calendar
 END:VEVENT
@@ -285,7 +286,7 @@ UID:--feast-of-the-cross--day-3---19-thoout-20260929@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260104
-SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
+SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 DTEND;VALUE=DATE:20260105
 DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57-80 — Birth of John the Baptist
 TRANSP:TRANSPARENT
@@ -705,7 +706,7 @@ UID:---2nd-sunday-of-kiahk---annunciation-to-20261220@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261227
-SUMMARY:🟢 3rd Sunday of Kiahk — Visitation
+SUMMARY:🕊️ 3rd Sunday of Kiahk — Visitation
 DTEND;VALUE=DATE:20261228
 DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:39-56 — St. Mary visits Elizabeth
 TRANSP:TRANSPARENT
@@ -713,7 +714,7 @@ UID:---3rd-sunday-of-kiahk---visitation-20261227@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270103
-SUMMARY:🟢 4th Sunday of Kiahk — Birth of John
+SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 DTEND;VALUE=DATE:20270104
 DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57-80 — Birth of John the Baptist
 TRANSP:TRANSPARENT
