@@ -69,7 +69,7 @@
         // One-time cache nuke to clear stale service workers
         (function() {
             if ('serviceWorker' in navigator) {
-                if (!localStorage.getItem('sw_v39_cleaned')) {
+                if (!localStorage.getItem('sw_v40_cleaned')) {
                     // Unregister ALL service workers
                     navigator.serviceWorker.getRegistrations().then(function(regs) {
                         var promises = regs.map(function(r) { return r.unregister(); });
@@ -80,7 +80,7 @@
                             return Promise.all(keys.map(function(k) { return caches.delete(k); }));
                         });
                     }).then(function() {
-                        localStorage.setItem('sw_v39_cleaned', '1');
+                        localStorage.setItem('sw_v40_cleaned', '1');
                         // Re-register fresh SW and reload
                         navigator.serviceWorker.register('sw.js').then(function() {
                             window.location.reload();
