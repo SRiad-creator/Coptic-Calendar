@@ -17,7 +17,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
 SUMMARY:🐟 Jonah Fast Begins (25 Tobe)
 DTEND;VALUE=DATE:20260203
-DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of the 
+DESCRIPTION:25 Tobe 1742 AM — Three-day fast commemorating the fast of the
  people of Nineveh
 TRANSP:TRANSPARENT
 UID:---jonah-fast-begins--25-tobe--20260202@coptic-calendar
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 SUMMARY:✝️ Last Friday of Lent (25 Paremhotep)
 DTEND;VALUE=DATE:20260404
-DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy 
+DESCRIPTION:25 Paremhotep 1742 AM — Final Friday of Great Lent before Holy
  Week
 TRANSP:TRANSPARENT
 UID:last-friday-of-lent--25-paremhotep--20260403@coptic-calendar
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 SUMMARY:✝️ Good Friday (2 Parmoute)
 DTEND;VALUE=DATE:20260411
-DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus Christ for t
+DESCRIPTION:2 Parmoute 1742 AM — Crucifixion of our Lord Jesus  Christ for t
  he salvation of the world
 TRANSP:TRANSPARENT
 UID:--good-friday--2-parmoute--20260410@coptic-calendar
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260107
 SUMMARY:🎄 Feast of the Nativity (29 Kiahk)
 DTEND;VALUE=DATE:20260108
-DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
+DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM — Birth of our Lord Jesus  Christ
 TRANSP:TRANSPARENT
 UID:---feast-of-the-nativity--29-kiahk--20260107@coptic-calendar
 END:VEVENT
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 SUMMARY:✨ Circumcision of Our Lord (6 Tobe)
 DTEND;VALUE=DATE:20260115
-DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM — Circumcision of our Lord on the 
+DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM — Circumcision of our Lord on the
  8th day after Nativity
 TRANSP:TRANSPARENT
 UID:circumcision-of-our-lord--6-tobe--20260114@coptic-calendar
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 SUMMARY:🍷 Miracle at Cana (13 Tobe)
 DTEND;VALUE=DATE:20260122
-DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM — First miracle of Christ, water 
+DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM — First miracle of Christ, water
  into wine (John 2:1-11)
 TRANSP:TRANSPARENT
 UID:miracle-at-cana--13-tobe--20260121@coptic-calendar
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 SUMMARY:🪦 Lazarus Saturday (26 Paremhotep)
 DTEND;VALUE=DATE:20260405
-DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 
+DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John
  11)
 TRANSP:TRANSPARENT
 UID:lazarus-saturday--26-paremhotep--20260404@coptic-calendar
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
 SUMMARY:🕊️ Annunciation (29 Paremhotep)
 DTEND;VALUE=DATE:20260408
-DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the 
+DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the
  Virgin Mary (Luke 1:26-38)
 TRANSP:TRANSPARENT
 UID:---annunciation--29-paremhotep--20260407@coptic-calendar
@@ -200,8 +200,8 @@ DTSTART;VALUE=DATE:20260412
 SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
 DTEND;VALUE=DATE:20260413
 DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM — The Resurrection of our Lord
-  Jesus Christ from the dead!\n\nXristos Anesti, Alithos Anesti! Piekhristo
- s Aftonf, Khen O Methmi Aftonf!
+  Jesus Christ from the dead!\n\nXristos Anesti, Alithos Anesti! Pikhristos
+  Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
 UID:---glorious-resurrection--4-parmoute--20260412@coptic-calendar
 END:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260819
 SUMMARY:✨ Transfiguration (13 Mesore)
 DTEND;VALUE=DATE:20260820
-DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM — Transfiguration of Christ on 
+DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM — Transfiguration of Christ on
  Mount Tabor (Matt 17:1-8)
 TRANSP:TRANSPARENT
 UID:--transfiguration--13-mesore--20260819@coptic-calendar
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
 DTEND;VALUE=DATE:20260223
-DESCRIPTION:Tune: Lenten. Gospel: Matthew 6:19-34 — Seek first the Kingdom 
+DESCRIPTION:Tune: Lenten. Gospel: Matthew 6:19-34 — Seek first the Kingdom
  of God
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 SUMMARY:🌿 Palm Sunday (27 Paremhotep)
 DTEND;VALUE=DATE:20260406
-DESCRIPTION:Tune: Hosanna. Triumphal entry of Christ into Jerusalem — Holy 
+DESCRIPTION:Tune: Hosanna. Triumphal entry of Christ into Jerusalem — Holy
  Week begins
 TRANSP:TRANSPARENT
 UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
 DTEND;VALUE=DATE:20260629
-DESCRIPTION:Synaxarion: St. Timothy of Memphis. Coptic date: 21 Paone 1742 
+DESCRIPTION:Synaxarion: St. Timothy of Memphis. Coptic date: 21 Paone 1742
  AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-paone--21-paone--20260628@coptic-calendar
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
 DTEND;VALUE=DATE:20260824
-DESCRIPTION:Synaxarion: St. James the Soldier. Coptic date: 17 Mesore 1742 
+DESCRIPTION:Synaxarion: St. James the Soldier. Coptic date: 17 Mesore 1742
  AM.
 TRANSP:TRANSPARENT
 UID:---3rd-sunday-of-mesore--17-mesore--20260823@coptic-calendar
@@ -654,7 +654,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
 SUMMARY:🟢 1st Sunday of Hator (6 Hator)
 DTEND;VALUE=DATE:20261116
-DESCRIPTION:Synaxarion: St. Felix, Pope of Rome. Coptic date: 6 Hator 1743 
+DESCRIPTION:Synaxarion: St. Felix, Pope of Rome. Coptic date: 6 Hator 1743
  AM.
 TRANSP:TRANSPARENT
 UID:---1st-sunday-of-hator--6-hator--20261115@coptic-calendar
@@ -699,7 +699,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261220
 SUMMARY:🕊️ 2nd Sunday of Kiahk — Annunciation to Mary
 DTEND;VALUE=DATE:20261221
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:26-38 — The angel announces to St. 
+DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:26-38 — The angel announces to St.
  Mary
 TRANSP:TRANSPARENT
 UID:---2nd-sunday-of-kiahk---annunciation-to-20261220@coptic-calendar
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
 SUMMARY:☦️ St. Paul the First Hermit (2 Meshir)
 DTEND;VALUE=DATE:20260210
-DESCRIPTION:2 Meshir 1742 AM — First Christian hermit, lived in a cave for 
+DESCRIPTION:2 Meshir 1742 AM — First Christian hermit, lived in a cave for
  nearly 100 years
 TRANSP:TRANSPARENT
 UID:--st--paul-the-first-hermit--2-meshir--20260209@coptic-calendar
@@ -918,7 +918,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 SUMMARY:☦️ St. Mary of Egypt (6 Parmoute)
 DTEND;VALUE=DATE:20260415
-DESCRIPTION:6 Parmoute 1742 AM — Repentant saint who lived 47 years in the 
+DESCRIPTION:6 Parmoute 1742 AM — Repentant saint who lived 47 years in the
  desert
 TRANSP:TRANSPARENT
 UID:--st--mary-of-egypt--6-parmoute--20260414@coptic-calendar
@@ -1183,7 +1183,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 SUMMARY:☦️ Council of Ephesus (431 AD) (12 Thoout)
 DTEND;VALUE=DATE:20260923
-DESCRIPTION:12 Thoout 1743 AM — Third Ecumenical Council, affirmed Mary as 
+DESCRIPTION:12 Thoout 1743 AM — Third Ecumenical Council, affirmed Mary as
  Theotokos
 TRANSP:TRANSPARENT
 UID:--council-of-ephesus--431-ad---12-thoou-20260922@coptic-calendar
