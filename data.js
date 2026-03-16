@@ -92,7 +92,6 @@ const CALENDAR_DATA = [
             { day: 17, type: 'c', name: 'St. James son of Alphaeus', icon: 'st_james_alphaeus' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
             { day: 23, type: 'c', name: 'St. Elizabeth', icon: 'st_elizabeth' },
-            { day: 23, type: 'c', name: 'Hegumen Michael El Behairy', icon: 'hegumen_michael' },
             { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
         ],
         excludeMonthly: 0
@@ -384,7 +383,6 @@ const CALENDAR_DATA = [
             { day: 13, type: 'c', name: 'Council of Alexandria', icon: 'council_alexandria' },
             { day: 14, type: 'c', name: 'St. Verena', icon: 'st_verena' },
             { day: 17, type: 'c', name: 'St. Rebecca & Children', icon: 'st_rebecca' },
-            { day: 17, type: 'c', name: 'St. Dioscorus of Alexandria', icon: 'st_dioscorus' },
             { day: 20, type: 'c', name: 'St. Matruna', icon: 'st_matruna' },
             { day: 22, type: 'c', name: 'Council of Ephesus', icon: 'council_ephesus' },
             { day: 27, type: 'm', name: 'Feast of the Cross (Day 1)', icon: 'feast_cross' },
@@ -424,7 +422,6 @@ const CALENDAR_DATA = [
         feasts: [
             { day: 4, type: 'c', name: 'St. Gregory the Ascetic', icon: 'st_gregory_ascetic' },
             { day: 5, type: 'c', name: 'St. Maurice', icon: 'st_maurice' },
-            { day: 5, type: 'c', name: '🐳 Jonah the Prophet', icon: 'feast_jonah' },
             { day: 11, type: 'c', name: 'St. Anastasia', icon: 'st_anastasia' },
             { day: 14, type: 'c', name: 'St. Bacchus', icon: 'sts_sergius_bacchus' },
             { day: 17, type: 'c', name: 'St. Paul the Simple', icon: 'st_paul_simple' },
@@ -510,7 +507,7 @@ const CALENDAR_DATA = [
         fastingTip: 'Nativity Fast continues — we await Emmanuel. Increase your prayers and hymns of Kiahk.',
         feasts: [
             { day: 1, type: 'c', name: 'Cosmas & Damian', icon: 'sts_cosmas_damian' },
-            { day: 4, type: 'c', name: '⚔️ Philopater Mercurius', icon: 'st_mercurius' },
+            { day: 4, type: 'c', name: 'Philopater Mercurius', icon: 'st_mercurius' },
             { day: 5, type: 'c', name: 'St. Gregory of Nyssa', icon: 'st_gregory_nyssa' },
             { day: 6, type: 'c', name: 'St. James the Mangled', icon: 'st_james_mangled' },
             { day: 8, type: 'c', name: 'St. Peter Seal of Martyrs', icon: 'st_peter_seal' },
