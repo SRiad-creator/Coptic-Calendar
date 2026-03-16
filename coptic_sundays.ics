@@ -118,14 +118,6 @@ TRANSP:TRANSPARENT
 UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-SUMMARY:🌅 Resurrection Sunday
-DTEND;VALUE=DATE:20260413
-DESCRIPTION:Tune: Joyful. Christ is Risen! Christos Anesti!
-TRANSP:TRANSPARENT
-UID:---resurrection-sunday-20260412@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 SUMMARY:🟡 Thomas Sunday
 DTEND;VALUE=DATE:20260420
@@ -172,14 +164,6 @@ DTEND;VALUE=DATE:20260525
 DESCRIPTION:Tune: Joyful. Gospel: John 16:33 — Be of good cheer I have overcome the world
 TRANSP:TRANSPARENT
 UID:---7th-sunday-of-holy-50---conqueror-20260524@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-SUMMARY:🔥 Pentecost Sunday
-DTEND;VALUE=DATE:20260601
-DESCRIPTION:Tune: Joyful. Descent of the Holy Spirit upon the Apostles (Acts 2)
-TRANSP:TRANSPARENT
-UID:---pentecost-sunday-20260531@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
