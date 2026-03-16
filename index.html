@@ -28,7 +28,7 @@
             <p>Year of Our Lord 2026 &bull; Coptic Year 1742–1743 AM</p>
             <div class="header-buttons">
                 <button id="printBtn" onclick="window.print()">🖨️ Print</button>
-                <a href="coptic_calendar_2026.ics" download="Coptic_Calendar_2026.ics" class="gcal-btn">📅 All Events</a>
+                <a href="coptic_calendar_2026.ics" download="Coptic_Calendar_2026.ics" id="mainCalBtn" class="gcal-btn">📅 All Events</a>
             </div>
             <div class="header-buttons ics-split">
                 <a href="coptic_feasts.ics" download="Coptic_Feasts.ics" class="gcal-btn gcal-feast">🎄 Feasts</a>
@@ -42,6 +42,22 @@
     <div id="calendar-container"></div>
 
     <script src="data.js"></script>
+    <script>
+        // Apple OS Detection to dynamically switch to Google Webcal
+        document.addEventListener("DOMContentLoaded", function() {
+            var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+            var isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+            if (isIOS || (isMac && 'ontouchend' in document)) {
+                var btn = document.getElementById("mainCalBtn");
+                btn.href = "https://calendar.google.com/calendar/r?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics";
+                btn.target = "_blank";
+                btn.removeAttribute("download");
+                btn.innerHTML = "🇬 Google Calendar";
+                btn.style.background = "#4285F4";
+                btn.style.color = "white";
+            }
+        });
+    </script>
     <script src="app.js"></script>
     <script>
         // One-time cache nuke to clear stale service workers
