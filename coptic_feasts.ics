@@ -15,7 +15,7 @@ UID:---feast-of-the-nativity--29-kiahk--20260107@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-SUMMARY:? Circumcision of Our Lord (6 Tobe)
+SUMMARY:✨ Circumcision of Our Lord (6 Tobe)
 DTEND;VALUE=DATE:20260115
 DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
 TRANSP:TRANSPARENT
@@ -47,7 +47,7 @@ UID:feast-of-jonah--28-tobe--20260205@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-SUMMARY:??? Presentation into the Temple (8 Meshir)
+SUMMARY:⛪️ Presentation into the Temple (8 Meshir)
 DTEND;VALUE=DATE:20260216
 DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM — Presentation of our Lord 40 days after Nativity
 TRANSP:TRANSPARENT
@@ -119,7 +119,7 @@ UID:---feast-of-pentecost--23-pashons--20260531@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
-SUMMARY:???? Holy Family to Egypt (24 Pashons)
+SUMMARY:⛪️ Holy Family to Egypt (24 Pashons)
 DTEND;VALUE=DATE:20260602
 DESCRIPTION:Tune: Joyful. 24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
 TRANSP:TRANSPARENT
