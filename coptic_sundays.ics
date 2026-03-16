@@ -97,13 +97,6 @@ DESCRIPTION:Tune: Lenten. Gospel: John 9:1–41 (Man Born Blind).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
-DESCRIPTION:Tune: Hosanna. Gospel: All 4 Gospels (Triumphal Entry).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 SUMMARY:🟡 Thomas Sunday
 UID:---thomas-sunday-20260419@coptic-calendar
