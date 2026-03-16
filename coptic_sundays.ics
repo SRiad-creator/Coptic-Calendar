@@ -10,7 +10,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260104
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 UID:---4th-sunday-of-kiahk---birth-of-john-20260104@coptic-calendar
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57–80 (Birth of John).
+DESCRIPTION:Tune: Annual. Gospel: Luke 1:57–80 (Birth of John).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -66,7 +66,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260222
 SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
 UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: Matt 6:19–33 (Treasures in Heaven).
+DESCRIPTION:Tune: Lenten. Gospel: Matt 6:19–33 (Treasures in Heaven).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -74,7 +74,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260301
 SUMMARY:🟣 2nd Sunday of Lent — Temptation
 UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: Matt 4:1–11 (The Temptation).
+DESCRIPTION:Tune: Lenten. Gospel: Matt 4:1–11 (The Temptation).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260308
 SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
 UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: Luke 15:11–32 (Prodigal Son).
+DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11–32 (Prodigal Son).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +90,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260315
 SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
 UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: John 4:1–42 (Samaritan Woman).
+DESCRIPTION:Tune: Lenten. Gospel: John 4:1–42 (Samaritan Woman).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +98,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260322
 SUMMARY:🟣 5th Sunday of Lent — Paralytic Man
 UID:---5th-sunday-of-lent---paralytic-man-20260322@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: John 5:1–18 (The Paralytic).
+DESCRIPTION:Tune: Lenten. Gospel: John 5:1–18 (The Paralytic).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -106,7 +106,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260329
 SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
 UID:---6th-sunday-of-lent---man-born-blind-20260329@coptic-calendar
-DESCRIPTION:Tune: Solemn. Gospel: John 9:1–41 (Man Born Blind).
+DESCRIPTION:Tune: Lenten. Gospel: John 9:1–41 (Man Born Blind).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -114,7 +114,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20260405
 SUMMARY:🌿 Palm Sunday (27 Paremhotep)
 UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: All 4 Gospels (Triumphal Entry).
+DESCRIPTION:Tune: Hosanna. Gospel: All 4 Gospels (Triumphal Entry).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -386,7 +386,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20261213
 SUMMARY:🕊️ 1st Sunday of Kiahk — Annunciation to Zechariah
 UID:---1st-sunday-of-kiahk---annunciation-to-20261213@coptic-calendar
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:1–25 (Annunciation to Zechariah).
+DESCRIPTION:Tune: Annual. Gospel: Luke 1:1–25 (Annunciation to Zechariah).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -394,7 +394,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20261220
 SUMMARY:🕊️ 2nd Sunday of Kiahk — Annunciation to Mary
 UID:---2nd-sunday-of-kiahk---annunciation-to-20261220@coptic-calendar
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:26–38 (Annunciation to Mary).
+DESCRIPTION:Tune: Annual. Gospel: Luke 1:26–38 (Annunciation to Mary).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -402,7 +402,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20261227
 SUMMARY:🕊️ 3rd Sunday of Kiahk — Visitation
 UID:---3rd-sunday-of-kiahk---visitation-20261227@coptic-calendar
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:39–56 (Mary visits Elizabeth).
+DESCRIPTION:Tune: Annual. Gospel: Luke 1:39–56 (Mary visits Elizabeth).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -410,7 +410,7 @@ DTSTAMP:20260315T000000Z
 DTSTART;VALUE=DATE:20270103
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 UID:---4th-sunday-of-kiahk---birth-of-john-20270103@coptic-calendar
-DESCRIPTION:Tune: Kiahk. Gospel: Luke 1:57.
+DESCRIPTION:Tune: Annual. Gospel: Unknown.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
