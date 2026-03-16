@@ -7,6 +7,7 @@ X-WR-CALNAME:Coptic Sundays
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 UID:---4th-sunday-of-kiahk---birth-of-john-20260104@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:57–80 (Birth of John).
@@ -14,48 +15,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
-SUMMARY:🕊️ 1st Sunday of Tobe (3 Tobe)
+DTEND;VALUE=DATE:20260112
+SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
 UID:---1st-sunday-of-tobe--3-tobe--20260111@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: Matt 2:13–23 (Flight to Egypt).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
-SUMMARY:🕊️ 2nd Sunday of Tobe (10 Tobe)
+DTEND;VALUE=DATE:20260119
+SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
 UID:---2nd-sunday-of-tobe--10-tobe--20260118@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 3:1–18 (Prepare the Way).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
-SUMMARY:🕊️ 3rd Sunday of Tobe (17 Tobe)
+DTEND;VALUE=DATE:20260126
+SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
 UID:---3rd-sunday-of-tobe--17-tobe--20260125@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 3:22–36 (John's Testimony).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
-SUMMARY:🕊️ 4th Sunday of Tobe (24 Tobe)
+DTEND;VALUE=DATE:20260202
+SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
 UID:---4th-sunday-of-tobe--24-tobe--20260201@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 9:1–38 (Man Born Blind).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
-SUMMARY:🕊️ 1st Sunday of Meshir (1 Meshir)
+DTEND;VALUE=DATE:20260209
+SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
 UID:---1st-sunday-of-meshir--1-meshir--20260208@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 6:22–38 (Bread of Life).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-SUMMARY:🕊️ 2nd Sunday of Meshir (8 Meshir)
+DTEND;VALUE=DATE:20260216
+SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
 UID:---2nd-sunday-of-meshir--8-meshir--20260215@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 6:1–18 (Charity.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
 SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
 UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: Matt 6:19–33 (Treasures in Heaven).
@@ -63,6 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
 SUMMARY:🟣 2nd Sunday of Lent — Temptation
 UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: Matt 4:1–11 (The Temptation).
@@ -70,6 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
 SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
 UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11–32 (Prodigal Son).
@@ -77,6 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
 SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
 UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: John 4:1–42 (Samaritan Woman).
@@ -84,6 +95,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 SUMMARY:🟣 5th Sunday of Lent — Paralytic Man
 UID:---5th-sunday-of-lent---paralytic-man-20260322@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: John 5:1–18 (The Paralytic).
@@ -91,6 +103,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
 SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
 UID:---6th-sunday-of-lent---man-born-blind-20260329@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: John 9:1–41 (Man Born Blind).
@@ -98,6 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
 SUMMARY:🟡 Thomas Sunday
 UID:---thomas-sunday-20260419@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 20:19–31 (Jesus & Thomas).
@@ -105,6 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
 SUMMARY:🟡 3rd Sunday of Holy 50 — Bread of Life
 UID:---3rd-sunday-of-holy-50---bread-of-life-20260426@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: John 6:35–45 (Bread of Life).
@@ -112,6 +127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
 SUMMARY:🟡 4th Sunday of Holy 50 — Water of Life
 UID:---4th-sunday-of-holy-50---water-of-life-20260503@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: John 4:1–15 (Water of Life).
@@ -119,6 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
 SUMMARY:🟡 5th Sunday of Holy 50 — Light of the World
 UID:---5th-sunday-of-holy-50---light-of-the--20260510@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: John 12:35–50 (Light of the World).
@@ -126,6 +143,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
 SUMMARY:🟡 6th Sunday of Holy 50 — Way Truth Life
 UID:---6th-sunday-of-holy-50---way-truth-lif-20260517@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: John 14:1–11 (The Way.
@@ -133,6 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
 SUMMARY:🟡 7th Sunday of Holy 50 — Conqueror
 UID:---7th-sunday-of-holy-50---conqueror-20260524@coptic-calendar
 DESCRIPTION:Tune: Joyful. Gospel: John 16:23–33 (Overcoming the World).
@@ -140,195 +159,223 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
-SUMMARY:🕊️ 5th Sunday of Pashons (30 Pashons)
+DTEND;VALUE=DATE:20260608
+SUMMARY:🟢 5th Sunday of Pashons (30 Pashons)
 UID:---5th-sunday-of-pashons--30-pashons--20260607@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 9:12–17 (Five Loaves).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
-SUMMARY:🕊️ 1st Sunday of Paone (7 Paone)
+DTEND;VALUE=DATE:20260615
+SUMMARY:🟢 1st Sunday of Paone (7 Paone)
 UID:---1st-sunday-of-paone--7-paone--20260614@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 11:1–13 (Ask.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
-SUMMARY:🕊️ 2nd Sunday of Paone (14 Paone)
+DTEND;VALUE=DATE:20260622
+SUMMARY:🟢 2nd Sunday of Paone (14 Paone)
 UID:---2nd-sunday-of-paone--14-paone--20260621@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 5:17–26 (Healing Paralytic).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
-SUMMARY:🕊️ 3rd Sunday of Paone (21 Paone)
+DTEND;VALUE=DATE:20260629
+SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
 UID:---3rd-sunday-of-paone--21-paone--20260628@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 12:22–37 (A House Divided).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
-SUMMARY:🕊️ 4th Sunday of Paone (28 Paone)
+DTEND;VALUE=DATE:20260706
+SUMMARY:🟢 4th Sunday of Paone (28 Paone)
 UID:---4th-sunday-of-paone--28-paone--20260705@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 6:27–38 (Love Your Enemies).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
-SUMMARY:🕊️ 1st Sunday of Epep (5 Epep)
+DTEND;VALUE=DATE:20260713
+SUMMARY:🟢 1st Sunday of Epep (5 Epep)
 UID:---1st-sunday-of-epep--5-epep--20260712@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 10:1–20 (Sending the 70).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
-SUMMARY:🕊️ 2nd Sunday of Epep (12 Epep)
+DTEND;VALUE=DATE:20260720
+SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
 UID:---2nd-sunday-of-epep--12-epep--20260719@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 18:1–9 (Who is Greatest?).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
-SUMMARY:🕊️ 3rd Sunday of Epep (19 Epep)
+DTEND;VALUE=DATE:20260727
+SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
 UID:---3rd-sunday-of-epep--19-epep--20260726@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 9:10–17 (Feeding the 5000).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
-SUMMARY:🕊️ 4th Sunday of Epep (26 Epep)
+DTEND;VALUE=DATE:20260803
+SUMMARY:🟢 4th Sunday of Epep (26 Epep)
 UID:---4th-sunday-of-epep--26-epep--20260802@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 11:1–45 (Raising Lazarus).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
-SUMMARY:🕊️ 1st Sunday of Mesore (3 Mesore)
+DTEND;VALUE=DATE:20260810
+SUMMARY:🟢 1st Sunday of Mesore (3 Mesore)
 UID:---1st-sunday-of-mesore--3-mesore--20260809@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 20:9–19 (Wicked Vinedressers).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
-SUMMARY:🕊️ 2nd Sunday of Mesore (10 Mesore)
+DTEND;VALUE=DATE:20260817
+SUMMARY:🟢 2nd Sunday of Mesore (10 Mesore)
 UID:---2nd-sunday-of-mesore--10-mesore--20260816@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 5:27–39 (Call of Matthew).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
-SUMMARY:🕊️ 3rd Sunday of Mesore (17 Mesore)
+DTEND;VALUE=DATE:20260824
+SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
 UID:---3rd-sunday-of-mesore--17-mesore--20260823@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Mark 3:22–35 (True Family of Jesus).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
-SUMMARY:🕊️ 4th Sunday of Mesore (24 Mesore)
+DTEND;VALUE=DATE:20260831
+SUMMARY:🟢 4th Sunday of Mesore (24 Mesore)
 UID:---4th-sunday-of-mesore--24-mesore--20260830@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Mark 13:3–37 (Watchfulness).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
-SUMMARY:🕊️ 1st Sunday of Nesi (1 Nesi)
+DTEND;VALUE=DATE:20260907
+SUMMARY:🟢 1st Sunday of Nesi (1 Nesi)
 UID:---1st-sunday-of-nesi--1-nesi--20260906@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 24:1–35 (Second Coming).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
-SUMMARY:🕊️ 1st Sunday of Thoout (3 Thoout)
+DTEND;VALUE=DATE:20260914
+SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
 UID:---1st-sunday-of-thoout--3-thoout--20260913@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 7:28–35 (John the Baptist).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
-SUMMARY:🕊️ 2nd Sunday of Thoout (10 Thoout)
+DTEND;VALUE=DATE:20260921
+SUMMARY:🟢 2nd Sunday of Thoout (10 Thoout)
 UID:---2nd-sunday-of-thoout--10-thoout--20260920@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 10:21–28 (Jesus Rejoices).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
-SUMMARY:🕊️ 3rd Sunday of Thoout (17 Thoout)
+DTEND;VALUE=DATE:20260928
+SUMMARY:🟢 3rd Sunday of Thoout (17 Thoout)
 UID:---3rd-sunday-of-thoout--17-thoout--20260927@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 10:22–38 (Feast of Dedication).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
-SUMMARY:🕊️ 4th Sunday of Thoout (24 Thoout)
+DTEND;VALUE=DATE:20261005
+SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
 UID:---4th-sunday-of-thoout--24-thoout--20261004@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 7:36–50 (Sinful Woman).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
-SUMMARY:🕊️ 1st Sunday of Paope (1 Paope)
+DTEND;VALUE=DATE:20261012
+SUMMARY:🟢 1st Sunday of Paope (1 Paope)
 UID:---1st-sunday-of-paope--1-paope--20261011@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Mark 2:1–12 (Healing Paralytic).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
-SUMMARY:🕊️ 2nd Sunday of Paope (8 Paope)
+DTEND;VALUE=DATE:20261019
+SUMMARY:🟢 2nd Sunday of Paope (8 Paope)
 UID:---2nd-sunday-of-paope--8-paope--20261018@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 5:1–11 (Catch of Fish).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
-SUMMARY:🕊️ 3rd Sunday of Paope (15 Paope)
+DTEND;VALUE=DATE:20261026
+SUMMARY:🟢 3rd Sunday of Paope (15 Paope)
 UID:---3rd-sunday-of-paope--15-paope--20261025@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 12:22–28 (Blind & Mute Demoniac).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
-SUMMARY:🕊️ 4th Sunday of Paope (22 Paope)
+DTEND;VALUE=DATE:20261102
+SUMMARY:🟢 4th Sunday of Paope (22 Paope)
 UID:---4th-sunday-of-paope--22-paope--20261101@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 7:11–17 (Widow of Nain).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
-SUMMARY:🕊️ 5th Sunday of Paope (29 Paope)
+DTEND;VALUE=DATE:20261109
+SUMMARY:🟢 5th Sunday of Paope (29 Paope)
 UID:---5th-sunday-of-paope--29-paope--20261108@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:26–38 (The Annunciation).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
-SUMMARY:🕊️ 1st Sunday of Hator (6 Hator)
+DTEND;VALUE=DATE:20261116
+SUMMARY:🟢 1st Sunday of Hator (6 Hator)
 UID:---1st-sunday-of-hator--6-hator--20261115@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 8:4–15 (Sower - Luke).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
-SUMMARY:🕊️ 2nd Sunday of Hator (13 Hator)
+DTEND;VALUE=DATE:20261123
+SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
 UID:---2nd-sunday-of-hator--13-hator--20261122@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Matt 13:1–23 (Sower - Matthew).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
-SUMMARY:🕊️ 3rd Sunday of Hator (20 Hator)
+DTEND;VALUE=DATE:20261130
+SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
 UID:---3rd-sunday-of-hator--20-hator--20261129@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 14:25–35 (Cost of Discipleship).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
-SUMMARY:🕊️ 4th Sunday of Hator (27 Hator)
+DTEND;VALUE=DATE:20261207
+SUMMARY:🟢 4th Sunday of Hator (27 Hator)
 UID:---4th-sunday-of-hator--27-hator--20261206@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Mark 10:17–31 (Rich Young Ruler).
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
 SUMMARY:🕊️ 1st Sunday of Kiahk — Annunciation to Zechariah
 UID:---1st-sunday-of-kiahk---annunciation-to-20261213@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:1–25 (Annunciation to Zechariah).
@@ -336,6 +383,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
 SUMMARY:🕊️ 2nd Sunday of Kiahk — Annunciation to Mary
 UID:---2nd-sunday-of-kiahk---annunciation-to-20261220@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:26–38 (Annunciation to Mary).
@@ -343,6 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
 SUMMARY:🕊️ 3rd Sunday of Kiahk — Visitation
 UID:---3rd-sunday-of-kiahk---visitation-20261227@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:39–56 (Mary visits Elizabeth).
@@ -350,6 +399,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 UID:---4th-sunday-of-kiahk---birth-of-john-20270103@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:57.
