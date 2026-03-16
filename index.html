@@ -49,7 +49,7 @@
             var isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
             if (isIOS || (isMac && 'ontouchend' in document)) {
                 var btn = document.getElementById("mainCalBtn");
-                btn.href = "https://calendar.google.com/calendar/r?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics";
+                btn.href = "https://www.google.com/calendar/render?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics";
                 btn.target = "_blank";
                 btn.removeAttribute("download");
                 btn.innerHTML = "🇬 Google Calendar";
