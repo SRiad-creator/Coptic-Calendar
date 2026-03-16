@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
-SUMMARY:🟡 Thomas Sunday
+SUMMARY:🟢 🟡 Thomas Sunday
 UID:---thomas-sunday-20260419@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: John 20:19–31 (Jesus & Thomas).
 TRANSP:TRANSPARENT
@@ -402,7 +402,7 @@ DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
 UID:---4th-sunday-of-kiahk---birth-of-john-20270103@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: Luke 1:57.
+DESCRIPTION:Tune: Annual. Gospel: Unknown.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
