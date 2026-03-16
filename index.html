@@ -28,8 +28,13 @@
             <p>Year of Our Lord 2026 &bull; Coptic Year 1742–1743 AM</p>
             <div class="header-buttons">
                 <button id="printBtn" onclick="window.print()">🖨️ Print</button>
-                <a href="coptic_calendar_2026.ics" class="gcal-btn">🍎 Apple</a>
-                <a href="https://calendar.google.com/calendar/r?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics" target="_blank" class="gcal-btn" style="background: #4285F4; color: white;">🇬 Google</a>
+                <div class="calendar-dropdown">
+                    <button class="gcal-btn dropdown-toggle" onclick="toggleDropdown()">📅 Add to Calendar</button>
+                    <div class="dropdown-content" id="calDropdown">
+                        <a href="coptic_calendar_2026.ics" class="dropdown-item">🍎 Apple Calendar</a>
+                        <a href="https://calendar.google.com/calendar/r?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics" target="_blank" class="dropdown-item">🇬 Google Calendar</a>
+                    </div>
+                </div>
             </div>
             <div class="header-buttons ics-split">
                 <a href="coptic_feasts.ics" download="Coptic_Feasts.ics" class="gcal-btn gcal-feast">🎄 Feasts</a>
@@ -45,6 +50,22 @@
     <script src="data.js"></script>
     <script src="app.js"></script>
     <script>
+        function toggleDropdown() {
+            document.getElementById("calDropdown").classList.toggle("show");
+        }
+        
+        window.onclick = function(event) {
+            if (!event.target.matches('.dropdown-toggle')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+
         // One-time cache nuke to clear stale service workers
         (function() {
             if ('serviceWorker' in navigator) {
