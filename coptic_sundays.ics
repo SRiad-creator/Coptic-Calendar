@@ -7,8 +7,8 @@ X-WR-CALNAME:Coptic Orthodox Calendar
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260104
-DTEND;VALUE=DATE:20260105
 SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
+DTEND;VALUE=DATE:20260105
 DESCRIPTION:Tune: Kiahk.\nGospel: Luke 1:57-80 (Birth of St. John the Bapti
  st)\nCoptic date: 26 Kiahk\nTheme: Birth of John
 TRANSP:TRANSPARENT
@@ -17,8 +17,8 @@ UID:4th-sunday-of-kiahk-26-kiahk-2026-01-04-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
-DTEND;VALUE=DATE:20260112
 SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
+DTEND;VALUE=DATE:20260112
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 2:13-23 (The Flight into Egypt)\
  nCoptic date: 3 Tobe
 TRANSP:TRANSPARENT
@@ -27,8 +27,8 @@ UID:1st-sunday-of-tobe-3-tobe-2026-01-11-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
-DTEND;VALUE=DATE:20260119
 SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
+DTEND;VALUE=DATE:20260119
 DESCRIPTION:Tune: Annual.\nGospel: Luke 3:1-18 (Prepare the Way)\nCoptic da
  te: 10 Tobe\nTheme: Paramoun of Theophany
 TRANSP:TRANSPARENT
@@ -37,8 +37,8 @@ UID:2nd-sunday-of-tobe-10-tobe-2026-01-18-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
 SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
+DTEND;VALUE=DATE:20260126
 DESCRIPTION:Tune: Annual.\nGospel: John 3:22-36 (John the Baptist's Testimo
  ny)\nCoptic date: 17 Tobe
 TRANSP:TRANSPARENT
@@ -47,8 +47,8 @@ UID:3rd-sunday-of-tobe-17-tobe-2026-01-25-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260202
 SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
+DTEND;VALUE=DATE:20260202
 DESCRIPTION:Tune: Annual.\nGospel: John 9:1-38 (The Man Born Blind)\nCoptic
   date: 24 Tobe
 TRANSP:TRANSPARENT
@@ -57,8 +57,8 @@ UID:4th-sunday-of-tobe-24-tobe-2026-02-01-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
-DTEND;VALUE=DATE:20260209
 SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
+DTEND;VALUE=DATE:20260209
 DESCRIPTION:Tune: Annual.\nGospel: John 6:22-38 (Jesus is the Bread of Life
  )\nCoptic date: 1 Meshir
 TRANSP:TRANSPARENT
@@ -67,8 +67,8 @@ UID:1st-sunday-of-meshir-1-meshir-2026-02-08-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
-DTEND;VALUE=DATE:20260223
 SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
+DTEND;VALUE=DATE:20260223
 DESCRIPTION:Tune: Lenten.\nGospel: Matthew 6:19-33 (Seek first the Kingdom 
  of God)\nCoptic date: 15 Meshir\nTheme: Treasures in Heaven
 TRANSP:TRANSPARENT
@@ -77,8 +77,8 @@ UID:1st-sunday-of-lent-15-meshir-2026-02-22-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260302
 SUMMARY:🟣 2nd Sunday of Lent — Temptation
+DTEND;VALUE=DATE:20260302
 DESCRIPTION:Tune: Lenten.\nGospel: Matthew 4:1-11 (The Temptation on the Mo
  unt)\nCoptic date: 22 Meshir\nTheme: Temptation
 TRANSP:TRANSPARENT
@@ -87,8 +87,8 @@ UID:2nd-sunday-of-lent-22-meshir-2026-03-01-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
-DTEND;VALUE=DATE:20260309
 SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
+DTEND;VALUE=DATE:20260309
 DESCRIPTION:Tune: Lenten.\nGospel: Luke 15:11-32 (Repentance in the Father'
  s bosom)\nCoptic date: 29 Meshir\nTheme: Prodigal Son
 TRANSP:TRANSPARENT
@@ -97,8 +97,8 @@ UID:3rd-sunday-of-lent-29-meshir-2026-03-08-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260315
-DTEND;VALUE=DATE:20260316
 SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
+DTEND;VALUE=DATE:20260316
 DESCRIPTION:Tune: Lenten.\nGospel: John 4:1-42 (Worship in Spirit and Truth
  )\nCoptic date: 6 Paremhotep\nTheme: Samaritan Woman
 TRANSP:TRANSPARENT
@@ -107,8 +107,8 @@ UID:4th-sunday-of-lent-6-paremhotep-2026-03-15-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
 SUMMARY:🟣 5th Sunday of Lent — Paralytic Man
+DTEND;VALUE=DATE:20260323
 DESCRIPTION:Tune: Lenten.\nGospel: John 5:1-18 (Healing of the Paralytic at
   Bethesda)\nCoptic date: 13 Paremhotep\nTheme: Paralytic Man
 TRANSP:TRANSPARENT
@@ -117,8 +117,8 @@ UID:5th-sunday-of-lent-13-paremhotep-2026-03-22-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
 SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
+DTEND;VALUE=DATE:20260330
 DESCRIPTION:Tune: Lenten.\nGospel: John 9:1-41 (Spiritual enlightenment)\nC
  optic date: 20 Paremhotep\nTheme: Man Born Blind
 TRANSP:TRANSPARENT
@@ -127,8 +127,8 @@ UID:6th-sunday-of-lent-20-paremhotep-2026-03-29-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
 SUMMARY:🟡 2nd Sunday of Holy 50 — Bread of Life
+DTEND;VALUE=DATE:20260427
 DESCRIPTION:Tune: Joyful.\nGospel: John 6:35-45 (The Bread of Life)\nCoptic
   date: 18 Parmoute\nTheme: Bread of Life
 TRANSP:TRANSPARENT
@@ -137,8 +137,8 @@ UID:2nd-sunday-of-holy-50-18-parmoute-2026-04-26-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
 SUMMARY:🟡 3rd Sunday of Holy 50 — Water of Life
+DTEND;VALUE=DATE:20260504
 DESCRIPTION:Tune: Joyful.\nGospel: John 4:1-15 (The Water of Life)\nCoptic 
  date: 25 Parmoute\nTheme: Water of Life
 TRANSP:TRANSPARENT
@@ -147,8 +147,8 @@ UID:3rd-sunday-of-holy-50-25-parmoute-2026-05-03-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
 SUMMARY:🟡 4th Sunday of Holy 50 — Light of the World
+DTEND;VALUE=DATE:20260511
 DESCRIPTION:Tune: Joyful.\nGospel: John 12:35-50 (The Light of the World)\n
  Coptic date: 2 Pashons\nTheme: Light of the World
 TRANSP:TRANSPARENT
@@ -157,8 +157,8 @@ UID:4th-sunday-of-holy-50-2-pashons-2026-05-10-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
 SUMMARY:🟡 5th Sunday of Holy 50 — Way Truth Life
+DTEND;VALUE=DATE:20260518
 DESCRIPTION:Tune: Joyful.\nGospel: John 14:1-11 (The Way, the Truth, and th
  e Life)\nCoptic date: 9 Pashons\nTheme: Way Truth Life
 TRANSP:TRANSPARENT
@@ -167,8 +167,8 @@ UID:5th-sunday-of-holy-50-9-pashons-2026-05-17-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
 SUMMARY:🟡 6th Sunday of Holy 50 — Overcoming
+DTEND;VALUE=DATE:20260525
 DESCRIPTION:Tune: Joyful.\nGospel: John 16:23-33 (Overcoming the World)\nCo
  ptic date: 16 Pashons\nTheme: Overcoming
 TRANSP:TRANSPARENT
@@ -177,8 +177,8 @@ UID:6th-sunday-of-holy-50-16-pashons-2026-05-24-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
 SUMMARY:🟢 5th Sunday of Pashons (30 Pashons)
+DTEND;VALUE=DATE:20260608
 DESCRIPTION:Tune: Annual.\nGospel: Luke 9:12-17 (Miracle of the Five Loaves
  )\nCoptic date: 30 Pashons
 TRANSP:TRANSPARENT
@@ -187,8 +187,8 @@ UID:5th-sunday-of-pashons-30-pashons-2026-06-07-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
 SUMMARY:🟢 1st Sunday of Paone (7 Paone)
+DTEND;VALUE=DATE:20260615
 DESCRIPTION:Tune: Annual.\nGospel: Luke 11:1-13 (Ask, Seek, Knock)\nCoptic 
  date: 7 Paone\nSynaxarion: St. Abaskhiroun the Soldier.
 TRANSP:TRANSPARENT
@@ -197,8 +197,8 @@ UID:1st-sunday-of-paone-7-paone-2026-06-14-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
 SUMMARY:🟢 2nd Sunday of Paone (14 Paone)
+DTEND;VALUE=DATE:20260622
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:17-26 (Healing of the Paralytic)\
  nCoptic date: 14 Paone\nSynaxarion: Pope Yoannis XIX.
 TRANSP:TRANSPARENT
@@ -207,8 +207,8 @@ UID:2nd-sunday-of-paone-14-paone-2026-06-21-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
 SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
+DTEND;VALUE=DATE:20260629
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 12:22-37 (A House Divided)\nCopt
  ic date: 21 Paone\nSynaxarion: St. Timothy of Memphis.
 TRANSP:TRANSPARENT
@@ -217,8 +217,8 @@ UID:3rd-sunday-of-paone-21-paone-2026-06-28-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
 SUMMARY:🟢 4th Sunday of Paone (28 Paone)
+DTEND;VALUE=DATE:20260706
 DESCRIPTION:Tune: Annual.\nGospel: Luke 6:27-38 (Love Your Enemies)\nCoptic
   date: 28 Paone\nSynaxarion: Pope Theodosius.
 TRANSP:TRANSPARENT
@@ -227,8 +227,8 @@ UID:4th-sunday-of-paone-28-paone-2026-07-05-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
 SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
+DTEND;VALUE=DATE:20260720
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 18:1-9 (Who is the Greatest?)\nC
  optic date: 12 Epep\nSynaxarion: St. Ephrem the Syrian.
 TRANSP:TRANSPARENT
@@ -237,8 +237,8 @@ UID:2nd-sunday-of-epep-12-epep-2026-07-19-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
 SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
+DTEND;VALUE=DATE:20260727
 DESCRIPTION:Tune: Annual.\nGospel: Luke 9:10-17 (Feeding the Five Thousand)
  \nCoptic date: 19 Epep\nSynaxarion: St. Bidaba, Bishop of Qift.
 TRANSP:TRANSPARENT
@@ -247,8 +247,8 @@ UID:3rd-sunday-of-epep-19-epep-2026-07-26-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
 SUMMARY:🟢 4th Sunday of Epep (26 Epep)
+DTEND;VALUE=DATE:20260803
 DESCRIPTION:Tune: Annual.\nGospel: John 11:1-45 (The Raising of Lazarus)\nC
  optic date: 26 Epep\nSynaxarion: St. Joseph the Carpenter.
 TRANSP:TRANSPARENT
@@ -257,8 +257,8 @@ UID:4th-sunday-of-epep-26-epep-2026-08-02-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
 SUMMARY:🟢 1st Sunday of Mesore (3 Mesore)
+DTEND;VALUE=DATE:20260810
 DESCRIPTION:Tune: Annual.\nGospel: Luke 20:9-19 (Parable of the Wicked Vine
  dressers)\nCoptic date: 3 Mesore\nSynaxarion: St. Simon Stylites.
 TRANSP:TRANSPARENT
@@ -267,8 +267,8 @@ UID:1st-sunday-of-mesore-3-mesore-2026-08-09-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
 SUMMARY:🟢 2nd Sunday of Mesore (10 Mesore)
+DTEND;VALUE=DATE:20260817
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:27-39 (The Call of Matthew/Levi)\
  nCoptic date: 10 Mesore\nSynaxarion: St. Matra.
 TRANSP:TRANSPARENT
@@ -277,8 +277,8 @@ UID:2nd-sunday-of-mesore-10-mesore-2026-08-16-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
 SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
+DTEND;VALUE=DATE:20260824
 DESCRIPTION:Tune: Annual.\nGospel: Mark 3:22-35 (The True Family of Jesus)\
  nCoptic date: 17 Mesore\nSynaxarion: St. James the Soldier.
 TRANSP:TRANSPARENT
@@ -287,8 +287,8 @@ UID:3rd-sunday-of-mesore-17-mesore-2026-08-23-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
 SUMMARY:🟢 4th Sunday of Mesore (24 Mesore)
+DTEND;VALUE=DATE:20260831
 DESCRIPTION:Tune: Annual.\nGospel: Mark 13:3-37 (Watchfulness and the End T
  imes)\nCoptic date: 24 Mesore\nSynaxarion: St. Takla Haymanot.
 TRANSP:TRANSPARENT
@@ -297,8 +297,8 @@ UID:4th-sunday-of-mesore-24-mesore-2026-08-30-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
 SUMMARY:🟢 1st Sunday of Nesi (1 Nesi)
+DTEND;VALUE=DATE:20260907
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 24:1-35 (The Second Coming)\nCop
  tic date: 1 Nesi\nSynaxarion: St. Eutychus.
 TRANSP:TRANSPARENT
@@ -307,8 +307,8 @@ UID:1st-sunday-of-nesi-1-nesi-2026-09-06-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
 SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
+DTEND;VALUE=DATE:20260914
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:28-35 (Jesus Speaks of St. John)\
  nCoptic date: 3 Thoout\nSynaxarion: Council of Alexandria.
 TRANSP:TRANSPARENT
@@ -317,8 +317,8 @@ UID:1st-sunday-of-thoout-3-thoout-2026-09-13-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
 SUMMARY:🟢 2nd Sunday of Thoout (10 Thoout)
+DTEND;VALUE=DATE:20260921
 DESCRIPTION:Tune: Annual.\nGospel: Luke 10:21-28 (Jesus Rejoices in the Hol
  y Spirit)\nCoptic date: 10 Thoout\nSynaxarion: St. Matruna.
 TRANSP:TRANSPARENT
@@ -327,8 +327,8 @@ UID:2nd-sunday-of-thoout-10-thoout-2026-09-20-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
 SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
+DTEND;VALUE=DATE:20261005
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:36-50 (Jesus Forgives the Sinful 
  Woman)\nCoptic date: 24 Thoout\nSynaxarion: St. Gregory the Ascetic.
 TRANSP:TRANSPARENT
@@ -337,8 +337,8 @@ UID:4th-sunday-of-thoout-24-thoout-2026-10-04-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
 SUMMARY:🟢 1st Sunday of Paope (1 Paope)
+DTEND;VALUE=DATE:20261012
 DESCRIPTION:Tune: Annual.\nGospel: Mark 2:1-12 (Healing of the Paralytic)\n
  Coptic date: 1 Paope\nSynaxarion: St. Anastasia.
 TRANSP:TRANSPARENT
@@ -347,8 +347,8 @@ UID:1st-sunday-of-paope-1-paope-2026-10-11-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
 SUMMARY:🟢 2nd Sunday of Paope (8 Paope)
+DTEND;VALUE=DATE:20261019
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:1-11 (The Miraculous Catch of Fis
  h)\nCoptic date: 8 Paope\nSynaxarion: St. Abba Hor.
 TRANSP:TRANSPARENT
@@ -357,8 +357,8 @@ UID:2nd-sunday-of-paope-8-paope-2026-10-18-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
 SUMMARY:🟢 3rd Sunday of Paope (15 Paope)
+DTEND;VALUE=DATE:20261026
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 12:22-28 (Healing of the Blind a
  nd Mute Demoniac)\nCoptic date: 15 Paope\nSynaxarion: St. Panteleimon.
 TRANSP:TRANSPARENT
@@ -367,8 +367,8 @@ UID:3rd-sunday-of-paope-15-paope-2026-10-25-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
 SUMMARY:🟢 4th Sunday of Paope (22 Paope)
+DTEND;VALUE=DATE:20261102
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:11-17 (Raising of the Widow of Na
  in's Son)\nCoptic date: 22 Paope\nSynaxarion: St. Luke the Evangelist.
 TRANSP:TRANSPARENT
@@ -377,8 +377,8 @@ UID:4th-sunday-of-paope-22-paope-2026-11-01-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
 SUMMARY:🟢 29th Commemoration Sunday (29 Paope)
+DTEND;VALUE=DATE:20261109
 DESCRIPTION:Tune: Joyful.\nGospel: Luke 1:26-38 (The Annunciation)\nCoptic 
  date: 29 Paope\nSynaxarion: St. Demetrius of Thessalonica.
 TRANSP:TRANSPARENT
@@ -387,8 +387,8 @@ UID:29th-commemoration-sunday-29-paope-2026-11-08-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
 SUMMARY:🟢 1st Sunday of Hator (6 Hator)
+DTEND;VALUE=DATE:20261116
 DESCRIPTION:Tune: Annual.\nGospel: Luke 8:4-15 (Parable of the Sower (Luke)
  )\nCoptic date: 6 Hator\nSynaxarion: St. Felix, Pope of Rome.
 TRANSP:TRANSPARENT
@@ -397,8 +397,8 @@ UID:1st-sunday-of-hator-6-hator-2026-11-15-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
 SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
+DTEND;VALUE=DATE:20261123
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 13:1-23 (Parable of the Sower (M
  atthew))\nCoptic date: 13 Hator\nSynaxarion: St. Timothy, Bishop of Ansena
  .
@@ -408,8 +408,8 @@ UID:2nd-sunday-of-hator-13-hator-2026-11-22-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
 SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
+DTEND;VALUE=DATE:20261130
 DESCRIPTION:Tune: Annual.\nGospel: Luke 14:25-35 (Counting the Cost of Disc
  ipleship)\nCoptic date: 20 Hator\nSynaxarion: St. Anianus, 2nd Pope.
 TRANSP:TRANSPARENT
@@ -418,8 +418,8 @@ UID:3rd-sunday-of-hator-20-hator-2026-11-29-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
 SUMMARY:🟢 4th Sunday of Hator (27 Hator)
+DTEND;VALUE=DATE:20261207
 DESCRIPTION:Tune: Annual.\nGospel: Mark 10:17-31 (The Rich Young Ruler)\nCo
  ptic date: 27 Hator\nSynaxarion: St. James the Mangled.
 TRANSP:TRANSPARENT
@@ -428,8 +428,8 @@ UID:4th-sunday-of-hator-27-hator-2026-12-06-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
 SUMMARY:🕊️ 1st Sunday of Kiahk — Annunciation to Zechariah
+DTEND;VALUE=DATE:20261214
 DESCRIPTION:Tune: Kiahk.\nGospel: Luke 1:1-25 (The angel announces the birt
  h of John)\nCoptic date: 4 Kiahk\nTheme: Annunciation to Zechariah
 TRANSP:TRANSPARENT
@@ -438,8 +438,8 @@ UID:1st-sunday-of-kiahk-4-kiahk-2026-12-13-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
 SUMMARY:🕊️ 2nd Sunday of Kiahk — Annunciation to Mary
+DTEND;VALUE=DATE:20261221
 DESCRIPTION:Tune: Kiahk.\nGospel: Luke 1:26-38 (The angel announces to St. 
  Mary)\nCoptic date: 11 Kiahk\nTheme: Annunciation to Mary
 TRANSP:TRANSPARENT
@@ -448,8 +448,8 @@ UID:2nd-sunday-of-kiahk-11-kiahk-2026-12-20-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
 SUMMARY:🕊️ 3rd Sunday of Kiahk — Visitation
+DTEND;VALUE=DATE:20261228
 DESCRIPTION:Tune: Kiahk.\nGospel: Luke 1:39-56 (Mary visits Elizabeth)\nCop
  tic date: 18 Kiahk\nTheme: Visitation
 TRANSP:TRANSPARENT
