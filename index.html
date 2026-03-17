@@ -43,8 +43,14 @@
 
     <script src="data.js"></script>
     <script>
-        // Apple OS Detection to dynamically switch to Google Webcal
+        // Apple OS Detection + Cache-bust all ICS links
         document.addEventListener("DOMContentLoaded", function() {
+            // Cache-bust all ICS download links
+            var ts = Date.now();
+            document.querySelectorAll('a[href$=".ics"]').forEach(function(a) {
+                a.href = a.href.split('?')[0] + '?v=' + ts;
+            });
+            
             var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
             var isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
             if (isIOS || (isMac && 'ontouchend' in document)) {
