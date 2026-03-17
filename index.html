@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 
-<head>
+<head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coptic Orthodox Calendar 2026 — Year of Our Lord</title>
@@ -63,7 +63,7 @@
         // One-time cache nuke to clear stale service workers
         (function() {
             if ('serviceWorker' in navigator) {
-                if (!localStorage.getItem('sw_v41_cleaned')) {
+                if (!localStorage.getItem('sw_v42_cleaned')) {
                     // Unregister ALL service workers
                     navigator.serviceWorker.getRegistrations().then(function(regs) {
                         var promises = regs.map(function(r) { return r.unregister(); });
@@ -74,7 +74,7 @@
                             return Promise.all(keys.map(function(k) { return caches.delete(k); }));
                         });
                     }).then(function() {
-                        localStorage.setItem('sw_v41_cleaned', '1');
+                        localStorage.setItem('sw_v42_cleaned', '1');
                         // Re-register fresh SW and reload
                         navigator.serviceWorker.register('sw.js').then(function() {
                             window.location.reload();
