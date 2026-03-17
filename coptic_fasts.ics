@@ -9,7 +9,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260107
 SUMMARY:🐟 Nativity Fast Ends (28 Kiahk)
-DESCRIPTION:28 Kiahk 1742 AM --- Conclusion of the 43-day Advent fast
+DESCRIPTION:28 Kiahk 1742 AM - Conclusion of the 43-day Advent fast
 TRANSP:TRANSPARENT
 UID:nativity-fast-ends-28-kiahk-2026-01-06@coptic-calendar
 END:VEVENT
@@ -17,8 +17,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 DTEND;VALUE=DATE:20260119
 SUMMARY:🐟 Paramouni of Theophany (10 Tobe)
-DESCRIPTION:10 Tobe 1742 AM --- Eve of the Feast of Theophany - day of stri
- ct fasting
+DESCRIPTION:10 Tobe 1742 AM - Eve of the Feast of Theophany - day of strict
+  fasting
 TRANSP:TRANSPARENT
 UID:paramouni-of-theophany-10-tobe-2026-01-18@coptic-calendar
 END:VEVENT
@@ -42,8 +42,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:🐟 Great Lent Begins (9 Meshir)
-DESCRIPTION:9 Meshir 1742 AM --- Beginning of the 55-day Great Lent, strict
-  vegan fast
+DESCRIPTION:9 Meshir 1742 AM - Beginning of the 55-day Great Lent, strict v
+ egan fast
 TRANSP:TRANSPARENT
 UID:great-lent-begins-9-meshir-2026-02-16@coptic-calendar
 END:VEVENT
@@ -51,8 +51,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:✝ Last Friday of Lent (25 Paremhotep)
-DESCRIPTION:25 Paremhotep 1742 AM --- Final Friday of Great Lent before Hol
- y Week
+DESCRIPTION:25 Paremhotep 1742 AM - Final Friday of Great Lent before Holy 
+ Week
 TRANSP:TRANSPARENT
 UID:last-friday-of-lent-25-paremhotep-2026-04-03@coptic-calendar
 END:VEVENT
@@ -60,8 +60,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:✝ Good Friday (2 Parmoute)
-DESCRIPTION:2 Parmoute 1742 AM --- Crucifixion of our Lord Jesus Christ for
-  the salvation of the world
+DESCRIPTION:2 Parmoute 1742 AM - Crucifixion of our Lord Jesus Christ for t
+ he salvation of the world
 TRANSP:TRANSPARENT
 UID:good-friday-2-parmoute-2026-04-10@coptic-calendar
 END:VEVENT
@@ -93,8 +93,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🐟 Nativity Fast Begins (16 Hator)
-DESCRIPTION:16 Hator 1742 AM --- 43-day vegan fast preparing for the Nativi
- ty
+DESCRIPTION:16 Hator 1742 AM - 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 UID:nativity-fast-begins-16-hator-2026-11-25@coptic-calendar
 END:VEVENT
