@@ -66,16 +66,6 @@ CATEGORIES:Sunday
 UID:1st-sunday-of-meshir-1-meshir-2026-02-08-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-SUMMARY:🟢 Pre-Lent Sunday (8 Meshir)
-DESCRIPTION:Tune: Annual.\nGospel: Matthew 6:1-18 (Charity, Prayer, Fasting
- )\nCoptic date: 8 Meshir\nTheme: Preparation
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:pre-lent-sunday-8-meshir-2026-02-15-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
 SUMMARY:🟣 1st Sunday of Lent (15 Meshir)
@@ -136,37 +126,6 @@ CATEGORIES:Sunday
 UID:6th-sunday-of-lent-20-paremhotep-2026-03-29-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DESCRIPTION:Tune: Hosanna.\nGospel: Matt 21:1-17; Mark 11:1-11; Luke 19:29-
- 48; John 12:12-19 (Triumphal Entry into Jerusalem)\nCoptic date: 27 Paremh
- otep
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:palm-sunday-27-paremhotep-2026-04-05-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
-DESCRIPTION:Tune: Joyful.\nGospel: Mark 16:2-8 (The Empty Tomb)\nCoptic dat
- e: 4 Parmoute
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:glorious-resurrection-4-parmoute-2026-04-12-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:🟡 Thomas Sunday (11 Parmoute)
-DESCRIPTION:Tune: Joyful.\nGospel: John 20:19-31 (Blessed are those who hav
- e not seen)\nCoptic date: 11 Parmoute
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:thomas-sunday-11-parmoute-2026-04-19-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
 SUMMARY:🟡 2nd Sunday of Holy 50 (18 Parmoute)
@@ -217,16 +176,6 @@ CATEGORIES:Sunday
 UID:6th-sunday-of-holy-50-16-pashons-2026-05-24-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:🔥 Pentecost (23 Pashons)
-DESCRIPTION:Tune: Joyful.\nGospel: John 15:26-16:15 (The Promise of the Hol
- y Spirit)\nCoptic date: 23 Pashons
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:pentecost-23-pashons-2026-05-31-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:🟢 5th Sunday of Pashons (30 Pashons)
@@ -275,17 +224,6 @@ DESCRIPTION:Tune: Annual.\nGospel: Luke 6:27-38 (Love Your Enemies)\nCoptic
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-paone-28-paone-2026-07-05-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:🟢 Feast of the Apostles (5 Epep)
-DESCRIPTION:Tune: Joyful.\nGospel: Matthew 16:13-19 (Peter's Confession)\nC
- optic date: 5 Epep\nTheme: Sts. Peter and Paul\nSynaxarion: Sts. Peter and
-  Paul.
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:feast-of-the-apostles-5-epep-2026-07-12-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
@@ -386,16 +324,6 @@ DESCRIPTION:Tune: Annual.\nGospel: Luke 10:21-28 (Jesus Rejoices in the Hol
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-thoout-10-thoout-2026-09-20-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:🟢 Feast of the Cross (17 Thoout)
-DESCRIPTION:Tune: Hosanna.\nGospel: John 10:22-38 (Jesus at the Feast of De
- dication)\nCoptic date: 17 Thoout
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:feast-of-the-cross-17-thoout-2026-09-27-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
