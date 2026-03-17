@@ -59,6 +59,15 @@ TRANSP:TRANSPARENT
 UID:circumcision-6-tobe-2026-01-14@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:☦ St. Basil the Great (6 Tobe)
+DESCRIPTION:6 Tobe 1742 AM - Archbishop of Caesarea, Doctor of the Church (
+ 330-379 AD)
+TRANSP:TRANSPARENT
+UID:st-basil-the-great-6-tobe-2026-01-14@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:💧 Theophany (11 Tobe)
@@ -285,6 +294,15 @@ TRANSP:TRANSPARENT
 UID:st-elizabeth-16-meshir-2026-02-23@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:☦ Hegumen Michael El Behairy (16 Meshir)
+DESCRIPTION:16 Meshir 1742 AM - Saintly abbot known for his piety and leade
+ rship
+TRANSP:TRANSPARENT
+UID:hegumen-michael-el-behairy-16-meshir-2026-02-23@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:☦ St. Mina the Monk (17 Meshir)
@@ -292,6 +310,24 @@ DESCRIPTION:17 Meshir 1742 AM - Coptic monk and ascetic known for his humil
  ity and prayer
 TRANSP:TRANSPARENT
 UID:st-mina-the-monk-17-meshir-2026-02-24@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:☦ Micah the Prophet (2 Meshir)
+DESCRIPTION:2 Meshir 1742 AM - Old Testament prophet, author of the Book of
+  Micah
+TRANSP:TRANSPARENT
+UID:micah-the-prophet-2-meshir-2026-02-09@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:☦ St. Longinus (13 Meshir)
+DESCRIPTION:13 Meshir 1742 AM - Roman centurion who witnessed the Crucifixi
+ on and confessed Christ
+TRANSP:TRANSPARENT
+UID:st-longinus-13-meshir-2026-02-20@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
@@ -556,12 +592,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:🌅 Resurrection (4 Parmoute)
+SUMMARY:🌅 The Glorious Resurrection (4 Parmoute)
 DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM - The Resurrection of our Lord
   Jesus Christ from the dead!\nXristos Anesti, Alithos Anesti!\nPikhristos 
  Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
-UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
+UID:the-glorious-resurrection-4-parmoute-2026-04-12@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
@@ -639,11 +675,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
-SUMMARY:☦ St. Athanasius (7 Pashons)
+SUMMARY:☦ St. Athanasius the Apostolic (7 Pashons)
 DESCRIPTION:7 Pashons 1742 AM - Patriarch of Alexandria, defender of orthod
  oxy against Arianism (296-373 AD)
 TRANSP:TRANSPARENT
-UID:st-athanasius-7-pashons-2026-05-15@coptic-calendar
+UID:st-athanasius-the-apostolic-7-pashons-2026-05-15@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
@@ -758,6 +794,15 @@ TRANSP:TRANSPARENT
 UID:holy-family-to-egypt-24-pashons-2026-06-01@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:🐟 Apostles' Fast Begins (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM - Vegan fast honouring the Apostles, begins 
+ the day after Pentecost
+TRANSP:TRANSPARENT
+UID:apostles-fast-begins-24-pashons-2026-06-01@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:☦ St. Thomas the Apostle (26 Pashons)
@@ -765,6 +810,15 @@ DESCRIPTION:26 Pashons 1742 AM - The Apostle who doubted, then proclaimed '
  My Lord and my God!' (John 20:28)
 TRANSP:TRANSPARENT
 UID:st-thomas-the-apostle-26-pashons-2026-06-03@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:☦ Sts. Apakir & John (6 Paone)
+DESCRIPTION:6 Paone 1742 AM - Physician-martyrs and miracle workers of the 
+ early Church
+TRANSP:TRANSPARENT
+UID:sts-apakir-john-6-paone-2026-06-13@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
@@ -826,6 +880,15 @@ DESCRIPTION:20 Paone 1742 AM - 24th Pope of Alexandria, Pillar of Faith (37
  6-444 AD)
 TRANSP:TRANSPARENT
 UID:pope-cyril-of-alexandria-20-paone-2026-06-27@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:☦ Prophet Elisha (20 Paone)
+DESCRIPTION:20 Paone 1742 AM - Old Testament prophet, successor of Elijah (
+ 2 Kings 2)
+TRANSP:TRANSPARENT
+UID:prophet-elisha-20-paone-2026-06-27@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
@@ -964,6 +1027,33 @@ DESCRIPTION:8 Epep 1742 AM - Beloved of Christ, the perfect man, desert fat
  her of Scetis
 TRANSP:TRANSPARENT
 UID:st-bishoy-8-epep-2026-07-15@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:☦ St. Karas the Anchorite (8 Epep)
+DESCRIPTION:8 Epep 1742 AM - Desert hermit who spent decades in solitary pr
+ ayer and fasting
+TRANSP:TRANSPARENT
+UID:st-karas-the-anchorite-8-epep-2026-07-15@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:☦ Joshua son of Nun (26 Paone)
+DESCRIPTION:26 Paone 1742 AM - Moses' successor who led Israel into the Pro
+ mised Land
+TRANSP:TRANSPARENT
+UID:joshua-son-of-nun-26-paone-2026-07-03@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:☦ St. Longinus (23 Epep)
+DESCRIPTION:23 Epep 1742 AM - Roman centurion who witnessed the Crucifixion
+  and confessed Christ
+TRANSP:TRANSPARENT
+UID:st-longinus-23-epep-2026-07-30@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
@@ -1755,20 +1845,20 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:☦ Cosmas & Damian (22 Hator)
+SUMMARY:☦ Sts. Cosmas & Damian (22 Hator)
 DESCRIPTION:22 Hator 1742 AM - Twin brothers, physicians and martyrs who he
  aled without charge
 TRANSP:TRANSPARENT
-UID:cosmas-damian-22-hator-2026-12-01@coptic-calendar
+UID:sts-cosmas-damian-22-hator-2026-12-01@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:☦ Philopater Mercurius (25 Hator)
+SUMMARY:☦ St. Philopater Mercurius (25 Hator)
 DESCRIPTION:25 Hator 1742 AM - Also known as Abu Seifein (Father of Two Swo
  rds), great martyr
 TRANSP:TRANSPARENT
-UID:philopater-mercurius-25-hator-2026-12-04@coptic-calendar
+UID:st-philopater-mercurius-25-hator-2026-12-04@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
@@ -1809,11 +1899,11 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:☦ St. Nicholas (10 Kiahk)
+SUMMARY:☦ St. Nicholas of Myra (10 Kiahk)
 DESCRIPTION:10 Kiahk 1742 AM - Bishop of Myra, known for his generosity and
   miracles (270-343 AD)
 TRANSP:TRANSPARENT
-UID:st-nicholas-10-kiahk-2026-12-19@coptic-calendar
+UID:st-nicholas-of-myra-10-kiahk-2026-12-19@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261217
@@ -1823,6 +1913,15 @@ DESCRIPTION:8 Kiahk 1742 AM - Companions in martyrdom under Emperor Maximia
  n
 TRANSP:TRANSPARENT
 UID:sts-barbara-juliana-8-kiahk-2026-12-17@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:☦ St. Samuel the Confessor (8 Kiahk)
+DESCRIPTION:8 Kiahk 1742 AM - Monk of Qalamun, confessor of the faith durin
+ g the Council of Chalcedon
+TRANSP:TRANSPARENT
+UID:st-samuel-the-confessor-8-kiahk-2026-12-17@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
