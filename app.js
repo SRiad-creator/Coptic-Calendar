@@ -342,9 +342,9 @@ function renderCalendar() {
     // Process header cross images
     document.querySelectorAll('.month-cross img').forEach(img => {
         if (img.complete && img.naturalWidth > 0) {
-            whitenBackground(img, 240);
+            whitenBackground(img, 220);
         } else {
-            img.addEventListener('load', () => whitenBackground(img, 240), { once: true });
+            img.addEventListener('load', () => whitenBackground(img, 220), { once: true });
         }
     });
 }
