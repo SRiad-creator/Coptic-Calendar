@@ -241,7 +241,7 @@ DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:🟢 1st Sunday of Paone (7 Paone)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 11:1-13 (Ask, Seek, Knock)\nCoptic 
- date: 7 Paone
+ date: 7 Paone\nSynaxarion: St. Abaskhiroun the Soldier.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-paone-7-paone-2026-06-14-sunday@coptic-calendar
@@ -251,7 +251,7 @@ DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:🟢 2nd Sunday of Paone (14 Paone)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:17-26 (Healing of the Paralytic)\
- nCoptic date: 14 Paone
+ nCoptic date: 14 Paone\nSynaxarion: Pope Yoannis XIX.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-paone-14-paone-2026-06-21-sunday@coptic-calendar
@@ -261,7 +261,7 @@ DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:🟢 3rd Sunday of Paone (21 Paone)
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 12:22-37 (A House Divided)\nCopt
- ic date: 21 Paone
+ ic date: 21 Paone\nSynaxarion: St. Timothy of Memphis.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:3rd-sunday-of-paone-21-paone-2026-06-28-sunday@coptic-calendar
@@ -271,7 +271,7 @@ DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:🟢 4th Sunday of Paone (28 Paone)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 6:27-38 (Love Your Enemies)\nCoptic
-  date: 28 Paone
+  date: 28 Paone\nSynaxarion: Pope Theodosius.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-paone-28-paone-2026-07-05-sunday@coptic-calendar
@@ -281,7 +281,8 @@ DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:🟢 Feast of the Apostles (5 Epep)
 DESCRIPTION:Tune: Joyful.\nGospel: Matthew 16:13-19 (Peter's Confession)\nC
- optic date: 5 Epep\nTheme: Sts. Peter and Paul
+ optic date: 5 Epep\nTheme: Sts. Peter and Paul\nSynaxarion: Sts. Peter and
+  Paul.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:feast-of-the-apostles-5-epep-2026-07-12-sunday@coptic-calendar
@@ -291,7 +292,7 @@ DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 18:1-9 (Who is the Greatest?)\nC
- optic date: 12 Epep
+ optic date: 12 Epep\nSynaxarion: St. Ephrem the Syrian.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-epep-12-epep-2026-07-19-sunday@coptic-calendar
@@ -301,7 +302,7 @@ DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
 SUMMARY:🟢 3rd Sunday of Epep (19 Epep)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 9:10-17 (Feeding the Five Thousand)
- \nCoptic date: 19 Epep
+ \nCoptic date: 19 Epep\nSynaxarion: St. Bidaba, Bishop of Qift.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:3rd-sunday-of-epep-19-epep-2026-07-26-sunday@coptic-calendar
@@ -311,7 +312,7 @@ DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:🟢 4th Sunday of Epep (26 Epep)
 DESCRIPTION:Tune: Annual.\nGospel: John 11:1-45 (The Raising of Lazarus)\nC
- optic date: 26 Epep
+ optic date: 26 Epep\nSynaxarion: St. Joseph the Carpenter.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-epep-26-epep-2026-08-02-sunday@coptic-calendar
@@ -321,7 +322,7 @@ DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:🟢 1st Sunday of Mesore (3 Mesore)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 20:9-19 (Parable of the Wicked Vine
- dressers)\nCoptic date: 3 Mesore
+ dressers)\nCoptic date: 3 Mesore\nSynaxarion: St. Simon Stylites.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-mesore-3-mesore-2026-08-09-sunday@coptic-calendar
@@ -331,7 +332,7 @@ DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:🟢 2nd Sunday of Mesore (10 Mesore)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:27-39 (The Call of Matthew/Levi)\
- nCoptic date: 10 Mesore
+ nCoptic date: 10 Mesore\nSynaxarion: St. Matra.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-mesore-10-mesore-2026-08-16-sunday@coptic-calendar
@@ -341,7 +342,7 @@ DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:🟢 3rd Sunday of Mesore (17 Mesore)
 DESCRIPTION:Tune: Annual.\nGospel: Mark 3:22-35 (The True Family of Jesus)\
- nCoptic date: 17 Mesore
+ nCoptic date: 17 Mesore\nSynaxarion: St. James the Soldier.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:3rd-sunday-of-mesore-17-mesore-2026-08-23-sunday@coptic-calendar
@@ -351,7 +352,7 @@ DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:🟢 4th Sunday of Mesore (24 Mesore)
 DESCRIPTION:Tune: Annual.\nGospel: Mark 13:3-37 (Watchfulness and the End T
- imes)\nCoptic date: 24 Mesore
+ imes)\nCoptic date: 24 Mesore\nSynaxarion: St. Takla Haymanot.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-mesore-24-mesore-2026-08-30-sunday@coptic-calendar
@@ -361,7 +362,7 @@ DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:🟢 1st Sunday of Nesi (1 Nesi)
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 24:1-35 (The Second Coming)\nCop
- tic date: 1 Nesi
+ tic date: 1 Nesi\nSynaxarion: St. Eutychus.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-nesi-1-nesi-2026-09-06-sunday@coptic-calendar
@@ -371,7 +372,7 @@ DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:🟢 1st Sunday of Thoout (3 Thoout)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:28-35 (Jesus Speaks of St. John)\
- nCoptic date: 3 Thoout
+ nCoptic date: 3 Thoout\nSynaxarion: Council of Alexandria.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-thoout-3-thoout-2026-09-13-sunday@coptic-calendar
@@ -381,7 +382,7 @@ DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:🟢 2nd Sunday of Thoout (10 Thoout)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 10:21-28 (Jesus Rejoices in the Hol
- y Spirit)\nCoptic date: 10 Thoout
+ y Spirit)\nCoptic date: 10 Thoout\nSynaxarion: St. Matruna.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-thoout-10-thoout-2026-09-20-sunday@coptic-calendar
@@ -401,7 +402,7 @@ DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:🟢 4th Sunday of Thoout (24 Thoout)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:36-50 (Jesus Forgives the Sinful 
- Woman)\nCoptic date: 24 Thoout
+ Woman)\nCoptic date: 24 Thoout\nSynaxarion: St. Gregory the Ascetic.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-thoout-24-thoout-2026-10-04-sunday@coptic-calendar
@@ -411,7 +412,7 @@ DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:🟢 1st Sunday of Paope (1 Paope)
 DESCRIPTION:Tune: Annual.\nGospel: Mark 2:1-12 (Healing of the Paralytic)\n
- Coptic date: 1 Paope
+ Coptic date: 1 Paope\nSynaxarion: St. Anastasia.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-paope-1-paope-2026-10-11-sunday@coptic-calendar
@@ -421,7 +422,7 @@ DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:🟢 2nd Sunday of Paope (8 Paope)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 5:1-11 (The Miraculous Catch of Fis
- h)\nCoptic date: 8 Paope
+ h)\nCoptic date: 8 Paope\nSynaxarion: St. Abba Hor.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-paope-8-paope-2026-10-18-sunday@coptic-calendar
@@ -431,7 +432,7 @@ DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:🟢 3rd Sunday of Paope (15 Paope)
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 12:22-28 (Healing of the Blind a
- nd Mute Demoniac)\nCoptic date: 15 Paope
+ nd Mute Demoniac)\nCoptic date: 15 Paope\nSynaxarion: St. Panteleimon.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:3rd-sunday-of-paope-15-paope-2026-10-25-sunday@coptic-calendar
@@ -441,7 +442,7 @@ DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:🟢 4th Sunday of Paope (22 Paope)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 7:11-17 (Raising of the Widow of Na
- in's Son)\nCoptic date: 22 Paope
+ in's Son)\nCoptic date: 22 Paope\nSynaxarion: St. Luke the Evangelist.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-paope-22-paope-2026-11-01-sunday@coptic-calendar
@@ -451,7 +452,7 @@ DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:🟢 29th Commemoration Sunday (29 Paope)
 DESCRIPTION:Tune: Joyful.\nGospel: Luke 1:26-38 (The Annunciation)\nCoptic 
- date: 29 Paope
+ date: 29 Paope\nSynaxarion: St. Demetrius of Thessalonica.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:29th-commemoration-sunday-29-paope-2026-11-08-sunday@coptic-calendar
@@ -461,7 +462,7 @@ DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:🟢 1st Sunday of Hator (6 Hator)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 8:4-15 (Parable of the Sower (Luke)
- )\nCoptic date: 6 Hator
+ )\nCoptic date: 6 Hator\nSynaxarion: St. Felix, Pope of Rome.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:1st-sunday-of-hator-6-hator-2026-11-15-sunday@coptic-calendar
@@ -471,7 +472,8 @@ DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:🟢 2nd Sunday of Hator (13 Hator)
 DESCRIPTION:Tune: Annual.\nGospel: Matthew 13:1-23 (Parable of the Sower (M
- atthew))\nCoptic date: 13 Hator
+ atthew))\nCoptic date: 13 Hator\nSynaxarion: St. Timothy, Bishop of Ansena
+ .
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:2nd-sunday-of-hator-13-hator-2026-11-22-sunday@coptic-calendar
@@ -481,7 +483,7 @@ DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:🟢 3rd Sunday of Hator (20 Hator)
 DESCRIPTION:Tune: Annual.\nGospel: Luke 14:25-35 (Counting the Cost of Disc
- ipleship)\nCoptic date: 20 Hator
+ ipleship)\nCoptic date: 20 Hator\nSynaxarion: St. Anianus, 2nd Pope.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:3rd-sunday-of-hator-20-hator-2026-11-29-sunday@coptic-calendar
@@ -491,7 +493,7 @@ DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🟢 4th Sunday of Hator (27 Hator)
 DESCRIPTION:Tune: Annual.\nGospel: Mark 10:17-31 (The Rich Young Ruler)\nCo
- ptic date: 27 Hator
+ ptic date: 27 Hator\nSynaxarion: St. James the Mangled.
 TRANSP:TRANSPARENT
 CATEGORIES:Sunday
 UID:4th-sunday-of-hator-27-hator-2026-12-06-sunday@coptic-calendar
