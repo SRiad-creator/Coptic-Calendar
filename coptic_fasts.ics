@@ -25,18 +25,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
-SUMMARY:🐟 Jonah\ (25 Tobe)
-DESCRIPTION:25 Tobe 1742 AM
+SUMMARY:🐟 Jonah's Fast Begins (25 Tobe)
+DESCRIPTION:25 Tobe 1742 AM - Three-day fast commemorating the people of Ni
+ neveh
 TRANSP:TRANSPARENT
-UID:jonah-25-tobe-2026-02-02@coptic-calendar
+UID:jonah-s-fast-begins-25-tobe-2026-02-02@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
-SUMMARY:🐟 Jonah\ (27 Tobe)
-DESCRIPTION:27 Tobe 1742 AM
+SUMMARY:🐟 Jonah's Fast Ends (27 Tobe)
+DESCRIPTION:27 Tobe 1742 AM - Conclusion of the three-day Nineveh fast
 TRANSP:TRANSPARENT
-UID:jonah-27-tobe-2026-02-04@coptic-calendar
+UID:jonah-s-fast-ends-27-tobe-2026-02-04@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
@@ -68,26 +69,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:🐟 Apostles\ (4 Epep)
-DESCRIPTION:4 Epep 1742 AM
+SUMMARY:🐟 Apostles' Fast Ends (4 Epep)
+DESCRIPTION:4 Epep 1742 AM - Conclusion of the Apostles Fast
 TRANSP:TRANSPARENT
-UID:apostles-4-epep-2026-07-11@coptic-calendar
+UID:apostles-fast-ends-4-epep-2026-07-11@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:🐟 St. Mary\ (1 Mesore)
-DESCRIPTION:1 Mesore 1742 AM
+SUMMARY:🐟 St. Mary's Fast Begins (1 Mesore)
+DESCRIPTION:1 Mesore 1742 AM - 15-day vegan fast before the Assumption
 TRANSP:TRANSPARENT
-UID:st-mary-1-mesore-2026-08-07@coptic-calendar
+UID:st-mary-s-fast-begins-1-mesore-2026-08-07@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:🐟 St. Mary\ (15 Mesore)
-DESCRIPTION:15 Mesore 1742 AM
+SUMMARY:🐟 St. Mary's Fast Ends (15 Mesore)
+DESCRIPTION:15 Mesore 1742 AM - Conclusion of the 15-day Theotokos fast
 TRANSP:TRANSPARENT
-UID:st-mary-15-mesore-2026-08-21@coptic-calendar
+UID:st-mary-s-fast-ends-15-mesore-2026-08-21@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
