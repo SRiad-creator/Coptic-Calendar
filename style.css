@@ -169,18 +169,19 @@ html {
 }
 
 .sidebar-section-label {
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: var(--coptic-gold);
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: var(--coptic-gold-dark);
     letter-spacing: 0.15em;
     text-transform: uppercase;
     margin-bottom: 0.6rem;
 }
 
 .synaxarium-list {
-    font-size: 1rem;
+    font-size: 1.05rem;
     line-height: 1.5;
-    color: var(--text-secondary);
+    color: #4B5563;
+    font-weight: 500;
     margin-bottom: 1.4rem;
     list-style: none;
 }
@@ -215,9 +216,10 @@ html {
 }
 
 .scripture-text {
-    font-size: 0.95rem;
+    font-size: 1rem;
     line-height: 1.4;
-    color: var(--text-secondary);
+    color: #4B5563;
+    font-weight: 500;
     font-style: italic;
     margin-bottom: 1rem;
 }
@@ -247,9 +249,9 @@ html {
 }
 
 .prayer-month-label {
-    font-size: 0.75rem;
-    font-weight: 700;
-    color: var(--coptic-gold);
+    font-size: 0.85rem;
+    font-weight: 800;
+    color: var(--coptic-gold-dark);
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin-bottom: 0.3rem;
@@ -271,9 +273,9 @@ html {
 }
 
 .legend-label {
-    font-size: 0.7rem;
-    font-weight: 700;
-    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: var(--text-secondary);
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin-bottom: 0.5rem;
@@ -299,8 +301,9 @@ html {
 }
 
 .legend-text {
-    font-size: 0.8rem;
-    color: var(--text-secondary);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #4B5563;
     text-transform: uppercase;
     letter-spacing: 0.05em;
 }
@@ -351,17 +354,18 @@ html {
 }
 
 .month-subtitle {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: var(--coptic-gold);
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--coptic-gold-dark);
     letter-spacing: 0.15em;
     text-transform: uppercase;
     margin-bottom: 0.1rem;
 }
 
 .month-church {
-    font-size: 0.8rem;
-    color: var(--text-muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-secondary);
     letter-spacing: 0.1em;
     text-transform: uppercase;
     margin-bottom: 1rem;
@@ -378,14 +382,14 @@ html {
 .wisdom-quote {
     font-family: 'Playfair Display', serif;
     font-style: italic;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     color: var(--text-primary);
 }
 
 .wisdom-author {
-    font-size: 1.15rem;
-    font-weight: 600;
-    color: var(--coptic-gold);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--coptic-gold-dark);
     margin-left: 0.6rem;
 }
 
@@ -402,9 +406,9 @@ html {
 .day-header {
     text-align: center;
     padding: 0.5rem 0;
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: var(--text-muted);
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: var(--text-secondary);
     letter-spacing: 0.1em;
     text-transform: uppercase;
     border-bottom: 1px solid var(--border-light);
@@ -453,12 +457,12 @@ html {
 }
 
 .gospel-label {
-    font-size: 0.75rem;
-    font-weight: 600;
+    font-size: 0.8rem;
+    font-weight: 700;
     letter-spacing: 0.03em;
     margin-top: 0.15rem;
     line-height: 1.1;
-    opacity: 0.75;
+    opacity: 0.85;
 }
 
 .sunday-saint {
@@ -498,8 +502,9 @@ html {
 }
 
 .coptic-day {
-    font-size: 0.9rem;
-    color: var(--text-muted);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-secondary);
     margin-top: 0.1rem;
 }
 
@@ -508,8 +513,8 @@ html {
     bottom: 0.3rem;
     left: 0.3rem;
     right: 0.3rem;
-    font-size: 0.78rem;
-    font-weight: 700;
+    font-size: 0.82rem;
+    font-weight: 800;
     line-height: 1.15;
     padding: 0.15rem 0.3rem;
     border-radius: 2px;
@@ -690,6 +695,12 @@ html {
     }
 
     .fasting-tip {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .month-cross img {
+        mix-blend-mode: multiply !important;
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
     }
