@@ -206,22 +206,22 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:🌅 Resurrection (4 Parmoute)
+SUMMARY:🌅 The Glorious Resurrection (4 Parmoute)
 DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM - The Resurrection of our Lord
   Jesus Christ from the dead!\nXristos Anesti, Alithos Anesti!\nPikhristos 
  Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
-UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
+UID:the-glorious-resurrection-4-parmoute-2026-04-12@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:🌅 Resurrection (4 Parmoute)
+SUMMARY:🌅 The Glorious Resurrection (4 Parmoute)
 DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM - The Resurrection of our Lord
   Jesus Christ from the dead!\nXristos Anesti, Alithos Anesti!\nPikhristos 
  Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
-UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
+UID:the-glorious-resurrection-4-parmoute-2026-04-12@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
