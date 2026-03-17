@@ -89,7 +89,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 SUMMARY:☦ St. Mary the Ascetic (24 Tobe)
-DESCRIPTION:24 Tobe 1742 AM
+DESCRIPTION:24 Tobe 1742 AM - Devoted ascetic nun known for her extreme pie
+ ty and solitude
 TRANSP:TRANSPARENT
 UID:st-mary-the-ascetic-24-tobe-2026-02-01@coptic-calendar
 END:VEVENT
@@ -97,7 +98,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 SUMMARY:☦ Council of Constantinople (381 AD) (1 Meshir)
-DESCRIPTION:1 Meshir 1742 AM
+DESCRIPTION:1 Meshir 1742 AM - Second Ecumenical Council, affirmed the Nice
+ ne Creed and the divinity of the Holy Spirit
 TRANSP:TRANSPARENT
 UID:council-of-constantinople-381-ad-1-meshir-2026-02-08@coptic-calendar
 END:VEVENT
@@ -105,7 +107,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
 SUMMARY:☦ St. Paul the First Hermit (2 Meshir)
-DESCRIPTION:2 Meshir 1742 AM
+DESCRIPTION:2 Meshir 1742 AM - First known Christian hermit (c. 227-341 AD)
 TRANSP:TRANSPARENT
 UID:st-paul-the-first-hermit-2-meshir-2026-02-09@coptic-calendar
 END:VEVENT
@@ -113,7 +115,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
 SUMMARY:☦ 21 Coptic Martyrs of Libya (8 Meshir)
-DESCRIPTION:8 Meshir 1742 AM
+DESCRIPTION:8 Meshir 1742 AM - Twenty-one Egyptian Christians martyred by I
+ SIS in Libya on 15 February 2015
 TRANSP:TRANSPARENT
 UID:21-coptic-martyrs-of-libya-8-meshir-2026-02-15@coptic-calendar
 END:VEVENT
@@ -121,7 +124,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:☦ St. James son of Alphaeus (10 Meshir)
-DESCRIPTION:10 Meshir 1742 AM
+DESCRIPTION:10 Meshir 1742 AM - One of the Twelve Apostles, also known as J
+ ames the Less
 TRANSP:TRANSPARENT
 UID:st-james-son-of-alphaeus-10-meshir-2026-02-17@coptic-calendar
 END:VEVENT
@@ -129,7 +133,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 SUMMARY:☦ St. Severus of Antioch (14 Meshir)
-DESCRIPTION:14 Meshir 1742 AM
+DESCRIPTION:14 Meshir 1742 AM - Patriarch of Antioch, defender of Miaphysit
+ e Christology (465-538 AD)
 TRANSP:TRANSPARENT
 UID:st-severus-of-antioch-14-meshir-2026-02-21@coptic-calendar
 END:VEVENT
@@ -137,7 +142,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
 SUMMARY:☦ St. Elizabeth (16 Meshir)
-DESCRIPTION:16 Meshir 1742 AM
+DESCRIPTION:16 Meshir 1742 AM - Mother of St. John the Baptist, kinswoman o
+ f the Virgin Mary
 TRANSP:TRANSPARENT
 UID:st-elizabeth-16-meshir-2026-02-23@coptic-calendar
 END:VEVENT
@@ -145,7 +151,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:☦ St. Mina the Monk (17 Meshir)
-DESCRIPTION:17 Meshir 1742 AM
+DESCRIPTION:17 Meshir 1742 AM - Coptic monk and ascetic known for his humil
+ ity and prayer
 TRANSP:TRANSPARENT
 UID:st-mina-the-monk-17-meshir-2026-02-24@coptic-calendar
 END:VEVENT
@@ -171,7 +178,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
 SUMMARY:☦ St. Eusebius of Caesarea (23 Meshir)
-DESCRIPTION:23 Meshir 1742 AM
+DESCRIPTION:23 Meshir 1742 AM - Church historian, author of Ecclesiastical 
+ History (c. 260-340 AD)
 TRANSP:TRANSPARENT
 UID:st-eusebius-of-caesarea-23-meshir-2026-03-02@coptic-calendar
 END:VEVENT
@@ -179,7 +187,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260309
 SUMMARY:☦ St. Polycarp of Smyrna (29 Meshir)
-DESCRIPTION:29 Meshir 1742 AM
+DESCRIPTION:29 Meshir 1742 AM - Bishop of Smyrna, disciple of St. John the 
+ Apostle, burned at the stake c. 155 AD
 TRANSP:TRANSPARENT
 UID:st-polycarp-of-smyrna-29-meshir-2026-03-08@coptic-calendar
 END:VEVENT
@@ -196,7 +205,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:☦ St. Sarapamon (5 Paremhotep)
-DESCRIPTION:5 Paremhotep 1742 AM
+DESCRIPTION:5 Paremhotep 1742 AM - Bishop and martyr of the Coptic Church u
+ nder Diocletian
 TRANSP:TRANSPARENT
 UID:st-sarapamon-5-paremhotep-2026-03-14@coptic-calendar
 END:VEVENT
@@ -204,7 +214,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
 SUMMARY:☦ St. Matthias the Apostle (8 Paremhotep)
-DESCRIPTION:8 Paremhotep 1742 AM
+DESCRIPTION:8 Paremhotep 1742 AM - Chosen by lot to replace Judas Iscariot 
+ as one of the Twelve (Acts 1:26)
 TRANSP:TRANSPARENT
 UID:st-matthias-the-apostle-8-paremhotep-2026-03-17@coptic-calendar
 END:VEVENT
@@ -212,7 +223,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:☦ St. Sidhom Bishay (17 Paremhotep)
-DESCRIPTION:17 Paremhotep 1742 AM
+DESCRIPTION:17 Paremhotep 1742 AM - Coptic lay martyr killed in 1844 in Dam
+ ietta for refusing to renounce his faith
 TRANSP:TRANSPARENT
 UID:st-sidhom-bishay-17-paremhotep-2026-03-26@coptic-calendar
 END:VEVENT
@@ -256,7 +268,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
 SUMMARY:☦ Emperor Constantine (28 Paremhotep)
-DESCRIPTION:28 Paremhotep 1742 AM
+DESCRIPTION:28 Paremhotep 1742 AM - First Christian Roman Emperor, issued t
+ he Edict of Milan (313 AD)
 TRANSP:TRANSPARENT
 UID:emperor-constantine-28-paremhotep-2026-04-06@coptic-calendar
 END:VEVENT
@@ -264,7 +277,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:☦ St. Mary of Egypt (6 Parmoute)
-DESCRIPTION:6 Parmoute 1742 AM
+DESCRIPTION:6 Parmoute 1742 AM - Former sinner who lived 47 years in the de
+ sert in penitence
 TRANSP:TRANSPARENT
 UID:st-mary-of-egypt-6-parmoute-2026-04-14@coptic-calendar
 END:VEVENT
@@ -272,7 +286,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
 SUMMARY:☦ St. James the Apostle (17 Parmoute)
-DESCRIPTION:17 Parmoute 1742 AM
+DESCRIPTION:17 Parmoute 1742 AM - Son of Zebedee, first apostle to be marty
+ red (Acts 12:2)
 TRANSP:TRANSPARENT
 UID:st-james-the-apostle-17-parmoute-2026-04-25@coptic-calendar
 END:VEVENT
@@ -325,7 +340,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:☦ St. Pachomius (14 Pashons)
-DESCRIPTION:14 Pashons 1742 AM
+DESCRIPTION:14 Pashons 1742 AM - Founder of cenobitic monasticism (c. 292-3
+ 48 AD)
 TRANSP:TRANSPARENT
 UID:st-pachomius-14-pashons-2026-05-22@coptic-calendar
 END:VEVENT
@@ -333,7 +349,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:☦ St. Simon the Zealot (15 Pashons)
-DESCRIPTION:15 Pashons 1742 AM
+DESCRIPTION:15 Pashons 1742 AM - One of the Twelve Apostles, preached in Eg
+ ypt and Persia
 TRANSP:TRANSPARENT
 UID:st-simon-the-zealot-15-pashons-2026-05-23@coptic-calendar
 END:VEVENT
@@ -368,7 +385,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:☦ St. Thomas the Apostle (26 Pashons)
-DESCRIPTION:26 Pashons 1742 AM
+DESCRIPTION:26 Pashons 1742 AM - The Apostle who doubted, then proclaimed '
+ My Lord and my God!' (John 20:28)
 TRANSP:TRANSPARENT
 UID:st-thomas-the-apostle-26-pashons-2026-06-03@coptic-calendar
 END:VEVENT
@@ -376,7 +394,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:☦ Pope Mikhail I (30 Pashons)
-DESCRIPTION:30 Pashons 1742 AM
+DESCRIPTION:30 Pashons 1742 AM - 46th Pope of Alexandria (744-767 AD)
 TRANSP:TRANSPARENT
 UID:pope-mikhail-i-30-pashons-2026-06-07@coptic-calendar
 END:VEVENT
@@ -384,7 +402,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:☦ Anba Abraam (3 Paone)
-DESCRIPTION:3 Paone 1742 AM
+DESCRIPTION:3 Paone 1742 AM - Bishop of Fayoum and Giza, known as the frien
+ d of the poor (1829-1914)
 TRANSP:TRANSPARENT
 UID:anba-abraam-3-paone-2026-06-10@coptic-calendar
 END:VEVENT
@@ -392,7 +411,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:☦ St. Didymus the Blind (6 Paone)
-DESCRIPTION:6 Paone 1742 AM
+DESCRIPTION:6 Paone 1742 AM - Blind theologian and head of the Catechetical
+  School of Alexandria (313-398 AD)
 TRANSP:TRANSPARENT
 UID:st-didymus-the-blind-6-paone-2026-06-13@coptic-calendar
 END:VEVENT
@@ -400,7 +420,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:☦ St. Abaskhiroun the Soldier (7 Paone)
-DESCRIPTION:7 Paone 1742 AM
+DESCRIPTION:7 Paone 1742 AM - Egyptian soldier-martyr under Diocletian, ste
+ adfast in faith unto death
 TRANSP:TRANSPARENT
 UID:st-abaskhiroun-the-soldier-7-paone-2026-06-14@coptic-calendar
 END:VEVENT
@@ -408,7 +429,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:☦ Pope Yoannis XIX (14 Paone)
-DESCRIPTION:14 Paone 1742 AM
+DESCRIPTION:14 Paone 1742 AM - 113th Pope of Alexandria (1928-1942)
 TRANSP:TRANSPARENT
 UID:pope-yoannis-xix-14-paone-2026-06-21@coptic-calendar
 END:VEVENT
@@ -416,7 +437,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:☦ St. Onuphrius (16 Paone)
-DESCRIPTION:16 Paone 1742 AM
+DESCRIPTION:16 Paone 1742 AM - Desert hermit who lived 60 years in the Egyp
+ tian wilderness
 TRANSP:TRANSPARENT
 UID:st-onuphrius-16-paone-2026-06-23@coptic-calendar
 END:VEVENT
@@ -424,7 +446,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:☦ Pope Cyril of Alexandria (20 Paone)
-DESCRIPTION:20 Paone 1742 AM
+DESCRIPTION:20 Paone 1742 AM - 24th Pope of Alexandria, Pillar of Faith (37
+ 6-444 AD)
 TRANSP:TRANSPARENT
 UID:pope-cyril-of-alexandria-20-paone-2026-06-27@coptic-calendar
 END:VEVENT
@@ -432,7 +455,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:☦ St. Timothy of Memphis (21 Paone)
-DESCRIPTION:21 Paone 1742 AM
+DESCRIPTION:21 Paone 1742 AM - Bishop of Memphis and martyr under Diocletia
+ n
 TRANSP:TRANSPARENT
 UID:st-timothy-of-memphis-21-paone-2026-06-28@coptic-calendar
 END:VEVENT
@@ -476,7 +500,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:☦ Pope Theodosius (28 Paone)
-DESCRIPTION:28 Paone 1742 AM
+DESCRIPTION:28 Paone 1742 AM - 33rd Pope of Alexandria, exiled for his Miap
+ hysite faith
 TRANSP:TRANSPARENT
 UID:pope-theodosius-28-paone-2026-07-05@coptic-calendar
 END:VEVENT
@@ -484,7 +509,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:☦ St. Jude Thaddaeus (2 Epep)
-DESCRIPTION:2 Epep 1742 AM
+DESCRIPTION:2 Epep 1742 AM - Apostle who wrote the Epistle of Jude, patron 
+ saint of desperate causes
 TRANSP:TRANSPARENT
 UID:st-jude-thaddaeus-2-epep-2026-07-09@coptic-calendar
 END:VEVENT
@@ -492,7 +518,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:☦ St. Shenouda (7 Epep)
-DESCRIPTION:7 Epep 1742 AM
+DESCRIPTION:7 Epep 1742 AM - Archimandrite of the White Monastery, great Co
+ ptic father (348-466 AD)
 TRANSP:TRANSPARENT
 UID:st-shenouda-7-epep-2026-07-14@coptic-calendar
 END:VEVENT
@@ -509,7 +536,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:☦ St. Ephrem the Syrian (15 Epep)
-DESCRIPTION:15 Epep 1742 AM
+DESCRIPTION:15 Epep 1742 AM - Deacon, hymnographer, and Doctor of the Churc
+ h (306-373 AD)
 TRANSP:TRANSPARENT
 UID:st-ephrem-the-syrian-15-epep-2026-07-22@coptic-calendar
 END:VEVENT
@@ -517,7 +545,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
 SUMMARY:☦ St. Bidaba (19 Epep)
-DESCRIPTION:19 Epep 1742 AM
+DESCRIPTION:19 Epep 1742 AM - Bishop of Qift and martyr during the Diocleti
+ an persecution
 TRANSP:TRANSPARENT
 UID:st-bidaba-19-epep-2026-07-26@coptic-calendar
 END:VEVENT
@@ -525,7 +554,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:☦ St. Theodore the General (20 Epep)
-DESCRIPTION:20 Epep 1742 AM
+DESCRIPTION:20 Epep 1742 AM - Roman general and great martyr, also known as
+  Theodore Stratelates
 TRANSP:TRANSPARENT
 UID:st-theodore-the-general-20-epep-2026-07-27@coptic-calendar
 END:VEVENT
@@ -533,7 +563,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:☦ St. Marina (23 Epep)
-DESCRIPTION:23 Epep 1742 AM
+DESCRIPTION:23 Epep 1742 AM - Virgin martyr who overcame the devil through 
+ faith and prayer
 TRANSP:TRANSPARENT
 UID:st-marina-23-epep-2026-07-30@coptic-calendar
 END:VEVENT
@@ -541,7 +572,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:☦ St. Abanoub (24 Epep)
-DESCRIPTION:24 Epep 1742 AM
+DESCRIPTION:24 Epep 1742 AM - Child martyr of Nehisa, killed at age 12 unde
+ r Diocletian
 TRANSP:TRANSPARENT
 UID:st-abanoub-24-epep-2026-07-31@coptic-calendar
 END:VEVENT
@@ -576,7 +608,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:☦ St. Joseph the Carpenter (26 Epep)
-DESCRIPTION:26 Epep 1742 AM
+DESCRIPTION:26 Epep 1742 AM - Righteous foster-father of our Lord Jesus Chr
+ ist
 TRANSP:TRANSPARENT
 UID:st-joseph-the-carpenter-26-epep-2026-08-02@coptic-calendar
 END:VEVENT
@@ -584,7 +617,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:☦ St. Simon Stylite (3 Mesore)
-DESCRIPTION:3 Mesore 1742 AM
+DESCRIPTION:3 Mesore 1742 AM - Ascetic who lived 37 years atop a pillar nea
+ r Aleppo (c. 390-459 AD)
 TRANSP:TRANSPARENT
 UID:st-simon-stylite-3-mesore-2026-08-09@coptic-calendar
 END:VEVENT
@@ -592,7 +626,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:☦ Pope Timothy II (7 Mesore)
-DESCRIPTION:7 Mesore 1742 AM
+DESCRIPTION:7 Mesore 1742 AM - 26th Pope of Alexandria, defender of the fai
+ th (457-477 AD)
 TRANSP:TRANSPARENT
 UID:pope-timothy-ii-7-mesore-2026-08-13@coptic-calendar
 END:VEVENT
@@ -600,7 +635,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:☦ St. Matra (10 Mesore)
-DESCRIPTION:10 Mesore 1742 AM
+DESCRIPTION:10 Mesore 1742 AM - Coptic ascetic and holy woman known for her
+  simple devotion
 TRANSP:TRANSPARENT
 UID:st-matra-10-mesore-2026-08-16@coptic-calendar
 END:VEVENT
@@ -608,7 +644,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:☦ Habib Guirguis (15 Mesore)
-DESCRIPTION:15 Mesore 1742 AM
+DESCRIPTION:15 Mesore 1742 AM - Archdeacon and reformer of Coptic Sunday Sc
+ hool education (1876-1951)
 TRANSP:TRANSPARENT
 UID:habib-guirguis-15-mesore-2026-08-21@coptic-calendar
 END:VEVENT
@@ -616,7 +653,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:☦ St. James the Soldier (17 Mesore)
-DESCRIPTION:17 Mesore 1742 AM
+DESCRIPTION:17 Mesore 1742 AM - Roman soldier martyred for his Christian fa
+ ith
 TRANSP:TRANSPARENT
 UID:st-james-the-soldier-17-mesore-2026-08-23@coptic-calendar
 END:VEVENT
@@ -624,7 +662,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:☦ St. Augustine of Hippo (22 Mesore)
-DESCRIPTION:22 Mesore 1742 AM
+DESCRIPTION:22 Mesore 1742 AM - Bishop, theologian, and Doctor of the Churc
+ h (354-430 AD)
 TRANSP:TRANSPARENT
 UID:st-augustine-of-hippo-22-mesore-2026-08-28@coptic-calendar
 END:VEVENT
@@ -632,7 +671,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:☦ St. Takla Haymanot (24 Mesore)
-DESCRIPTION:24 Mesore 1742 AM
+DESCRIPTION:24 Mesore 1742 AM - Ethiopian saint, apostle of Ethiopia, stood
+  on one leg for seven years
 TRANSP:TRANSPARENT
 UID:st-takla-haymanot-24-mesore-2026-08-30@coptic-calendar
 END:VEVENT
@@ -667,7 +707,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:☦ St. Habakkuk the Prophet (28 Mesore)
-DESCRIPTION:28 Mesore 1742 AM
+DESCRIPTION:28 Mesore 1742 AM - Old Testament prophet, authored the Book of
+  Habakkuk
 TRANSP:TRANSPARENT
 UID:st-habakkuk-the-prophet-28-mesore-2026-09-03@coptic-calendar
 END:VEVENT
@@ -675,7 +716,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:☦ St. Eutychus (1 Nesi)
-DESCRIPTION:1 Nesi 1742 AM
+DESCRIPTION:1 Nesi 1742 AM - Early Christian believer raised by St. Paul af
+ ter falling from a window (Acts 20:9-12)
 TRANSP:TRANSPARENT
 UID:st-eutychus-1-nesi-2026-09-06@coptic-calendar
 END:VEVENT
@@ -683,7 +725,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:☦ St. John the Baptist (2 Thoout)
-DESCRIPTION:2 Thoout 1742 AM
+DESCRIPTION:2 Thoout 1742 AM - Forerunner of Christ, the greatest born of w
+ omen (Matthew 11:11)
 TRANSP:TRANSPARENT
 UID:st-john-the-baptist-2-thoout-2026-09-12@coptic-calendar
 END:VEVENT
@@ -691,7 +734,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:☦ Council of Alexandria (3 Thoout)
-DESCRIPTION:3 Thoout 1742 AM
+DESCRIPTION:3 Thoout 1742 AM - Synod of Alexandria that affirmed orthodox C
+ hristology
 TRANSP:TRANSPARENT
 UID:council-of-alexandria-3-thoout-2026-09-13@coptic-calendar
 END:VEVENT
@@ -699,7 +743,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:☦ St. Verena (4 Thoout)
-DESCRIPTION:4 Thoout 1742 AM
+DESCRIPTION:4 Thoout 1742 AM - Egyptian-born saint who brought Christianity
+  to Switzerland
 TRANSP:TRANSPARENT
 UID:st-verena-4-thoout-2026-09-14@coptic-calendar
 END:VEVENT
@@ -707,7 +752,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:☦ St. Rebecca & Children (7 Thoout)
-DESCRIPTION:7 Thoout 1742 AM
+DESCRIPTION:7 Thoout 1742 AM - Mother and children martyred for their faith
 TRANSP:TRANSPARENT
 UID:st-rebecca-children-7-thoout-2026-09-17@coptic-calendar
 END:VEVENT
@@ -715,7 +760,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:☦ St. Matruna (10 Thoout)
-DESCRIPTION:10 Thoout 1742 AM
+DESCRIPTION:10 Thoout 1742 AM - Holy woman celebrated for her devotion and 
+ charity
 TRANSP:TRANSPARENT
 UID:st-matruna-10-thoout-2026-09-20@coptic-calendar
 END:VEVENT
@@ -723,7 +769,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:☦ Council of Ephesus (12 Thoout)
-DESCRIPTION:12 Thoout 1742 AM
+DESCRIPTION:12 Thoout 1742 AM - Third Ecumenical Council (431 AD), proclaim
+ ed Mary as Theotokos
 TRANSP:TRANSPARENT
 UID:council-of-ephesus-12-thoout-2026-09-22@coptic-calendar
 END:VEVENT
@@ -749,7 +796,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:☦ St. Gregory the Ascetic (24 Thoout)
-DESCRIPTION:24 Thoout 1742 AM
+DESCRIPTION:24 Thoout 1742 AM - Desert father known for his ascetic lifesty
+ le and prayer
 TRANSP:TRANSPARENT
 UID:st-gregory-the-ascetic-24-thoout-2026-10-04@coptic-calendar
 END:VEVENT
@@ -757,7 +805,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:☦ St. Maurice (25 Thoout)
-DESCRIPTION:25 Thoout 1742 AM
+DESCRIPTION:25 Thoout 1742 AM - Commander of the Theban Legion, martyred wi
+ th his soldiers c. 287 AD
 TRANSP:TRANSPARENT
 UID:st-maurice-25-thoout-2026-10-05@coptic-calendar
 END:VEVENT
@@ -765,7 +814,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:☦ St. Anastasia (1 Paope)
-DESCRIPTION:1 Paope 1742 AM
+DESCRIPTION:1 Paope 1742 AM - Roman noblewoman martyred for the faith under
+  Diocletian
 TRANSP:TRANSPARENT
 UID:st-anastasia-1-paope-2026-10-11@coptic-calendar
 END:VEVENT
@@ -773,7 +823,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:☦ St. Bacchus (4 Paope)
-DESCRIPTION:4 Paope 1742 AM
+DESCRIPTION:4 Paope 1742 AM - Roman soldier and martyr, companion of St. Se
+ rgius
 TRANSP:TRANSPARENT
 UID:st-bacchus-4-paope-2026-10-14@coptic-calendar
 END:VEVENT
@@ -781,7 +832,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:☦ St. Paul the Simple (7 Paope)
-DESCRIPTION:7 Paope 1742 AM
+DESCRIPTION:7 Paope 1742 AM - Disciple of St. Anthony the Great, known for 
+ his innocence and humility
 TRANSP:TRANSPARENT
 UID:st-paul-the-simple-7-paope-2026-10-17@coptic-calendar
 END:VEVENT
@@ -789,7 +841,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:☦ St. Abba Hor (8 Paope)
-DESCRIPTION:8 Paope 1742 AM
+DESCRIPTION:8 Paope 1742 AM - Desert father and monk of the Egyptian wilder
+ ness
 TRANSP:TRANSPARENT
 UID:st-abba-hor-8-paope-2026-10-18@coptic-calendar
 END:VEVENT
@@ -797,7 +850,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:☦ St. Sergius (10 Paope)
-DESCRIPTION:10 Paope 1742 AM
+DESCRIPTION:10 Paope 1742 AM - Roman officer and martyr, companion of St. B
+ acchus
 TRANSP:TRANSPARENT
 UID:st-sergius-10-paope-2026-10-20@coptic-calendar
 END:VEVENT
@@ -805,7 +859,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:☦ St. Matthew the Evangelist (12 Paope)
-DESCRIPTION:12 Paope 1742 AM
+DESCRIPTION:12 Paope 1742 AM - Tax collector turned Apostle, author of the 
+ first Gospel
 TRANSP:TRANSPARENT
 UID:st-matthew-the-evangelist-12-paope-2026-10-22@coptic-calendar
 END:VEVENT
@@ -813,7 +868,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:☦ St. Panteleimon (15 Paope)
-DESCRIPTION:15 Paope 1742 AM
+DESCRIPTION:15 Paope 1742 AM - Physician and great martyr, healer of the si
+ ck without charge
 TRANSP:TRANSPARENT
 UID:st-panteleimon-15-paope-2026-10-25@coptic-calendar
 END:VEVENT
@@ -821,7 +877,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:☦ Pope Agathon (16 Paope)
-DESCRIPTION:16 Paope 1742 AM
+DESCRIPTION:16 Paope 1742 AM - 39th Pope of Alexandria
 TRANSP:TRANSPARENT
 UID:pope-agathon-16-paope-2026-10-26@coptic-calendar
 END:VEVENT
@@ -874,7 +930,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:☦ St. Luke the Evangelist (22 Paope)
-DESCRIPTION:22 Paope 1742 AM
+DESCRIPTION:22 Paope 1742 AM - Physician, companion of St. Paul, author of 
+ the third Gospel and Acts
 TRANSP:TRANSPARENT
 UID:st-luke-the-evangelist-22-paope-2026-11-01@coptic-calendar
 END:VEVENT
@@ -882,7 +939,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:☦ St. Demetrius of Thessalonica (29 Paope)
-DESCRIPTION:29 Paope 1742 AM
+DESCRIPTION:29 Paope 1742 AM - Roman soldier and great martyr, patron saint
+  of Thessaloniki
 TRANSP:TRANSPARENT
 UID:st-demetrius-of-thessalonica-29-paope-2026-11-08@coptic-calendar
 END:VEVENT
@@ -890,7 +948,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:☦ St. Simon the Tanner (5 Hator)
-DESCRIPTION:5 Hator 1742 AM
+DESCRIPTION:5 Hator 1742 AM - Coptic saint who miraculously moved the Mokat
+ tam Mountain in Cairo
 TRANSP:TRANSPARENT
 UID:st-simon-the-tanner-5-hator-2026-11-14@coptic-calendar
 END:VEVENT
@@ -898,7 +957,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:☦ St. Felix, Pope of Rome (6 Hator)
-DESCRIPTION:6 Hator 1742 AM
+DESCRIPTION:6 Hator 1742 AM - Pope and martyr of the early Roman Church
 TRANSP:TRANSPARENT
 UID:st-felix-pope-of-rome-6-hator-2026-11-15@coptic-calendar
 END:VEVENT
@@ -906,7 +965,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:☦ Council of Nicaea (325 AD) (9 Hator)
-DESCRIPTION:9 Hator 1742 AM
+DESCRIPTION:9 Hator 1742 AM - First Ecumenical Council, established the Nic
+ ene Creed
 TRANSP:TRANSPARENT
 UID:council-of-nicaea-325-ad-9-hator-2026-11-18@coptic-calendar
 END:VEVENT
@@ -914,7 +974,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:☦ St. Timothy, Bishop of Ansena (13 Hator)
-DESCRIPTION:13 Hator 1742 AM
+DESCRIPTION:13 Hator 1742 AM - Bishop and martyr of Ansena in Upper Egypt
 TRANSP:TRANSPARENT
 UID:st-timothy-bishop-of-ansena-13-hator-2026-11-22@coptic-calendar
 END:VEVENT
@@ -931,7 +991,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:☦ St. John Chrysostom (17 Hator)
-DESCRIPTION:17 Hator 1742 AM
+DESCRIPTION:17 Hator 1742 AM - Archbishop of Constantinople, Doctor of the 
+ Church (347-407 AD)
 TRANSP:TRANSPARENT
 UID:st-john-chrysostom-17-hator-2026-11-26@coptic-calendar
 END:VEVENT
@@ -939,7 +1000,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:☦ St. Philip the Apostle (18 Hator)
-DESCRIPTION:18 Hator 1742 AM
+DESCRIPTION:18 Hator 1742 AM - One of the Twelve Apostles, preached in Asia
+  Minor
 TRANSP:TRANSPARENT
 UID:st-philip-the-apostle-18-hator-2026-11-27@coptic-calendar
 END:VEVENT
@@ -947,7 +1009,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:☦ St. Anianus, 2nd Pope (20 Hator)
-DESCRIPTION:20 Hator 1742 AM
+DESCRIPTION:20 Hator 1742 AM - Second Pope of Alexandria, ordained by St. M
+ ark the Evangelist
 TRANSP:TRANSPARENT
 UID:st-anianus-2nd-pope-20-hator-2026-11-29@coptic-calendar
 END:VEVENT
@@ -982,7 +1045,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:☦ Cosmas & Damian (22 Hator)
-DESCRIPTION:22 Hator 1742 AM
+DESCRIPTION:22 Hator 1742 AM - Twin brothers, physicians and martyrs who he
+ aled without charge
 TRANSP:TRANSPARENT
 UID:cosmas-damian-22-hator-2026-12-01@coptic-calendar
 END:VEVENT
@@ -990,7 +1054,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:☦ Philopater Mercurius (25 Hator)
-DESCRIPTION:25 Hator 1742 AM
+DESCRIPTION:25 Hator 1742 AM - Also known as Abu Seifein (Father of Two Swo
+ rds), great martyr
 TRANSP:TRANSPARENT
 UID:philopater-mercurius-25-hator-2026-12-04@coptic-calendar
 END:VEVENT
@@ -998,7 +1063,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:☦ St. Gregory of Nyssa (26 Hator)
-DESCRIPTION:26 Hator 1742 AM
+DESCRIPTION:26 Hator 1742 AM - Bishop and theologian, one of the Cappadocia
+ n Fathers (c. 335-395 AD)
 TRANSP:TRANSPARENT
 UID:st-gregory-of-nyssa-26-hator-2026-12-05@coptic-calendar
 END:VEVENT
@@ -1006,7 +1072,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:☦ St. James the Mangled (27 Hator)
-DESCRIPTION:27 Hator 1742 AM
+DESCRIPTION:27 Hator 1742 AM - Persian martyr whose limbs were cut off one 
+ by one for his faith
 TRANSP:TRANSPARENT
 UID:st-james-the-mangled-27-hator-2026-12-06@coptic-calendar
 END:VEVENT
@@ -1014,7 +1081,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:☦ St. Peter Seal of Martyrs (29 Hator)
-DESCRIPTION:29 Hator 1742 AM
+DESCRIPTION:29 Hator 1742 AM - 17th Pope of Alexandria, last martyr of the 
+ Diocletian persecution
 TRANSP:TRANSPARENT
 UID:st-peter-seal-of-martyrs-29-hator-2026-12-08@coptic-calendar
 END:VEVENT
@@ -1022,7 +1090,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:☦ St. Andrew the Apostle (4 Kiahk)
-DESCRIPTION:4 Kiahk 1742 AM
+DESCRIPTION:4 Kiahk 1742 AM - First-called Apostle, brother of St. Peter, c
+ rucified on an X-shaped cross
 TRANSP:TRANSPARENT
 UID:st-andrew-the-apostle-4-kiahk-2026-12-13@coptic-calendar
 END:VEVENT
@@ -1030,7 +1099,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:☦ St. Nicholas (10 Kiahk)
-DESCRIPTION:10 Kiahk 1742 AM
+DESCRIPTION:10 Kiahk 1742 AM - Bishop of Myra, known for his generosity and
+  miracles (270-343 AD)
 TRANSP:TRANSPARENT
 UID:st-nicholas-10-kiahk-2026-12-19@coptic-calendar
 END:VEVENT
@@ -1047,7 +1117,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:☦ Gideon the Judge (16 Kiahk)
-DESCRIPTION:16 Kiahk 1742 AM
+DESCRIPTION:16 Kiahk 1742 AM - Judge of Israel who defeated the Midianites 
+ with 300 men (Judges 7)
 TRANSP:TRANSPARENT
 UID:gideon-the-judge-16-kiahk-2026-12-25@coptic-calendar
 END:VEVENT
