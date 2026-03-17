@@ -391,15 +391,6 @@ TRANSP:TRANSPARENT
 UID:st-simon-the-zealot-15-pashons-2026-05-23@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Parmoute]
-DESCRIPTION:29 Parmoute - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-parmoute-2026-05-07@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:🪽 Archangel Michael [12 Pashons]
@@ -513,15 +504,6 @@ DESCRIPTION:21 Paone 1742 AM - Bishop of Memphis and martyr under
  Diocletian
 TRANSP:TRANSPARENT
 UID:st-timothy-of-memphis-21-paone-2026-06-28@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Pashons]
-DESCRIPTION:29 Pashons - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-pashons-2026-06-06@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
@@ -659,15 +641,6 @@ TRANSP:TRANSPARENT
 UID:st-abanoub-24-epep-2026-07-31@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paone]
-DESCRIPTION:29 Paone - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-paone-2026-07-06@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:🪽 Archangel Michael [12 Epep]
@@ -758,15 +731,6 @@ TRANSP:TRANSPARENT
 UID:st-takla-haymanot-24-mesore-2026-08-30@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Epep]
-DESCRIPTION:29 Epep - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-epep-2026-08-05@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:🪽 Archangel Michael [12 Mesore]
@@ -854,15 +818,6 @@ DESCRIPTION:12 Thoout 1742 AM - Third Ecumenical Council (431 AD),
  proclaimed Mary as Theotokos
 TRANSP:TRANSPARENT
 UID:council-of-ephesus-12-thoout-2026-09-22@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Mesore]
-DESCRIPTION:29 Mesore - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-mesore-2026-09-04@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
@@ -981,15 +936,6 @@ CATEGORIES:Monthly
 UID:mary-21-thoout-2026-10-01@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Thoout]
-DESCRIPTION:29 Thoout - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-thoout-2026-10-09@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🪽 Archangel Michael [12 Paope]
@@ -1094,15 +1040,6 @@ DESCRIPTION:20 Hator 1742 AM - Second Pope of Alexandria, ordained by St.
  Mark the Evangelist
 TRANSP:TRANSPARENT
 UID:st-anianus-2nd-pope-20-hator-2026-11-29@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paope]
-DESCRIPTION:29 Paope - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-paope-2026-11-08@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
@@ -1211,15 +1148,6 @@ DESCRIPTION:16 Kiahk 1742 AM - Judge of Israel who defeated the Midianites
  with 300 men (Judges 7)
 TRANSP:TRANSPARENT
 UID:gideon-the-judge-16-kiahk-2026-12-25@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Hator]
-DESCRIPTION:29 Hator - Monthly commemoration of the three great events
-TRANSP:TRANSPARENT
-CATEGORIES:Monthly
-UID:29th-29-hator-2026-12-08@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261221
