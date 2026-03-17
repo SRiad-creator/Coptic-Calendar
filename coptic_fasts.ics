@@ -67,6 +67,15 @@ TRANSP:TRANSPARENT
 UID:good-friday-2-parmoute-2026-04-10@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:🐟 Apostles' Fast Begins (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM - Vegan fast honouring the Apostles, begins 
+ the day after Pentecost
+TRANSP:TRANSPARENT
+UID:apostles-fast-begins-24-pashons-2026-06-01@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:🐟 Apostles' Fast Ends (4 Epep)
