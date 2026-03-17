@@ -3,175 +3,411 @@ VERSION:2.0
 PRODID:-//Coptic Orthodox Calendar 2026//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Coptic Feasts
+X-WR-CALNAME:Coptic Orthodox Calendar
 X-WR-TIMEZONE:Australia/Sydney
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260107
-SUMMARY:🎄 Feast of the Nativity (29 Kiahk)
 DTEND;VALUE=DATE:20260108
-DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM — Birth of our Lord Jesus Christ
+SUMMARY:🎄 Feast of Nativity (29 Kiahk)
+DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM --- Birth of our Lord Jesus Chri
+ st in Bethlehem
 TRANSP:TRANSPARENT
-UID:---feast-of-the-nativity--29-kiahk--20260107@coptic-calendar
+UID:feast-of-nativity-29-kiahk-2026-01-07@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:🎄 Feast of Nativity (29 Kiahk)
+DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM --- Birth of our Lord Jesus Chri
+ st in Bethlehem
+TRANSP:TRANSPARENT
+UID:feast-of-nativity-29-kiahk-2026-01-07@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
-SUMMARY:✨ Circumcision of Our Lord (6 Tobe)
 DTEND;VALUE=DATE:20260115
-DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM — Circumcision of our Lord on the 8th day after Nativity
+SUMMARY:✨ Circumcision (6 Tobe)
+DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM --- Circumcision of our Lord on th
+ e 8th day after Nativity
 TRANSP:TRANSPARENT
-UID:circumcision-of-our-lord--6-tobe--20260114@coptic-calendar
+UID:circumcision-6-tobe-2026-01-14@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:✨ Circumcision (6 Tobe)
+DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM --- Circumcision of our Lord on th
+ e 8th day after Nativity
+TRANSP:TRANSPARENT
+UID:circumcision-6-tobe-2026-01-14@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
-SUMMARY:💧 Theophany (11 Tobe)
 DTEND;VALUE=DATE:20260120
-DESCRIPTION:Tune: Joyful. 11 Tobe 1742 AM — Baptism of our Lord in the Jordan by St. John the Baptist
+SUMMARY:💧 Theophany (11 Tobe)
+DESCRIPTION:Tune: Joyful. 11 Tobe 1742 AM --- Baptism of our Lord in the Jo
+ rdan by St. John the Baptist
 TRANSP:TRANSPARENT
-UID:---theophany--11-tobe--20260119@coptic-calendar
+UID:theophany-11-tobe-2026-01-19@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:💧 Theophany (11 Tobe)
+DESCRIPTION:Tune: Joyful. 11 Tobe 1742 AM --- Baptism of our Lord in the Jo
+ rdan by St. John the Baptist
+TRANSP:TRANSPARENT
+UID:theophany-11-tobe-2026-01-19@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
-SUMMARY:🍷 Miracle at Cana (13 Tobe)
 DTEND;VALUE=DATE:20260122
-DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM — First miracle of Christ, water into wine (John 2:1-11)
+SUMMARY:🍷 Miracle at Cana (13 Tobe)
+DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM --- First miracle of Christ, wate
+ r into wine (John 2:1-11)
 TRANSP:TRANSPARENT
-UID:miracle-at-cana--13-tobe--20260121@coptic-calendar
+UID:miracle-at-cana-13-tobe-2026-01-21@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:🍷 Miracle at Cana (13 Tobe)
+DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM --- First miracle of Christ, wate
+ r into wine (John 2:1-11)
+TRANSP:TRANSPARENT
+UID:miracle-at-cana-13-tobe-2026-01-21@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
-SUMMARY:🐳 Feast of Jonah (28 Tobe)
 DTEND;VALUE=DATE:20260206
-DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM — Celebration after the Nineveh fast
+SUMMARY:🐳 Feast of Jonah (28 Tobe)
+DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM --- Celebration after the three-d
+ ay Nineveh fast
 TRANSP:TRANSPARENT
-UID:feast-of-jonah--28-tobe--20260205@coptic-calendar
+UID:feast-of-jonah-28-tobe-2026-02-05@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:🐳 Feast of Jonah (28 Tobe)
+DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM --- Celebration after the three-d
+ ay Nineveh fast
+TRANSP:TRANSPARENT
+UID:feast-of-jonah-28-tobe-2026-02-05@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
-SUMMARY:⛪️ Presentation into the Temple (8 Meshir)
 DTEND;VALUE=DATE:20260216
-DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM — Presentation of our Lord 40 days after Nativity
+SUMMARY:⛪ Presentation into the Temple (8 Meshir)
+DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM --- Presentation of our Lord 40 
+ days after Nativity
 TRANSP:TRANSPARENT
-UID:presentation-into-the-temple--8-meshir--20260215@coptic-calendar
+UID:presentation-into-the-temple-8-meshir-2026-02-15@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:⛪ Presentation into the Temple (8 Meshir)
+DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM --- Presentation of our Lord 40 
+ days after Nativity
+TRANSP:TRANSPARENT
+UID:presentation-into-the-temple-8-meshir-2026-02-15@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260319
-SUMMARY:✝️ Feast of the Holy Cross (10 Paremhotep)
 DTEND;VALUE=DATE:20260320
-DESCRIPTION:Tune: Hosanna. 10 Paremhotep 1742 AM — Discovery of the True Cross by Empress Helena (326 AD)
+SUMMARY:✝ Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:Tune: Hosanna. 10 Paremhotep 1742 AM --- Discovery of the True 
+ Cross by Empress Helena (326 AD)
 TRANSP:TRANSPARENT
-UID:--feast-of-the-holy-cross--10-paremhote-20260319@coptic-calendar
+UID:feast-of-the-holy-cross-10-paremhotep-2026-03-19@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:✝ Feast of the Holy Cross (10 Paremhotep)
+DESCRIPTION:Tune: Hosanna. 10 Paremhotep 1742 AM --- Discovery of the True 
+ Cross by Empress Helena (326 AD)
+TRANSP:TRANSPARENT
+UID:feast-of-the-holy-cross-10-paremhotep-2026-03-19@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
-SUMMARY:🪦 Lazarus Saturday (26 Paremhotep)
 DTEND;VALUE=DATE:20260405
-DESCRIPTION:26 Paremhotep 1742 AM — Raising of Lazarus from the dead (John 11)
+SUMMARY:🪦 Lazarus Saturday (26 Paremhotep)
+DESCRIPTION:Tune: Joyful. 26 Paremhotep 1742 AM --- Raising of Lazarus from
+  the dead (John 11)
 TRANSP:TRANSPARENT
-UID:lazarus-saturday--26-paremhotep--20260404@coptic-calendar
+UID:lazarus-saturday-26-paremhotep-2026-04-04@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:🪦 Lazarus Saturday (26 Paremhotep)
+DESCRIPTION:Tune: Joyful. 26 Paremhotep 1742 AM --- Raising of Lazarus from
+  the dead (John 11)
+TRANSP:TRANSPARENT
+UID:lazarus-saturday-26-paremhotep-2026-04-04@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
 DTEND;VALUE=DATE:20260406
-DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM --- Triumphal entry of Chr
+ ist into Jerusalem - Holy Week begins
 TRANSP:TRANSPARENT
-UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
+UID:palm-sunday-27-paremhotep-2026-04-05@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM --- Triumphal entry of Chr
+ ist into Jerusalem - Holy Week begins
+TRANSP:TRANSPARENT
+UID:palm-sunday-27-paremhotep-2026-04-05@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
-SUMMARY:🕊️ Annunciation (29 Paremhotep)
 DTEND;VALUE=DATE:20260408
-DESCRIPTION:29 Paremhotep 1742 AM — The Archangel Gabriel announces to the Virgin Mary (Luke 1:26-38)
+SUMMARY:🕊️ Annunciation (29 Paremhotep)
+DESCRIPTION:Tune: Joyful. 29 Paremhotep 1742 AM --- The Archangel Gabriel a
+ nnounces to the Virgin Mary (Luke 1:26-38)
 TRANSP:TRANSPARENT
-UID:---annunciation--29-paremhotep--20260407@coptic-calendar
+UID:annunciation-29-paremhotep-2026-04-07@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:🕊️ Annunciation (29 Paremhotep)
+DESCRIPTION:Tune: Joyful. 29 Paremhotep 1742 AM --- The Archangel Gabriel a
+ nnounces to the Virgin Mary (Luke 1:26-38)
+TRANSP:TRANSPARENT
+UID:annunciation-29-paremhotep-2026-04-07@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
-SUMMARY:🍞 Covenant Thursday (1 Parmoute)
 DTEND;VALUE=DATE:20260410
-DESCRIPTION:Tune: Paschal. 1 Parmoute 1742 AM — The Last Supper, institution of the Holy Eucharist
+SUMMARY:🍞 Covenant Thursday (1 Parmoute)
+DESCRIPTION:Tune: Joyful. 1 Parmoute 1742 AM --- The Last Supper, instituti
+ on of the Holy Eucharist
 TRANSP:TRANSPARENT
-UID:covenant-thursday--1-parmoute--20260409@coptic-calendar
+UID:covenant-thursday-1-parmoute-2026-04-09@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:🍞 Covenant Thursday (1 Parmoute)
+DESCRIPTION:Tune: Joyful. 1 Parmoute 1742 AM --- The Last Supper, instituti
+ on of the Holy Eucharist
+TRANSP:TRANSPARENT
+UID:covenant-thursday-1-parmoute-2026-04-09@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
-SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
 DTEND;VALUE=DATE:20260413
-DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM — The Resurrection of our Lord Jesus Christ from the dead!\n\nXristos Anesti, Alithos Anesti! Pikhristos Aftonf, Khen O Methmi Aftonf!
+SUMMARY:🌅 Resurrection (4 Parmoute)
+DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM --- The Resurrection of our Lo
+ rd Jesus Christ! Xristos Anesti!
 TRANSP:TRANSPARENT
-UID:---glorious-resurrection--4-parmoute--20260412@coptic-calendar
+UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:🌅 Resurrection (4 Parmoute)
+DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM --- The Resurrection of our Lo
+ rd Jesus Christ! Xristos Anesti!
+TRANSP:TRANSPARENT
+UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:🟡 Thomas Sunday (11 Parmoute)
+DESCRIPTION:Tune: Joyful. 11 Parmoute 1742 AM --- Jesus appears to Thomas -
+  Blessed are those who have not seen
+TRANSP:TRANSPARENT
+UID:thomas-sunday-11-parmoute-2026-04-19@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:🟡 Thomas Sunday (11 Parmoute)
+DESCRIPTION:Tune: Joyful. 11 Parmoute 1742 AM --- Jesus appears to Thomas -
+  Blessed are those who have not seen
+TRANSP:TRANSPARENT
+UID:thomas-sunday-11-parmoute-2026-04-19@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
-SUMMARY:☁️ Feast of Ascension (13 Pashons)
 DTEND;VALUE=DATE:20260522
-DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM — Ascension of our Lord 40 days after Resurrection
+SUMMARY:☁ Feast of Ascension (13 Pashons)
+DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM --- Ascension of our Lord 40 d
+ ays after Resurrection
 TRANSP:TRANSPARENT
-UID:--feast-of-ascension--13-pashons--20260521@coptic-calendar
+UID:feast-of-ascension-13-pashons-2026-05-21@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:☁ Feast of Ascension (13 Pashons)
+DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM --- Ascension of our Lord 40 d
+ ays after Resurrection
+TRANSP:TRANSPARENT
+UID:feast-of-ascension-13-pashons-2026-05-21@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
-SUMMARY:🔥 Feast of Pentecost (23 Pashons)
 DTEND;VALUE=DATE:20260601
-DESCRIPTION:Tune: Joyful. 23 Pashons 1742 AM — Descent of the Holy Spirit upon the Apostles (Acts 2)
+SUMMARY:🔥 Feast of Pentecost (23 Pashons)
+DESCRIPTION:Tune: Joyful. 23 Pashons 1742 AM --- Descent of the Holy Spirit
+  upon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
-UID:---feast-of-pentecost--23-pashons--20260531@coptic-calendar
+UID:feast-of-pentecost-23-pashons-2026-05-31@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:🔥 Feast of Pentecost (23 Pashons)
+DESCRIPTION:Tune: Joyful. 23 Pashons 1742 AM --- Descent of the Holy Spirit
+  upon the Apostles (Acts 2)
+TRANSP:TRANSPARENT
+UID:feast-of-pentecost-23-pashons-2026-05-31@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
-SUMMARY:⛪️ Holy Family to Egypt (24 Pashons)
 DTEND;VALUE=DATE:20260602
-DESCRIPTION:Tune: Joyful. 24 Pashons 1742 AM — Flight of the Holy Family into Egypt (Matthew 2:13-15)
+SUMMARY:⛪ Holy Family to Egypt (24 Pashons)
+DESCRIPTION:24 Pashons 1742 AM --- Flight of the Holy Family into Egypt (Ma
+ tthew 2:13-15)
 TRANSP:TRANSPARENT
-UID:---holy-family-to-egypt--24-pashons--20260601@coptic-calendar
+UID:holy-family-to-egypt-24-pashons-2026-06-01@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:✨ Sts. Peter and Paul (5 Epep)
+DESCRIPTION:Tune: Joyful. 5 Epep 1742 AM --- Chief Apostles - feast celebra
+ ting their apostolic witness
+TRANSP:TRANSPARENT
+UID:sts-peter-and-paul-5-epep-2026-07-12@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:✨ Sts. Peter and Paul (5 Epep)
+DESCRIPTION:Tune: Joyful. 5 Epep 1742 AM --- Chief Apostles - feast celebra
+ ting their apostolic witness
+TRANSP:TRANSPARENT
+UID:sts-peter-and-paul-5-epep-2026-07-12@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260819
-SUMMARY:✨ Transfiguration (13 Mesore)
 DTEND;VALUE=DATE:20260820
-DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM — Transfiguration of Christ on Mount Tabor (Matt 17:1-8)
+SUMMARY:✨ Transfiguration (13 Mesore)
+DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM --- Transfiguration of Christ o
+ n Mount Tabor (Matt 17:1-8)
 TRANSP:TRANSPARENT
-UID:--transfiguration--13-mesore--20260819@coptic-calendar
+UID:transfiguration-13-mesore-2026-08-19@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:✨ Transfiguration (13 Mesore)
+DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM --- Transfiguration of Christ o
+ n Mount Tabor (Matt 17:1-8)
+TRANSP:TRANSPARENT
+UID:transfiguration-13-mesore-2026-08-19@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
-SUMMARY:🌹 Assumption of St. Mary (16 Mesore)
 DTEND;VALUE=DATE:20260823
-DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM — Assumption of the Blessed Virgin Mary into heaven
+SUMMARY:🌹 Assumption of St. Mary (16 Mesore)
+DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM --- Assumption of the Blessed V
+ irgin Mary into heaven
 TRANSP:TRANSPARENT
-UID:---assumption-of-st--mary--16-mesore--20260822@coptic-calendar
+UID:assumption-of-st-mary-16-mesore-2026-08-22@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🌹 Assumption of St. Mary (16 Mesore)
+DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM --- Assumption of the Blessed V
+ irgin Mary into heaven
+TRANSP:TRANSPARENT
+UID:assumption-of-st-mary-16-mesore-2026-08-22@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
-SUMMARY:🌟 Nayrouz - Coptic New Year 1743 AM (1 Thoout)
 DTEND;VALUE=DATE:20260912
-DESCRIPTION:Tune: Joyful. 1 Thoout 1743 AM — Feast of the Martyrs, crown of the year
+SUMMARY:🌟 Nayrouz (1 Thoout)
+DESCRIPTION:Tune: Joyful. 1 Thoout 1742 AM --- Feast of the Martyrs - Copti
+ c New Year 1743 AM
 TRANSP:TRANSPARENT
-UID:---nayrouz---coptic-new-year-1743-am--1--20260911@coptic-calendar
+UID:nayrouz-1-thoout-2026-09-11@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🌟 Nayrouz (1 Thoout)
+DESCRIPTION:Tune: Joyful. 1 Thoout 1742 AM --- Feast of the Martyrs - Copti
+ c New Year 1743 AM
+TRANSP:TRANSPARENT
+UID:nayrouz-1-thoout-2026-09-11@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
-SUMMARY:✝️ Feast of the Cross (Day 1) (17 Thoout)
 DTEND;VALUE=DATE:20260928
-DESCRIPTION:Tune: Hosanna. 17 Thoout 1743 AM — Discovery of the True Cross
+SUMMARY:✝ Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:Tune: Hosanna. 17 Thoout 1742 AM --- Discovery of the True Cros
+ s - three-day celebration
 TRANSP:TRANSPARENT
-UID:--feast-of-the-cross--day-1---17-thoout-20260927@coptic-calendar
+UID:feast-of-the-cross-day-1-17-thoout-2026-09-27@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:✝ Feast of the Cross (Day 1) (17 Thoout)
+DESCRIPTION:Tune: Hosanna. 17 Thoout 1742 AM --- Discovery of the True Cros
+ s - three-day celebration
+TRANSP:TRANSPARENT
+UID:feast-of-the-cross-day-1-17-thoout-2026-09-27@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260928
-SUMMARY:✝️ Feast of the Cross (Day 2) (18 Thoout)
 DTEND;VALUE=DATE:20260929
-DESCRIPTION:Tune: Hosanna. 18 Thoout 1743 AM — Feast of the Cross continues
+SUMMARY:✝ Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:Tune: Hosanna. 18 Thoout 1742 AM --- Feast of the Cross continu
+ es
 TRANSP:TRANSPARENT
-UID:--feast-of-the-cross--day-2---18-thoout-20260928@coptic-calendar
+UID:feast-of-the-cross-day-2-18-thoout-2026-09-28@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:✝ Feast of the Cross (Day 2) (18 Thoout)
+DESCRIPTION:Tune: Hosanna. 18 Thoout 1742 AM --- Feast of the Cross continu
+ es
+TRANSP:TRANSPARENT
+UID:feast-of-the-cross-day-2-18-thoout-2026-09-28@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
-SUMMARY:✝️ Feast of the Cross (Day 3) (19 Thoout)
 DTEND;VALUE=DATE:20260930
-DESCRIPTION:Tune: Hosanna. 19 Thoout 1743 AM — Third day of the Feast of the Cross
+SUMMARY:✝ Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:Tune: Hosanna. 19 Thoout 1742 AM --- Third day of the Feast of 
+ the Cross
 TRANSP:TRANSPARENT
-UID:--feast-of-the-cross--day-3---19-thoout-20260929@coptic-calendar
+UID:feast-of-the-cross-day-3-19-thoout-2026-09-29@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:✝ Feast of the Cross (Day 3) (19 Thoout)
+DESCRIPTION:Tune: Hosanna. 19 Thoout 1742 AM --- Third day of the Feast of 
+ the Cross
+TRANSP:TRANSPARENT
+UID:feast-of-the-cross-day-3-19-thoout-2026-09-29@coptic-calendar
 END:VEVENT
 END:VCALENDAR
-
