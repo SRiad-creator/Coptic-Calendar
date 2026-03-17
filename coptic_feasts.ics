@@ -278,6 +278,15 @@ TRANSP:TRANSPARENT
 UID:feast-of-pentecost-23-pashons-2026-05-31@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Parmoute]
+DESCRIPTION:29 Parmoute - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-parmoute-2026-05-07@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:⛪ Holy Family to Egypt (24 Pashons)
@@ -287,6 +296,15 @@ TRANSP:TRANSPARENT
 UID:holy-family-to-egypt-24-pashons-2026-06-01@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Pashons]
+DESCRIPTION:29 Pashons - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-pashons-2026-06-06@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:✨ Sts. Peter and Paul (5 Epep)
@@ -303,6 +321,15 @@ DESCRIPTION:Tune: Joyful. 5 Epep 1742 AM - Chief Apostles - feast
  celebrating their apostolic witness
 TRANSP:TRANSPARENT
 UID:sts-peter-and-paul-5-epep-2026-07-12@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paone]
+DESCRIPTION:29 Paone - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-paone-2026-07-06@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260819
@@ -339,6 +366,15 @@ DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM - Assumption of the Blessed
  Virgin Mary into heaven
 TRANSP:TRANSPARENT
 UID:assumption-of-st-mary-16-mesore-2026-08-22@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Epep]
+DESCRIPTION:29 Epep - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-epep-2026-08-05@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
@@ -409,5 +445,41 @@ DESCRIPTION:Tune: Hosanna. 19 Thoout 1742 AM - Third day of the Feast of
  the Cross
 TRANSP:TRANSPARENT
 UID:feast-of-the-cross-day-3-19-thoout-2026-09-29@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Mesore]
+DESCRIPTION:29 Mesore - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-mesore-2026-09-04@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Thoout]
+DESCRIPTION:29 Thoout - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-thoout-2026-10-09@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paope]
+DESCRIPTION:29 Paope - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-paope-2026-11-08@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Hator]
+DESCRIPTION:29 Hator - Monthly commemoration of the three great events
+TRANSP:TRANSPARENT
+CATEGORIES:Monthly
+UID:29th-29-hator-2026-12-08@coptic-calendar
 END:VEVENT
 END:VCALENDAR
