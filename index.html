@@ -43,24 +43,32 @@
 
     <script src="data.js"></script>
     <script>
-        // Apple OS Detection + Cache-bust all ICS links
+        // Platform detection + Cache-bust + Google Calendar redirect
         document.addEventListener("DOMContentLoaded", function() {
-            // Cache-bust all ICS download links
-            var ts = Date.now();
-            document.querySelectorAll('a[href$=".ics"]').forEach(function(a) {
-                a.href = a.href.split('?')[0] + '?v=' + ts;
-            });
-            
+            var baseUrl = "https://sriad-creator.github.io/Coptic-Calendar/";
             var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
             var isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
-            if (isIOS || (isMac && 'ontouchend' in document)) {
+            var isAndroid = /Android/i.test(navigator.userAgent);
+            var isMobile = isIOS || isAndroid || (isMac && 'ontouchend' in document);
+
+            if (isMobile) {
+                // On mobile, redirect all ICS links to Google Calendar import
+                document.querySelectorAll('a[href$=".ics"]').forEach(function(a) {
+                    var filename = a.getAttribute("href").split("?")[0];
+                    a.href = "https://www.google.com/calendar/render?cid=" + encodeURIComponent(baseUrl + filename);
+                    a.target = "_blank";
+                    a.removeAttribute("download");
+                });
                 var btn = document.getElementById("mainCalBtn");
-                btn.href = "https://www.google.com/calendar/render?cid=https://sriad-creator.github.io/Coptic-Calendar/coptic_calendar_2026.ics";
-                btn.target = "_blank";
-                btn.removeAttribute("download");
-                btn.innerHTML = "🇬 Google Calendar";
+                btn.innerHTML = "📅 Add to Google Calendar";
                 btn.style.background = "#4285F4";
                 btn.style.color = "white";
+            } else {
+                // Desktop: cache-bust download links
+                var ts = Date.now();
+                document.querySelectorAll('a[href$=".ics"]').forEach(function(a) {
+                    a.href = a.href.split('?')[0] + '?v=' + ts;
+                });
             }
         });
     </script>
