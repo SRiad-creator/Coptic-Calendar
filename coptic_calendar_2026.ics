@@ -9,7 +9,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:☦ St. Ignatius of Antioch (24 Kiahk)
-DESCRIPTION:24 Kiahk 1742 AM
+DESCRIPTION:24 Kiahk 1742 AM - Bishop of Antioch and early Church Father, f
+ ed to lions in Rome c. 108 AD
 TRANSP:TRANSPARENT
 UID:st-ignatius-of-antioch-24-kiahk-2026-01-02@coptic-calendar
 END:VEVENT
@@ -17,7 +18,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260107
 SUMMARY:🐟 Nativity Fast Ends (28 Kiahk)
-DESCRIPTION:28 Kiahk 1742 AM --- Conclusion of the 43-day Advent fast
+DESCRIPTION:28 Kiahk 1742 AM - Conclusion of the 43-day Advent fast
 TRANSP:TRANSPARENT
 UID:nativity-fast-ends-28-kiahk-2026-01-06@coptic-calendar
 END:VEVENT
@@ -25,8 +26,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
 SUMMARY:🎄 Feast of Nativity (29 Kiahk)
-DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM --- Birth of our Lord Jesus Chri
- st in Bethlehem
+DESCRIPTION:Tune: Joyful. 29 Kiahk 1742 AM - Birth of our Lord Jesus Christ
+  in Bethlehem
 TRANSP:TRANSPARENT
 UID:feast-of-nativity-29-kiahk-2026-01-07@coptic-calendar
 END:VEVENT
@@ -34,7 +35,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260111
 DTEND;VALUE=DATE:20260112
 SUMMARY:☦ Children of Bethlehem (3 Tobe)
-DESCRIPTION:3 Tobe 1742 AM
+DESCRIPTION:3 Tobe 1742 AM - The Holy Innocents slain by King Herod (Matthe
+ w 2:16-18)
 TRANSP:TRANSPARENT
 UID:children-of-bethlehem-3-tobe-2026-01-11@coptic-calendar
 END:VEVENT
@@ -42,7 +44,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:☦ St. John the Apostle (4 Tobe)
-DESCRIPTION:4 Tobe 1742 AM
+DESCRIPTION:4 Tobe 1742 AM - Beloved disciple, author of the Gospel of John
+  and Revelation
 TRANSP:TRANSPARENT
 UID:st-john-the-apostle-4-tobe-2026-01-12@coptic-calendar
 END:VEVENT
@@ -50,8 +53,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:✨ Circumcision (6 Tobe)
-DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM --- Circumcision of our Lord on th
- e 8th day after Nativity
+DESCRIPTION:Tune: Joyful. 6 Tobe 1742 AM - Circumcision of our Lord on the 
+ 8th day after Nativity
 TRANSP:TRANSPARENT
 UID:circumcision-6-tobe-2026-01-14@coptic-calendar
 END:VEVENT
@@ -59,8 +62,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:💧 Theophany (11 Tobe)
-DESCRIPTION:Tune: Joyful. 11 Tobe 1742 AM --- Baptism of our Lord in the Jo
- rdan by St. John the Baptist
+DESCRIPTION:Tune: Joyful. 11 Tobe 1742 AM - Baptism of our Lord in the Jord
+ an by St. John the Baptist
 TRANSP:TRANSPARENT
 UID:theophany-11-tobe-2026-01-19@coptic-calendar
 END:VEVENT
@@ -68,8 +71,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260118
 DTEND;VALUE=DATE:20260119
 SUMMARY:🐟 Paramouni of Theophany (10 Tobe)
-DESCRIPTION:10 Tobe 1742 AM --- Eve of the Feast of Theophany - day of stri
- ct fasting
+DESCRIPTION:10 Tobe 1742 AM - Eve of the Feast of Theophany - day of strict
+  fasting
 TRANSP:TRANSPARENT
 UID:paramouni-of-theophany-10-tobe-2026-01-18@coptic-calendar
 END:VEVENT
@@ -77,8 +80,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:🍷 Miracle at Cana (13 Tobe)
-DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM --- First miracle of Christ, wate
- r into wine (John 2:1-11)
+DESCRIPTION:Tune: Joyful. 13 Tobe 1742 AM - First miracle of Christ, water 
+ into wine (John 2:1-11)
 TRANSP:TRANSPARENT
 UID:miracle-at-cana-13-tobe-2026-01-21@coptic-calendar
 END:VEVENT
@@ -86,7 +89,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:☦ St. Demiana & the 40 Virgins (13 Tobe)
-DESCRIPTION:13 Tobe 1742 AM
+DESCRIPTION:13 Tobe 1742 AM - Virgin martyr who inspired 40 companions unde
+ r Diocletian
 TRANSP:TRANSPARENT
 UID:st-demiana-the-40-virgins-13-tobe-2026-01-21@coptic-calendar
 END:VEVENT
@@ -94,7 +98,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:☦ St. Maximus (14 Tobe)
-DESCRIPTION:14 Tobe 1742 AM
+DESCRIPTION:14 Tobe 1742 AM - Desert father known for asceticism and holine
+ ss
 TRANSP:TRANSPARENT
 UID:st-maximus-14-tobe-2026-01-22@coptic-calendar
 END:VEVENT
@@ -102,7 +107,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
 SUMMARY:☦ St. Domadius (17 Tobe)
-DESCRIPTION:17 Tobe 1742 AM
+DESCRIPTION:17 Tobe 1742 AM - Desert father and ascetic of Scetis
 TRANSP:TRANSPARENT
 UID:st-domadius-17-tobe-2026-01-25@coptic-calendar
 END:VEVENT
@@ -110,7 +115,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:☦ St. Anthony the Great (22 Tobe)
-DESCRIPTION:22 Tobe 1742 AM
+DESCRIPTION:22 Tobe 1742 AM - Father of monasticism, the star of the wilder
+ ness (251-356 AD)
 TRANSP:TRANSPARENT
 UID:st-anthony-the-great-22-tobe-2026-01-30@coptic-calendar
 END:VEVENT
@@ -158,7 +164,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:🪽 Archangel Michael [12 Tobe]
-DESCRIPTION:12 Tobe --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Tobe - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-tobe-2026-01-20@coptic-calendar
@@ -167,7 +173,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:👑 Saint Mary [21 Tobe]
-DESCRIPTION:21 Tobe --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Tobe - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-tobe-2026-01-29@coptic-calendar
@@ -200,8 +206,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:🐳 Feast of Jonah (28 Tobe)
-DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM --- Celebration after the three-d
- ay Nineveh fast
+DESCRIPTION:Tune: Joyful. 28 Tobe 1742 AM - Celebration after the three-day
+  Nineveh fast
 TRANSP:TRANSPARENT
 UID:feast-of-jonah-28-tobe-2026-02-05@coptic-calendar
 END:VEVENT
@@ -225,8 +231,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
 SUMMARY:⛪ Presentation into the Temple (8 Meshir)
-DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM --- Presentation of our Lord 40 
- days after Nativity
+DESCRIPTION:Tune: Joyful. 8 Meshir 1742 AM - Presentation of our Lord 40 da
+ ys after Nativity
 TRANSP:TRANSPARENT
 UID:presentation-into-the-temple-8-meshir-2026-02-15@coptic-calendar
 END:VEVENT
@@ -242,8 +248,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:🐟 Great Lent Begins (9 Meshir)
-DESCRIPTION:9 Meshir 1742 AM --- Beginning of the 55-day Great Lent, strict
-  vegan fast
+DESCRIPTION:9 Meshir 1742 AM - Beginning of the 55-day Great Lent, strict v
+ egan fast
 TRANSP:TRANSPARENT
 UID:great-lent-begins-9-meshir-2026-02-16@coptic-calendar
 END:VEVENT
@@ -300,16 +306,6 @@ CATEGORIES:Sunday
 UID:1st-sunday-of-meshir-1-meshir-2026-02-08-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DTEND;VALUE=DATE:20260216
-SUMMARY:🟢 Pre-Lent Sunday (8 Meshir)
-DESCRIPTION:Tune: Annual.\nGospel: Matthew 6:1-18 (Charity, Prayer, Fasting
- )\nCoptic date: 8 Meshir\nTheme: Preparation
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:pre-lent-sunday-8-meshir-2026-02-15-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
 SUMMARY:🟣 1st Sunday of Lent (15 Meshir)
@@ -323,7 +319,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:🪽 Archangel Michael [12 Meshir]
-DESCRIPTION:12 Meshir --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Meshir - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-meshir-2026-02-19@coptic-calendar
@@ -332,7 +328,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
 SUMMARY:👑 Saint Mary [21 Meshir]
-DESCRIPTION:21 Meshir --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Meshir - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-meshir-2026-02-28@coptic-calendar
@@ -357,7 +353,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
 SUMMARY:☦ Pope Cyril VI (30 Meshir)
-DESCRIPTION:30 Meshir 1742 AM
+DESCRIPTION:30 Meshir 1742 AM - 116th Pope of Alexandria, beloved modern sa
+ int (1902-1971)
 TRANSP:TRANSPARENT
 UID:pope-cyril-vi-30-meshir-2026-03-09@coptic-calendar
 END:VEVENT
@@ -381,8 +378,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:✝ Feast of the Holy Cross (10 Paremhotep)
-DESCRIPTION:Tune: Hosanna. 10 Paremhotep 1742 AM --- Discovery of the True 
- Cross by Empress Helena (326 AD)
+DESCRIPTION:Tune: Hosanna. 10 Paremhotep 1742 AM - Discovery of the True Cr
+ oss by Empress Helena (326 AD)
 TRANSP:TRANSPARENT
 UID:feast-of-the-holy-cross-10-paremhotep-2026-03-19@coptic-calendar
 END:VEVENT
@@ -448,7 +445,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 SUMMARY:🪽 Archangel Michael [12 Paremhotep]
-DESCRIPTION:12 Paremhotep --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Paremhotep - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-paremhotep-2026-03-21@coptic-calendar
@@ -457,7 +454,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260331
 SUMMARY:👑 Saint Mary [21 Paremhotep]
-DESCRIPTION:21 Paremhotep --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Paremhotep - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-paremhotep-2026-03-30@coptic-calendar
@@ -466,8 +463,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:🕊️ Apparition at Zeitoun (24 Paremhotep)
-DESCRIPTION:24 Paremhotep 1742 AM --- Apparition of the Virgin Mary above t
- he Church at Zeitoun (1968)
+DESCRIPTION:24 Paremhotep 1742 AM - Apparition of the Virgin Mary above the
+  Church at Zeitoun (1968)
 TRANSP:TRANSPARENT
 UID:apparition-at-zeitoun-24-paremhotep-2026-04-02@coptic-calendar
 END:VEVENT
@@ -475,8 +472,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:✝ Last Friday of Lent (25 Paremhotep)
-DESCRIPTION:25 Paremhotep 1742 AM --- Final Friday of Great Lent before Hol
- y Week
+DESCRIPTION:25 Paremhotep 1742 AM - Final Friday of Great Lent before Holy 
+ Week
 TRANSP:TRANSPARENT
 UID:last-friday-of-lent-25-paremhotep-2026-04-03@coptic-calendar
 END:VEVENT
@@ -484,8 +481,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260405
 SUMMARY:🪦 Lazarus Saturday (26 Paremhotep)
-DESCRIPTION:Tune: Joyful. 26 Paremhotep 1742 AM --- Raising of Lazarus from
-  the dead (John 11)
+DESCRIPTION:Tune: Joyful. 26 Paremhotep 1742 AM - Raising of Lazarus from t
+ he dead (John 11)
 TRANSP:TRANSPARENT
 UID:lazarus-saturday-26-paremhotep-2026-04-04@coptic-calendar
 END:VEVENT
@@ -493,7 +490,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:☦ St. Macarius the Great (27 Paremhotep)
-DESCRIPTION:27 Paremhotep 1742 AM
+DESCRIPTION:27 Paremhotep 1742 AM - Desert father and abbot of Scetis (300-
+ 390 AD)
 TRANSP:TRANSPARENT
 UID:st-macarius-the-great-27-paremhotep-2026-04-05@coptic-calendar
 END:VEVENT
@@ -501,8 +499,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM --- Triumphal entry of Chr
- ist into Jerusalem - Holy Week begins
+DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM - Triumphal entry of Chris
+ t into Jerusalem - Holy Week begins
 TRANSP:TRANSPARENT
 UID:palm-sunday-27-paremhotep-2026-04-05@coptic-calendar
 END:VEVENT
@@ -518,8 +516,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
 SUMMARY:🕊️ Annunciation (29 Paremhotep)
-DESCRIPTION:Tune: Joyful. 29 Paremhotep 1742 AM --- The Archangel Gabriel a
- nnounces to the Virgin Mary (Luke 1:26-38)
+DESCRIPTION:Tune: Joyful. 29 Paremhotep 1742 AM - The Archangel Gabriel ann
+ ounces to the Virgin Mary (Luke 1:26-38)
 TRANSP:TRANSPARENT
 UID:annunciation-29-paremhotep-2026-04-07@coptic-calendar
 END:VEVENT
@@ -527,8 +525,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:🍞 Covenant Thursday (1 Parmoute)
-DESCRIPTION:Tune: Joyful. 1 Parmoute 1742 AM --- The Last Supper, instituti
- on of the Holy Eucharist
+DESCRIPTION:Tune: Joyful. 1 Parmoute 1742 AM - The Last Supper, institution
+  of the Holy Eucharist
 TRANSP:TRANSPARENT
 UID:covenant-thursday-1-parmoute-2026-04-09@coptic-calendar
 END:VEVENT
@@ -536,8 +534,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:✝ Good Friday (2 Parmoute)
-DESCRIPTION:2 Parmoute 1742 AM --- Crucifixion of our Lord Jesus Christ for
-  the salvation of the world
+DESCRIPTION:2 Parmoute 1742 AM - Crucifixion of our Lord Jesus Christ for t
+ he salvation of the world
 TRANSP:TRANSPARENT
 UID:good-friday-2-parmoute-2026-04-10@coptic-calendar
 END:VEVENT
@@ -545,8 +543,9 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
 SUMMARY:🌅 Resurrection (4 Parmoute)
-DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM --- The Resurrection of our Lo
- rd Jesus Christ! Xristos Anesti!
+DESCRIPTION:Tune: Joyful. 4 Parmoute 1742 AM - The Resurrection of our Lord
+  Jesus Christ from the dead!\nXristos Anesti, Alithos Anesti!\nPikhristos 
+ Aftonf, Khen O Methmi Aftonf!
 TRANSP:TRANSPARENT
 UID:resurrection-4-parmoute-2026-04-12@coptic-calendar
 END:VEVENT
@@ -562,8 +561,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:🟡 Thomas Sunday (11 Parmoute)
-DESCRIPTION:Tune: Joyful. 11 Parmoute 1742 AM --- Jesus appears to Thomas -
-  Blessed are those who have not seen
+DESCRIPTION:Tune: Joyful. 11 Parmoute 1742 AM - Jesus appears to Thomas - B
+ lessed are those who have not seen
 TRANSP:TRANSPARENT
 UID:thomas-sunday-11-parmoute-2026-04-19@coptic-calendar
 END:VEVENT
@@ -574,37 +573,6 @@ SUMMARY:☦ St. James the Apostle (17 Parmoute)
 DESCRIPTION:17 Parmoute 1742 AM
 TRANSP:TRANSPARENT
 UID:st-james-the-apostle-17-parmoute-2026-04-25@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DESCRIPTION:Tune: Hosanna.\nGospel: Matt 21:1-17; Mark 11:1-11; Luke 19:29-
- 48; John 12:12-19 (Triumphal Entry into Jerusalem)\nCoptic date: 27 Paremh
- otep
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:palm-sunday-27-paremhotep-2026-04-05-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:🌅 Glorious Resurrection (4 Parmoute)
-DESCRIPTION:Tune: Joyful.\nGospel: Mark 16:2-8 (The Empty Tomb)\nCoptic dat
- e: 4 Parmoute
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:glorious-resurrection-4-parmoute-2026-04-12-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:🟡 Thomas Sunday (11 Parmoute)
-DESCRIPTION:Tune: Joyful.\nGospel: John 20:19-31 (Blessed are those who hav
- e not seen)\nCoptic date: 11 Parmoute
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:thomas-sunday-11-parmoute-2026-04-19-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
@@ -620,7 +588,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:🪽 Archangel Michael [12 Parmoute]
-DESCRIPTION:12 Parmoute --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Parmoute - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-parmoute-2026-04-20@coptic-calendar
@@ -629,7 +597,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:👑 Saint Mary [21 Parmoute]
-DESCRIPTION:21 Parmoute --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Parmoute - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-parmoute-2026-04-29@coptic-calendar
@@ -638,7 +606,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:☦ St. George (23 Parmoute)
-DESCRIPTION:23 Parmoute 1742 AM
+DESCRIPTION:23 Parmoute 1742 AM - Great Martyr, patron of many churches wor
+ ldwide
 TRANSP:TRANSPARENT
 UID:st-george-23-parmoute-2026-05-01@coptic-calendar
 END:VEVENT
@@ -646,7 +615,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:☦ St. Mark the Evangelist (30 Parmoute)
-DESCRIPTION:30 Parmoute 1742 AM
+DESCRIPTION:30 Parmoute 1742 AM - Author of the second Gospel, founder of t
+ he Church in Alexandria
 TRANSP:TRANSPARENT
 UID:st-mark-the-evangelist-30-parmoute-2026-05-08@coptic-calendar
 END:VEVENT
@@ -654,7 +624,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:☦ St. Athanasius (7 Pashons)
-DESCRIPTION:7 Pashons 1742 AM
+DESCRIPTION:7 Pashons 1742 AM - Patriarch of Alexandria, defender of orthod
+ oxy against Arianism (296-373 AD)
 TRANSP:TRANSPARENT
 UID:st-athanasius-7-pashons-2026-05-15@coptic-calendar
 END:VEVENT
@@ -662,8 +633,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:☁ Feast of Ascension (13 Pashons)
-DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM --- Ascension of our Lord 40 d
- ays after Resurrection
+DESCRIPTION:Tune: Joyful. 13 Pashons 1742 AM - Ascension of our Lord 40 day
+ s after Resurrection
 TRANSP:TRANSPARENT
 UID:feast-of-ascension-13-pashons-2026-05-21@coptic-calendar
 END:VEVENT
@@ -687,8 +658,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:🔥 Feast of Pentecost (23 Pashons)
-DESCRIPTION:Tune: Joyful. 23 Pashons 1742 AM --- Descent of the Holy Spirit
-  upon the Apostles (Acts 2)
+DESCRIPTION:Tune: Joyful. 23 Pashons 1742 AM - Descent of the Holy Spirit u
+ pon the Apostles (Acts 2)
 TRANSP:TRANSPARENT
 UID:feast-of-pentecost-23-pashons-2026-05-31@coptic-calendar
 END:VEVENT
@@ -733,20 +704,10 @@ CATEGORIES:Sunday
 UID:6th-sunday-of-holy-50-16-pashons-2026-05-24-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:🔥 Pentecost (23 Pashons)
-DESCRIPTION:Tune: Joyful.\nGospel: John 15:26-16:15 (The Promise of the Hol
- y Spirit)\nCoptic date: 23 Pashons
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:pentecost-23-pashons-2026-05-31-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Parmoute]
-DESCRIPTION:29 Parmoute --- Monthly commemoration of the three great events
+DESCRIPTION:29 Parmoute - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-parmoute-2026-05-07@coptic-calendar
@@ -755,7 +716,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:🪽 Archangel Michael [12 Pashons]
-DESCRIPTION:12 Pashons --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Pashons - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-pashons-2026-05-20@coptic-calendar
@@ -764,7 +725,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:👑 Saint Mary [21 Pashons]
-DESCRIPTION:21 Pashons --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Pashons - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-pashons-2026-05-29@coptic-calendar
@@ -773,8 +734,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:⛪ Holy Family to Egypt (24 Pashons)
-DESCRIPTION:24 Pashons 1742 AM --- Flight of the Holy Family into Egypt (Ma
- tthew 2:13-15)
+DESCRIPTION:24 Pashons 1742 AM - Flight of the Holy Family into Egypt (Matt
+ hew 2:13-15)
 TRANSP:TRANSPARENT
 UID:holy-family-to-egypt-24-pashons-2026-06-01@coptic-calendar
 END:VEVENT
@@ -894,7 +855,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Pashons]
-DESCRIPTION:29 Pashons --- Monthly commemoration of the three great events
+DESCRIPTION:29 Pashons - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-pashons-2026-06-06@coptic-calendar
@@ -903,7 +864,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:🪽 Archangel Michael [12 Paone]
-DESCRIPTION:12 Paone --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Paone - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-paone-2026-06-19@coptic-calendar
@@ -912,7 +873,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:👑 Saint Mary [21 Paone]
-DESCRIPTION:21 Paone --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Paone - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-paone-2026-06-28@coptic-calendar
@@ -921,7 +882,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:☦ St. Moses the Strong (24 Paone)
-DESCRIPTION:24 Paone 1742 AM
+DESCRIPTION:24 Paone 1742 AM - Former bandit turned desert monk and martyr,
+  known as Moses the Black
 TRANSP:TRANSPARENT
 UID:st-moses-the-strong-24-paone-2026-07-01@coptic-calendar
 END:VEVENT
@@ -953,8 +915,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
 SUMMARY:✨ Sts. Peter and Paul (5 Epep)
-DESCRIPTION:Tune: Joyful. 5 Epep 1742 AM --- Chief Apostles - feast celebra
- ting their apostolic witness
+DESCRIPTION:Tune: Joyful. 5 Epep 1742 AM - Chief Apostles - feast celebrati
+ ng their apostolic witness
 TRANSP:TRANSPARENT
 UID:sts-peter-and-paul-5-epep-2026-07-12@coptic-calendar
 END:VEVENT
@@ -970,7 +932,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:☦ St. Bishoy (8 Epep)
-DESCRIPTION:8 Epep 1742 AM
+DESCRIPTION:8 Epep 1742 AM - Beloved of Christ, the perfect man, desert fat
+ her of Scetis
 TRANSP:TRANSPARENT
 UID:st-bishoy-8-epep-2026-07-15@coptic-calendar
 END:VEVENT
@@ -1025,17 +988,6 @@ CATEGORIES:Sunday
 UID:4th-sunday-of-paone-28-paone-2026-07-05-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:🟢 Feast of the Apostles (5 Epep)
-DESCRIPTION:Tune: Joyful.\nGospel: Matthew 16:13-19 (Peter's Confession)\nC
- optic date: 5 Epep\nTheme: Sts. Peter and Paul\nSynaxarion: Sts. Peter and
-  Paul.
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:feast-of-the-apostles-5-epep-2026-07-12-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:🟢 2nd Sunday of Epep (12 Epep)
@@ -1059,7 +1011,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paone]
-DESCRIPTION:29 Paone --- Monthly commemoration of the three great events
+DESCRIPTION:29 Paone - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-paone-2026-07-06@coptic-calendar
@@ -1068,7 +1020,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:🪽 Archangel Michael [12 Epep]
-DESCRIPTION:12 Epep --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Epep - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-epep-2026-07-19@coptic-calendar
@@ -1077,7 +1029,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 SUMMARY:👑 Saint Mary [21 Epep]
-DESCRIPTION:21 Epep --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Epep - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-epep-2026-07-28@coptic-calendar
@@ -1126,8 +1078,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:✨ Transfiguration (13 Mesore)
-DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM --- Transfiguration of Christ o
- n Mount Tabor (Matt 17:1-8)
+DESCRIPTION:Tune: Joyful. 13 Mesore 1742 AM - Transfiguration of Christ on 
+ Mount Tabor (Matt 17:1-8)
 TRANSP:TRANSPARENT
 UID:transfiguration-13-mesore-2026-08-19@coptic-calendar
 END:VEVENT
@@ -1151,8 +1103,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:🌹 Assumption of St. Mary (16 Mesore)
-DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM --- Assumption of the Blessed V
- irgin Mary into heaven
+DESCRIPTION:Tune: Joyful. 16 Mesore 1742 AM - Assumption of the Blessed Vir
+ gin Mary into heaven
 TRANSP:TRANSPARENT
 UID:assumption-of-st-mary-16-mesore-2026-08-22@coptic-calendar
 END:VEVENT
@@ -1234,7 +1186,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Epep]
-DESCRIPTION:29 Epep --- Monthly commemoration of the three great events
+DESCRIPTION:29 Epep - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-epep-2026-08-05@coptic-calendar
@@ -1243,7 +1195,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:🪽 Archangel Michael [12 Mesore]
-DESCRIPTION:12 Mesore --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Mesore - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-mesore-2026-08-18@coptic-calendar
@@ -1252,7 +1204,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:👑 Saint Mary [21 Mesore]
-DESCRIPTION:21 Mesore --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Mesore - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-mesore-2026-08-27@coptic-calendar
@@ -1277,8 +1229,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:🌟 Nayrouz (1 Thoout)
-DESCRIPTION:Tune: Joyful. 1 Thoout 1742 AM --- Feast of the Martyrs - Copti
- c New Year 1743 AM
+DESCRIPTION:Tune: Joyful. 1 Thoout 1742 AM - Feast of the Martyrs - Coptic 
+ New Year 1743 AM
 TRANSP:TRANSPARENT
 UID:nayrouz-1-thoout-2026-09-11@coptic-calendar
 END:VEVENT
@@ -1334,8 +1286,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:✝ Feast of the Cross (Day 1) (17 Thoout)
-DESCRIPTION:Tune: Hosanna. 17 Thoout 1742 AM --- Discovery of the True Cros
- s - three-day celebration
+DESCRIPTION:Tune: Hosanna. 17 Thoout 1742 AM - Discovery of the True Cross 
+ - three-day celebration
 TRANSP:TRANSPARENT
 UID:feast-of-the-cross-day-1-17-thoout-2026-09-27@coptic-calendar
 END:VEVENT
@@ -1343,8 +1295,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:✝ Feast of the Cross (Day 2) (18 Thoout)
-DESCRIPTION:Tune: Hosanna. 18 Thoout 1742 AM --- Feast of the Cross continu
- es
+DESCRIPTION:Tune: Hosanna. 18 Thoout 1742 AM - Feast of the Cross continues
 TRANSP:TRANSPARENT
 UID:feast-of-the-cross-day-2-18-thoout-2026-09-28@coptic-calendar
 END:VEVENT
@@ -1352,8 +1303,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:✝ Feast of the Cross (Day 3) (19 Thoout)
-DESCRIPTION:Tune: Hosanna. 19 Thoout 1742 AM --- Third day of the Feast of 
- the Cross
+DESCRIPTION:Tune: Hosanna. 19 Thoout 1742 AM - Third day of the Feast of th
+ e Cross
 TRANSP:TRANSPARENT
 UID:feast-of-the-cross-day-3-19-thoout-2026-09-29@coptic-calendar
 END:VEVENT
@@ -1388,20 +1339,10 @@ CATEGORIES:Sunday
 UID:2nd-sunday-of-thoout-10-thoout-2026-09-20-sunday@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:🟢 Feast of the Cross (17 Thoout)
-DESCRIPTION:Tune: Hosanna.\nGospel: John 10:22-38 (Jesus at the Feast of De
- dication)\nCoptic date: 17 Thoout
-TRANSP:TRANSPARENT
-CATEGORIES:Sunday
-UID:feast-of-the-cross-17-thoout-2026-09-27-sunday@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Mesore]
-DESCRIPTION:29 Mesore --- Monthly commemoration of the three great events
+DESCRIPTION:29 Mesore - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-mesore-2026-09-04@coptic-calendar
@@ -1410,7 +1351,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:🪽 Archangel Michael [12 Thoout]
-DESCRIPTION:12 Thoout --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Thoout - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-thoout-2026-09-22@coptic-calendar
@@ -1499,7 +1440,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:☦ St. Reweis (21 Paope)
-DESCRIPTION:21 Paope 1742 AM
+DESCRIPTION:21 Paope 1742 AM - Egyptian hermit known for his love of solitu
+ de and prayer
 TRANSP:TRANSPARENT
 UID:st-reweis-21-paope-2026-10-31@coptic-calendar
 END:VEVENT
@@ -1547,7 +1489,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:👑 Saint Mary [21 Thoout]
-DESCRIPTION:21 Thoout --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Thoout - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-thoout-2026-10-01@coptic-calendar
@@ -1556,7 +1498,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Thoout]
-DESCRIPTION:29 Thoout --- Monthly commemoration of the three great events
+DESCRIPTION:29 Thoout - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-thoout-2026-10-09@coptic-calendar
@@ -1565,7 +1507,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🪽 Archangel Michael [12 Paope]
-DESCRIPTION:12 Paope --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Paope - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-paope-2026-10-22@coptic-calendar
@@ -1574,7 +1516,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:👑 Saint Mary [21 Paope]
-DESCRIPTION:21 Paope --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Paope - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-paope-2026-10-31@coptic-calendar
@@ -1631,7 +1573,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:☦ St. Mina the Wonderworker (15 Hator)
-DESCRIPTION:15 Hator 1742 AM
+DESCRIPTION:15 Hator 1742 AM - Egyptian soldier-martyr, patron saint of man
+ y Coptic churches
 TRANSP:TRANSPARENT
 UID:st-mina-the-wonderworker-15-hator-2026-11-24@coptic-calendar
 END:VEVENT
@@ -1639,8 +1582,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🐟 Nativity Fast Begins (16 Hator)
-DESCRIPTION:16 Hator 1742 AM --- 43-day vegan fast preparing for the Nativi
- ty
+DESCRIPTION:16 Hator 1742 AM - 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 UID:nativity-fast-begins-16-hator-2026-11-25@coptic-calendar
 END:VEVENT
@@ -1723,7 +1665,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Paope]
-DESCRIPTION:29 Paope --- Monthly commemoration of the three great events
+DESCRIPTION:29 Paope - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-paope-2026-11-08@coptic-calendar
@@ -1732,7 +1674,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:🪽 Archangel Michael [12 Hator]
-DESCRIPTION:12 Hator --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Hator - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-hator-2026-11-21@coptic-calendar
@@ -1741,7 +1683,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:👑 Saint Mary [21 Hator]
-DESCRIPTION:21 Hator --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Hator - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-hator-2026-11-30@coptic-calendar
@@ -1806,7 +1748,8 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:☦ Sts. Barbara & Juliana (8 Kiahk)
-DESCRIPTION:8 Kiahk 1742 AM
+DESCRIPTION:8 Kiahk 1742 AM - Companions in martyrdom under Emperor Maximia
+ n
 TRANSP:TRANSPARENT
 UID:sts-barbara-juliana-8-kiahk-2026-12-17@coptic-calendar
 END:VEVENT
@@ -1862,7 +1805,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:📣 Annunciation, Nativity, Resurrection [29 Hator]
-DESCRIPTION:29 Hator --- Monthly commemoration of the three great events
+DESCRIPTION:29 Hator - Monthly commemoration of the three great events
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:29th-29-hator-2026-12-08@coptic-calendar
@@ -1871,7 +1814,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:🪽 Archangel Michael [12 Kiahk]
-DESCRIPTION:12 Kiahk --- Monthly commemoration of Archangel Michael
+DESCRIPTION:12 Kiahk - Monthly commemoration of Archangel Michael
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:michael-12-kiahk-2026-12-21@coptic-calendar
@@ -1880,7 +1823,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:👑 Saint Mary [21 Kiahk]
-DESCRIPTION:21 Kiahk --- Monthly commemoration of the Theotokos
+DESCRIPTION:21 Kiahk - Monthly commemoration of the Theotokos
 TRANSP:TRANSPARENT
 CATEGORIES:Monthly
 UID:mary-21-kiahk-2026-12-30@coptic-calendar
