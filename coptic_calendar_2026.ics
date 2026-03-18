@@ -178,6 +178,15 @@ UID:lazarus-saturday--26-paremhotep--20260404@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260405
+SUMMARY:🌿 Palm Sunday (27 Paremhotep)
+DTEND;VALUE=DATE:20260406
+DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
+TRANSP:TRANSPARENT
+UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
 DTSTART;VALUE=DATE:20260407
 SUMMARY:🕊️ Annunciation (29 Paremhotep)
 DTEND;VALUE=DATE:20260408
@@ -292,14 +301,6 @@ DTEND;VALUE=DATE:20260103
 DESCRIPTION:24 Kiahk 1742 AM — Bishop of Antioch and early Church Father, fed to lions in Rome c. 108 AD
 TRANSP:TRANSPARENT
 UID:--st--ignatius-of-antioch--24-kiahk--20260102@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260104
-SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
-UID:---4th-sunday-of-kiahk---birth-of-john-20260104@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: Luke 1:57–80 (Birth of John).
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
@@ -1249,36 +1250,12 @@ UID:annun-nat-20260107@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260111
-SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
-UID:---1st-sunday-of-tobe--3-tobe--20260111@coptic-calendar
-DESCRIPTION:Tune: Joyful. Gospel: Matt 2:13–23 (Flight to Egypt).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260118
-SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
-UID:---2nd-sunday-of-tobe--10-tobe--20260118@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: Luke 3:1–18 (Prepare the Way).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
 DTSTART;VALUE=DATE:20260120
 SUMMARY:☦️ Archangel Michael (12 Tobe)
 DTEND;VALUE=DATE:20260121
 DESCRIPTION:12 Tobe - Monthly Commemoration.
 TRANSP:TRANSPARENT
 UID:archangel-michael-20260120@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260125
-SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
-UID:---3rd-sunday-of-tobe--17-tobe--20260125@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: John 3:22–36 (John's Testimony).
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
@@ -1291,30 +1268,6 @@ UID:st-mary-21-20260129@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260201
-SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
-UID:---4th-sunday-of-tobe--24-tobe--20260201@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: John 9:1–38 (Man Born Blind).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260208
-SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
-UID:---1st-sunday-of-meshir--1-meshir--20260208@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: John 6:22–38 (Bread of Life).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260215
-SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
-UID:---2nd-sunday-of-meshir--8-meshir--20260215@coptic-calendar
-DESCRIPTION:Tune: Annual. Gospel: Matt 6:1–18 (Charity.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
 DTSTART;VALUE=DATE:20260219
 SUMMARY:☦️ Archangel Michael (12 Meshir)
 DTEND;VALUE=DATE:20260220
@@ -1324,44 +1277,12 @@ UID:archangel-michael-20260219@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260222
-SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
-UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
-DESCRIPTION:Tune: Lenten. Gospel: Matt 6:19–33 (Treasures in Heaven).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
 DTSTART;VALUE=DATE:20260228
 SUMMARY:👑 St. Mary the Theotokos (21 Meshir)
 DTEND;VALUE=DATE:20260301
 DESCRIPTION:21 Meshir - Monthly Commemoration.
 TRANSP:TRANSPARENT
 UID:st-mary-21-20260228@coptic-calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260301
-SUMMARY:🟣 2nd Sunday of Lent — Temptation
-UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
-DESCRIPTION:Tune: Lenten. Gospel: Matt 4:1–11 (The Temptation).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260308
-SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
-UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
-DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11–32 (Prodigal Son).
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260315
-SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
-UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
-DESCRIPTION:Tune: Lenten. Gospel: John 4:1–42 (Samaritan Woman).
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
@@ -1626,6 +1547,94 @@ UID:st-mary-21-20261230@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260104
+SUMMARY:🕊️ 4th Sunday of Kiahk — Birth of John
+UID:---4th-sunday-of-kiahk---birth-of-john-20260104@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: Luke 1:57–80 (Birth of John).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260111
+SUMMARY:🟢 1st Sunday of Tobe (3 Tobe)
+UID:---1st-sunday-of-tobe--3-tobe--20260111@coptic-calendar
+DESCRIPTION:Tune: Joyful. Gospel: Matt 2:13–23 (Flight to Egypt).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260118
+SUMMARY:🟢 2nd Sunday of Tobe (10 Tobe)
+UID:---2nd-sunday-of-tobe--10-tobe--20260118@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: Luke 3:1–18 (Prepare the Way).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260125
+SUMMARY:🟢 3rd Sunday of Tobe (17 Tobe)
+UID:---3rd-sunday-of-tobe--17-tobe--20260125@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: John 3:22–36 (John's Testimony).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260201
+SUMMARY:🟢 4th Sunday of Tobe (24 Tobe)
+UID:---4th-sunday-of-tobe--24-tobe--20260201@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: John 9:1–38 (Man Born Blind).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260208
+SUMMARY:🟢 1st Sunday of Meshir (1 Meshir)
+UID:---1st-sunday-of-meshir--1-meshir--20260208@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: John 6:22–38 (Bread of Life).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260215
+SUMMARY:🟢 2nd Sunday of Meshir (8 Meshir)
+UID:---2nd-sunday-of-meshir--8-meshir--20260215@coptic-calendar
+DESCRIPTION:Tune: Annual. Gospel: Matt 6:1–18 (Charity.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260222
+SUMMARY:🟣 1st Sunday of Lent — Treasures in Heaven
+UID:---1st-sunday-of-lent---treasures-in-hea-20260222@coptic-calendar
+DESCRIPTION:Tune: Lenten. Gospel: Matt 6:19–33 (Treasures in Heaven).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260301
+SUMMARY:🟣 2nd Sunday of Lent — Temptation
+UID:---2nd-sunday-of-lent---temptation-20260301@coptic-calendar
+DESCRIPTION:Tune: Lenten. Gospel: Matt 4:1–11 (The Temptation).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260308
+SUMMARY:🟣 3rd Sunday of Lent — Prodigal Son
+UID:---3rd-sunday-of-lent---prodigal-son-20260308@coptic-calendar
+DESCRIPTION:Tune: Lenten. Gospel: Luke 15:11–32 (Prodigal Son).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260315
+SUMMARY:🟣 4th Sunday of Lent — Samaritan Woman
+UID:---4th-sunday-of-lent---samaritan-woman-20260315@coptic-calendar
+DESCRIPTION:Tune: Lenten. Gospel: John 4:1–42 (Samaritan Woman).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
 DTSTART;VALUE=DATE:20260317
 SUMMARY:☦️ Pope Shenouda III (8 Baramhat)
 DTEND;VALUE=DATE:20260318
@@ -1648,15 +1657,6 @@ SUMMARY:🟣 6th Sunday of Lent — Man Born Blind
 UID:---6th-sunday-of-lent---man-born-blind-20260329@coptic-calendar
 DESCRIPTION:Tune: Lenten. Gospel: John 9:1–41 (Man Born Blind).
 TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260316T081132Z
-DTSTART;VALUE=DATE:20260405
-SUMMARY:🌿 Palm Sunday (27 Paremhotep)
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:Tune: Hosanna. 27 Paremhotep 1742 AM — Triumphal entry of Christ into Jerusalem
-TRANSP:TRANSPARENT
-UID:---palm-sunday--27-paremhotep--20260405@coptic-calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260316T081132Z
