@@ -1945,4 +1945,13 @@ UID:---4th-sunday-of-kiahk---birth-of-john-20270103@coptic-calendar
 DESCRIPTION:Tune: Annual. Gospel: Luke 1:57.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T081132Z
+DTSTART;VALUE=DATE:20260317
+SUMMARY:☦️ Pope Shenouda III (8 Baramhat)
+DTEND;VALUE=DATE:20260318
+DESCRIPTION:8 Baramhat 1742 AM — 117th Pope of Alexandria (1971-2012), beloved shepherd of the Coptic Church
+TRANSP:TRANSPARENT
+UID:pope-shenouda-iii--8-baramhat--20260317@coptic-calendar
+END:VEVENT
 END:VCALENDAR
