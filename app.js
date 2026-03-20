@@ -223,15 +223,14 @@ function buildCalendarGrid(monthData) {
         if (sorted.length > 0) {
             const hasNonSaint = sorted.some(f => f.type !== 'c');
             const display = hasNonSaint ? sorted.filter(f => f.type !== 'c') : sorted;
-            const labelsHtml = display.map(f => {
+            feastLabel = display.slice(0, 1).map(f => {
                 const saintKey = f.icon || null;
                 const iconHTML = saintKey ? `<img src="${saintKey}.png" class="saint-tiny-icon" alt="">` : '';
                 return `<div class="feast-label">${iconHTML}${f.name}</div>`;
             }).join('');
-            feastLabel = `<div class="feast-label-container">${labelsHtml}</div>`;
         } else if (monthlyFeast) {
             const mIcon = monthlyFeast.icon ? `<img src="${monthlyFeast.icon}.png" class="saint-tiny-icon" alt="">` : '';
-            feastLabel = `<div class="feast-label-container"><div class="feast-label">${mIcon}${monthlyFeast.name}</div></div>`;
+            feastLabel = `<div class="feast-label">${mIcon}${monthlyFeast.name}</div>`;
         }
 
         gridHTML += `
