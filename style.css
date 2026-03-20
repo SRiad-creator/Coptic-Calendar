@@ -508,18 +508,11 @@ html {
     margin-top: 0.1rem;
 }
 
-.feast-label-container {
+.feast-label {
     position: absolute;
     bottom: 0.3rem;
     left: 0.3rem;
     right: 0.3rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.15rem;
-}
-
-.feast-label {
-    position: relative;
     font-size: 0.88rem;
     font-weight: 700;
     line-height: 1.15;
