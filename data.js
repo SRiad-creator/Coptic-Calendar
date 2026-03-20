@@ -258,7 +258,6 @@ const CALENDAR_DATA = [
             { day: 21, type: 'c', name: 'Pope Yoannis XIX', icon: 'pope_yoannis_xix' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
             { day: 27, type: 'c', name: 'Pope Cyril of Alexandria', icon: 'st_cyril_alexandria' },
-            { day: 27, type: 'c', name: 'Prophet Elisha', icon: 'prophet_elisha' },
             { day: 28, type: 'c', name: 'St. Timothy of Memphis', icon: 'st_timothy_memphis' },
         ],
         excludeMonthly: 0
