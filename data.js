@@ -1,4 +1,4 @@
-// ============================================================
+﻿// ============================================================
 // COPTIC ORTHODOX CALENDAR 2026 — DATA 
 // ============================================================
 
@@ -93,9 +93,9 @@ const CALENDAR_DATA = [
             { day: 17, type: 'c', name: 'St. James son of Alphaeus', icon: 'st_james_alphaeus' },
             { day: 21, type: 'c', name: 'St. Severus of Antioch', icon: 'st_severus' },
             { day: 23, type: 'c', name: 'St. Elizabeth', icon: 'st_elizabeth' },
-            { day: 23, type: 'c', name: 'Hegumen Michael El Behairy', icon: 'hegumen_michael' },
+
             { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
-            { day: 9, type: 'c', name: 'Micah the Prophet', icon: 'micah_prophet' },
+
             { day: 20, type: 'c', name: 'St. Longinus', icon: 'st_longinus' },
         ],
         excludeMonthly: 0
@@ -253,7 +253,7 @@ const CALENDAR_DATA = [
             { day: 13, type: 'c', name: 'Sts. Apakir & John', icon: 'sts_apakir_john' },
             { day: 7, type: 'c', name: 'Pope Mikhail I', icon: 'pope_mikhail_i' },
             { day: 10, type: 'c', name: 'Anba Abraam', icon: 'anba_abraam' },
-            { day: 13, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
+
             { day: 14, type: 'c', name: 'St. Abaskhiroun the Soldier', icon: 'st_abaskhiroun' },
             { day: 21, type: 'c', name: 'Pope Yoannis XIX', icon: 'pope_yoannis_xix' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
@@ -299,9 +299,9 @@ const CALENDAR_DATA = [
             { day: 12, type: 'm', name: 'Sts. Peter and Paul', icon: 'feast_peter_paul' },
             { day: 14, type: 'c', name: 'St. Shenouda', icon: 'st_shenouda' },
             { day: 15, type: 'c', name: 'St. Bishoy', icon: 'st_bishoy' },
-            { day: 15, type: 'c', name: 'St. Karas the Anchorite', icon: 'st_karas' },
+
             { day: 3, type: 'c', name: 'Joshua son of Nun', icon: 'joshua_nun' },
-            { day: 30, type: 'c', name: 'St. Longinus', icon: 'st_longinus' },
+
             { day: 22, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
             { day: 26, type: 'c', name: 'St. Bidaba', icon: 'st_bidaba' },
             { day: 27, type: 'c', name: 'St. Theodore the General', icon: 'st_theodore' },
@@ -523,7 +523,7 @@ const CALENDAR_DATA = [
             { day: 13, type: 'c', name: 'St. Andrew the Apostle', icon: 'st_andrew' },
             { day: 19, type: 'c', name: 'St. Nicholas of Myra', icon: 'st_nicholas' },
             { day: 17, type: 'c', name: 'Sts. Barbara & Juliana', icon: 'st_barbara' },
-            { day: 17, type: 'c', name: 'St. Samuel the Confessor', icon: 'st_samuel_confessor' },
+
             { day: 25, type: 'c', name: 'Gideon the Judge', icon: 'gideon_judge' },
         ],
         excludeMonthly: 0
