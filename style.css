@@ -24,7 +24,7 @@
     --text-secondary: #6B7280;
     --text-muted: #9CA3AF;
     --border-light: rgba(193, 160, 118, 0.15);
-    --sidebar-width: 280px;
+    --sidebar-width: 245px;
     --page-width: 297mm;
     --page-height: 210mm;
 }
@@ -144,7 +144,7 @@ html {
 .sidebar {
     width: var(--sidebar-width);
     min-width: var(--sidebar-width);
-    padding: 2.4rem 2rem;
+    padding: 1.5rem 1.0rem;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -318,7 +318,7 @@ html {
 /* --- Main Content (Calendar Grid) --- */
 .main-content {
     flex: 1;
-    padding: 1.0rem 1.6rem 0.5rem;
+    padding: 0.5rem 0.8rem 0.2rem;
     display: flex;
     flex-direction: column;
 }
@@ -337,7 +337,7 @@ html {
     display: flex;
     align-items: center;
     position: relative;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.1rem;
 }
 
 .month-header-text {
@@ -412,8 +412,8 @@ html {
 
 .day-header {
     text-align: center;
-    padding: 0.4rem 0;
-    font-size: 1.05rem;
+    padding: 0.3rem 0;
+    font-size: 1.10rem;
     font-weight: 700;
     color: var(--text-secondary);
     letter-spacing: 0.1em;
@@ -423,7 +423,7 @@ html {
 
 .day-cell {
     border: 1px solid var(--border-light);
-    padding: 0.4rem 0.5rem;
+    padding: 0.3rem 0.4rem;
     min-height: 2.8rem;
     position: relative;
     display: flex;
@@ -464,7 +464,7 @@ html {
 }
 
 .gospel-label {
-    font-size: 0.95rem;
+    font-size: 1.0rem;
     font-weight: 600;
     letter-spacing: 0.03em;
     margin-top: 0.15rem;
@@ -473,7 +473,7 @@ html {
 }
 
 .sunday-saint {
-    font-size: 0.85rem;
+    font-size: 0.90rem;
     font-weight: 500;
     color: var(--coptic-gold-dark);
     opacity: 0.85;
@@ -493,7 +493,7 @@ html {
 }
 
 .day-number {
-    font-size: 2.1rem;
+    font-size: 2.25rem;
     font-weight: 700;
     line-height: 1;
     color: var(--text-primary);
@@ -509,7 +509,7 @@ html {
 }
 
 .coptic-day {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
     font-weight: 500;
     color: var(--text-secondary);
     margin-top: 0.1rem;
@@ -517,13 +517,13 @@ html {
 
 .feast-label {
     position: absolute;
-    bottom: 0.4rem;
-    left: 0.4rem;
-    right: 0.4rem;
-    font-size: 0.94rem;
+    bottom: 0.2rem;
+    left: 0.2rem;
+    right: 0.2rem;
+    font-size: 1.0rem;
     font-weight: 700;
     line-height: 1.15;
-    padding: 0.15rem 0.35rem;
+    padding: 0.15rem 0.25rem;
     border-radius: 2px;
     display: flex;
     align-items: center;
