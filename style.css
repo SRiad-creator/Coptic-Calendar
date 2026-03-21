@@ -325,19 +325,19 @@ html {
 
 .month-title {
     font-family: 'Inter', sans-serif;
-    font-size: 4.8rem;
-    font-weight: 900;
+    font-size: 4.5rem;
+    font-weight: 800;
     color: var(--text-primary);
     line-height: 1;
     letter-spacing: -0.03em;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.1rem;
 }
 
 .month-header-row {
     display: flex;
     align-items: center;
     position: relative;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 
 .month-header-text {
@@ -361,8 +361,8 @@ html {
 }
 
 .month-subtitle {
-    font-size: 1.2rem;
-    font-weight: 800;
+    font-size: 1.15rem;
+    font-weight: 700;
     color: var(--coptic-gold-dark);
     letter-spacing: 0.15em;
     text-transform: uppercase;
@@ -370,12 +370,12 @@ html {
 }
 
 .month-church {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     font-weight: 500;
     color: var(--text-secondary);
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    margin-bottom: 1rem;
+    margin-bottom: 0.6rem;
 }
 
 /* --- Wisdom Footer (below calendar grid) --- */
@@ -389,13 +389,13 @@ html {
 .wisdom-quote {
     font-family: 'Playfair Display', serif;
     font-style: italic;
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     color: var(--text-primary);
 }
 
 .wisdom-author {
-    font-size: 1.2rem;
-    font-weight: 700;
+    font-size: 1.05rem;
+    font-weight: 600;
     color: var(--coptic-gold-dark);
     margin-left: 0.6rem;
 }
