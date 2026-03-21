@@ -389,7 +389,7 @@ const CALENDAR_DATA = [
             { day: 14, type: 'c', name: 'St. Verena', icon: 'st_verena' },
             { day: 17, type: 'c', name: 'St. Rebecca & Children', icon: 'st_rebecca' },
             { day: 20, type: 'c', name: 'St. Matruna', icon: 'st_matruna' },
-            { day: 22, type: 'c', name: 'Council of Ephesus', icon: 'council_ephesus' },
+            { day: 22, type: 'c', name: 'Council of Ephesus (431 AD)', icon: 'council_ephesus' },
             { day: 27, type: 'm', name: 'Feast of the Cross (Day 1)', icon: 'feast_cross' },
             { day: 28, type: 'm', name: 'Feast of the Cross (Day 2)', icon: 'feast_cross' },
             { day: 29, type: 'm', name: 'Feast of the Cross (Day 3)', icon: 'feast_cross' },
