@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 // COPTIC ORTHODOX CALENDAR 2026 — DATA 
 // ============================================================
 
@@ -95,8 +95,6 @@ const CALENDAR_DATA = [
             { day: 23, type: 'c', name: 'St. Elizabeth', icon: 'st_elizabeth' },
 
             { day: 24, type: 'c', name: 'St. Mina the Monk', icon: 'st_mina' },
-
-            { day: 20, type: 'c', name: 'St. Longinus', icon: 'st_longinus' },
         ],
         excludeMonthly: 0
     },
@@ -250,7 +248,7 @@ const CALENDAR_DATA = [
             { day: 1, type: 'P', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
             { day: 1, type: 'f', name: 'Apostles\' Fast Begins' },
             { day: 3, type: 'c', name: 'St. Thomas the Apostle', icon: 'st_thomas' },
-            { day: 13, type: 'c', name: 'Sts. Apakir & John', icon: 'sts_apakir_john' },
+            { day: 13, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
             { day: 7, type: 'c', name: 'Pope Mikhail I', icon: 'pope_mikhail_i' },
             { day: 10, type: 'c', name: 'Anba Abraam', icon: 'anba_abraam' },
 
@@ -298,9 +296,7 @@ const CALENDAR_DATA = [
             { day: 11, type: 'e', name: 'Apostles\' Fast Ends' },
             { day: 12, type: 'm', name: 'Sts. Peter and Paul', icon: 'feast_peter_paul' },
             { day: 14, type: 'c', name: 'St. Shenouda', icon: 'st_shenouda' },
-            { day: 15, type: 'c', name: 'St. Bishoy', icon: 'st_bishoy' },
-
-            { day: 3, type: 'c', name: 'Joshua son of Nun', icon: 'joshua_nun' },
+            { day: 15, type: 'c', name: 'St. Karas the Anchorite', icon: 'st_karas' },
 
             { day: 22, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
             { day: 26, type: 'c', name: 'St. Bidaba', icon: 'st_bidaba' },
@@ -374,10 +370,10 @@ const CALENDAR_DATA = [
             '12: St. John the Baptist',
             '13: Council of Alexandria',
             '14: St. Verena',
-            '14: Joshua son of Nun',
             '17: St. Rebecca and her 5 Children',
             '17: St. Dioscorus of Alexandria',
             '20: St. Matruna',
+            '22: Council of Ephesus (431 AD)',
             '27–29: Feast of the Cross (3 days)'
         ],
         quote: 'I am the wheat of God, ground for the bread of Christ.',
@@ -505,9 +501,9 @@ const CALENDAR_DATA = [
             '06: St. James the Mangled',
             '08: St. Peter Seal of Martyrs',
             '13: St. Andrew the Apostle',
-            '19: St. Nicholas of Myra',
             '17: Sts. Barbara \u0026 Juliana',
             '17: St. Samuel the Confessor',
+            '19: St. Nicholas of Myra',
             '25: Gideon the Judge'
         ],
         quote: 'The Sun of Righteousness has risen from the Virgin\'s womb.',
@@ -565,3 +561,4 @@ const MONTHLY_PRAYERS = {
 };
 
 '15: Antigravity Test'
+
