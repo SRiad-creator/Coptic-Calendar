@@ -37,8 +37,10 @@ function buildSidebar(monthData) {
 
     return `
         <div class="sidebar">
-            <div class="sidebar-cross">✝</div>
-            <div class="sidebar-section-label">Synaxarium</div>
+            <div class="sidebar-header">
+                <div class="sidebar-cross">✝</div>
+                <div class="sidebar-section-label">Synaxarium</div>
+            </div>
             <ul class="synaxarium-list">${synaxItems}</ul>
 
             <div class="sidebar-divider"></div>
