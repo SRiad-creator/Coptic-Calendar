@@ -102,7 +102,7 @@ function buildCalendarGrid(monthData) {
     });
 
     // Feast type priority (higher = takes precedence for cell color)
-    const typePriority = { 'M': 6, 'f': 5, 'm': 4, 'P': 3, 'e': 2, 'c': 1 };
+    const typePriority = { 'M': 6, 'P': 5, 'm': 4, 'f': 3, 'e': 2, 'c': 1 };
 
     // Calculate total cells needed (6 rows × 7 cols = 42)
     const totalCells = 42;
