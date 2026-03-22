@@ -175,8 +175,8 @@ html {
 }
 
 .sidebar-section-label {
-    font-size: 0.9rem;
-    font-weight: 800;
+    font-size: 0.95rem;
+    font-weight: 700;
     color: var(--coptic-gold-dark);
     letter-spacing: 0.15em;
     text-transform: uppercase;
@@ -185,8 +185,8 @@ html {
 }
 
 .synaxarium-list {
-    font-size: 1.05rem;
-    line-height: 1.5;
+    font-size: 1.15rem;
+    line-height: 1.45;
     color: #4B5563;
     font-weight: 500;
     margin-bottom: 0.8rem;
@@ -223,7 +223,7 @@ html {
 }
 
 .scripture-text {
-    font-size: 1rem;
+    font-size: 1.10rem;
     line-height: 1.4;
     color: #4B5563;
     font-weight: 500;
@@ -255,8 +255,8 @@ html {
 }
 
 .prayer-month-label {
-    font-size: 0.85rem;
-    font-weight: 800;
+    font-size: 0.90rem;
+    font-weight: 700;
     color: var(--coptic-gold-dark);
     letter-spacing: 0.12em;
     text-transform: uppercase;
@@ -279,8 +279,8 @@ html {
 }
 
 .legend-label {
-    font-size: 0.8rem;
-    font-weight: 800;
+    font-size: 0.85rem;
+    font-weight: 700;
     color: var(--text-secondary);
     letter-spacing: 0.12em;
     text-transform: uppercase;
@@ -307,8 +307,8 @@ html {
 }
 
 .legend-text {
-    font-size: 0.85rem;
-    font-weight: 600;
+    font-size: 0.90rem;
+    font-weight: 500;
     color: #4B5563;
     text-transform: uppercase;
     letter-spacing: 0.05em;
