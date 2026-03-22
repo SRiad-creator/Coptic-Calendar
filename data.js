@@ -116,8 +116,11 @@ const CALENDAR_DATA = [
             '14: St. Sarapamon the Archpriest',
             '17: St. Matthias the Apostle',
             '17: Pope Shenouda III',
+            '17: Fr. Faltaous',
             '19: Feast of the Holy Cross',
-            '26: St. Sidhom Bishay'
+            '21: Fr. Pishoy Kamel',
+            '26: St. Sidhom Bishay',
+            '26: Fr. Mikhail Ibrahim'
         ],
         quote: 'Let yourself be persecuted, but do not persecute.',
         quoteAuthor: 'St. Isaac the Syrian',
@@ -130,6 +133,7 @@ const CALENDAR_DATA = [
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 17, type: 'c', name: 'St. Matthias the Apostle', icon: 'st_matthias' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
+            { day: 21, type: 'c', name: 'Fr. Pishoy Kamel' },
             { day: 26, type: 'c', name: 'St. Sidhom Bishay', icon: 'st_sidhom_bishay' },
         ],
         excludeMonthly: 0
