@@ -133,7 +133,7 @@ const CALENDAR_DATA = [
             { day: 14, type: 'c', name: 'St. Sarapamon', icon: 'st_sarapamon' },
             { day: 17, type: 'c', name: 'St. Matthias the Apostle', icon: 'st_matthias' },
             { day: 19, type: 'm', name: 'Feast of the Holy Cross', icon: 'feast_cross' },
-            { day: 21, type: 'c', name: 'Fr. Pishoy Kamel' },
+            { day: 21, type: 'c', name: 'Fr. Pishoy Kamel', icon: 'fr_pishoy_kamel' },
             { day: 26, type: 'c', name: 'St. Sidhom Bishay', icon: 'st_sidhom_bishay' },
         ],
         excludeMonthly: 0
