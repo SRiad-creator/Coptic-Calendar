@@ -422,7 +422,8 @@ const CALENDAR_DATA = [
             '22: St. Matthew the Evangelist',
             '25: St. Panteleimon',
             '26: Pope Agathon',
-            '31: St. Reweis'
+            '31: St. Reweis',
+            '31: Tamav Eirene'
         ],
         quote: 'To fall in love with God is the greatest romance.',
         quoteAuthor: 'St. Augustine of Hippo',
@@ -507,6 +508,7 @@ const CALENDAR_DATA = [
             '13: St. Andrew the Apostle',
             '17: Sts. Barbara \u0026 Juliana',
             '17: St. Samuel the Confessor',
+            '17: Fr. Yostos El Antony',
             '19: St. Nicholas of Myra',
             '25: Gideon the Judge'
         ],
