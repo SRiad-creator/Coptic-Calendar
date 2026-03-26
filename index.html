@@ -43,11 +43,31 @@
 
     <script src="data.js"></script>
     <script>
-        // Cache-bust all ICS download links
+        // Force proper ICS filenames on download (fetch + blob approach)
         document.addEventListener("DOMContentLoaded", function() {
             var ts = Date.now();
-            document.querySelectorAll('a[href$=".ics"]').forEach(function(a) {
-                a.href = a.href.split('?')[0] + '?v=' + ts;
+            document.querySelectorAll('a[href$=".ics"], a[href*=".ics?"]').forEach(function(a) {
+                var baseHref = a.href.split('?')[0];
+                var filename = a.getAttribute('download') || baseHref.split('/').pop();
+                a.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    fetch(baseHref + '?v=' + ts)
+                        .then(function(r) { return r.blob(); })
+                        .then(function(blob) {
+                            var url = URL.createObjectURL(blob);
+                            var link = document.createElement('a');
+                            link.href = url;
+                            link.download = filename;
+                            document.body.appendChild(link);
+                            link.click();
+                            document.body.removeChild(link);
+                            URL.revokeObjectURL(url);
+                        })
+                        .catch(function() {
+                            // Fallback: direct navigation
+                            window.location.href = baseHref;
+                        });
+                });
             });
         });
     </script>
