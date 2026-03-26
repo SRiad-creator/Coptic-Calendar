@@ -1,4 +1,4 @@
-const CACHE_NAME = 'coptic-calendar-v42';
+const CACHE_NAME = 'coptic-calendar-v43';
 const urlsToCache = [
     '/Coptic-Calendar/',
     '/Coptic-Calendar/index.html',
@@ -18,7 +18,7 @@ self.addEventListener('install', event => {
 
 self.addEventListener('fetch', event => {
     // Don't cache/intercept ICS files — let the browser handle them natively
-    if (event.request.url.endsWith('.ics')) return;
+    if (event.request.url.includes('.ics')) return;
     
     // Network-first for HTML to ensure latest version
     if (event.request.url.endsWith('.html') || event.request.url.endsWith('/')) {
