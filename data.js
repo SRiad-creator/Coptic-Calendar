@@ -237,7 +237,7 @@ const CALENDAR_DATA = [
             '07: Pope Mikhail I',
             '10: Anba Abraam, Bishop of Fayoum',
             '13: St. Didymus the Blind',
-            '13: Sts. Apakir & John',
+            '14: Sts. Apakir & John',
             '14: St. Abaskhiroun the Soldier',
             '21: Pope Yoannis XIX',
             '23: St. Onuphrius (Anba Noufer)',
@@ -259,6 +259,7 @@ const CALENDAR_DATA = [
             { day: 14, type: 'c', name: 'St. Abaskhiroun the Soldier', icon: 'st_abaskhiroun' },
             { day: 21, type: 'c', name: 'Pope Yoannis XIX', icon: 'pope_yoannis_xix' },
             { day: 23, type: 'c', name: 'St. Onuphrius', icon: 'st_onuphrius' },
+            { day: 27, type: 'c', name: 'Prophet Elisha', icon: 'prophet_elisha' },
             { day: 27, type: 'c', name: 'Pope Cyril of Alexandria', icon: 'st_cyril_alexandria' },
             { day: 28, type: 'c', name: 'St. Timothy of Memphis', icon: 'st_timothy_memphis' },
         ],
@@ -300,6 +301,7 @@ const CALENDAR_DATA = [
             { day: 11, type: 'e', name: 'Apostles\' Fast Ends' },
             { day: 12, type: 'm', name: 'Sts. Peter and Paul', icon: 'feast_peter_paul' },
             { day: 14, type: 'c', name: 'St. Shenouda', icon: 'st_shenouda' },
+            { day: 15, type: 'c', name: 'St. Bishoy', icon: 'st_bishoy' },
             { day: 15, type: 'c', name: 'St. Karas the Anchorite', icon: 'st_karas' },
 
             { day: 22, type: 'c', name: 'St. Ephrem the Syrian', icon: 'st_ephrem_syrian' },
@@ -565,6 +567,4 @@ const MONTHLY_PRAYERS = {
     'November': 'Prepare our hearts, O Lord, to receive You at Your glorious Nativity.',
     'December': 'O Emmanuel, God with us, come and dwell among us. Maranatha!'
 };
-
-'15: Antigravity Test'
 
