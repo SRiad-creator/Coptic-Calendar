@@ -176,7 +176,7 @@ const CALENDAR_DATA = [
             { day: 6, type: 'c', name: 'Emperor Constantine', icon: 'emperor_constantine' },
             { day: 7, type: 'M', name: 'Annunciation', icon: 'feast_annunciation' },
             { day: 9, type: 'm', name: 'Covenant Thursday', icon: 'feast_covenant' },
-            { day: 10, type: 'f', name: 'Good Friday' },
+            { day: 10, type: 'f', name: 'Good Friday', icon: 'feast_good_friday' },
             { day: 12, type: 'M', name: 'The Glorious Resurrection', icon: 'feast_resurrection' },
             { day: 14, type: 'c', name: 'St. Mary of Egypt', icon: 'st_mary_egypt' },
             { day: 19, type: 'm', name: 'Thomas Sunday', icon: 'feast_thomas' },
