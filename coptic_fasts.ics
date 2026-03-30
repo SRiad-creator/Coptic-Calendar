@@ -99,4 +99,14 @@ DESCRIPTION:16 Hator 1742 AM - 43-day vegan fast preparing for the Nativity
 TRANSP:TRANSPARENT
 UID:nativity-fast-begins-16-hator-2026-11-25@coptic-calendar
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260318T051552Z
+DTSTART;VALUE=DATE:20260410
+SUMMARY:✝ Good Friday (2 Parmoute)
+DTEND;VALUE=DATE:20260411
+DESCRIPTION:2 Parmoute 1742 AM - Crucifixion of our Lord Jesus Christ for t
+ he salvation of the world
+TRANSP:TRANSPARENT
+UID:good-friday-2-parmoute-2026-04-10@coptic-calendar
+END:VEVENT
 END:VCALENDAR
