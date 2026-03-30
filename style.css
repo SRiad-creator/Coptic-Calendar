@@ -636,7 +636,7 @@ html {
 }
 
 .day-cell.feast-P .feast-label {
-    color: var(--coptic-amber);
+    color: #4a90c4;
     background: rgba(109, 40, 217, 0.12);
 }
 
