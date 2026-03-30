@@ -178,7 +178,10 @@ function buildCalendarGrid(monthData) {
                     'Visitation', 'Birth of John'
                 ];
                 const title = kiahkTitles[weekNum] || '';
-                gospelLabel = `<div class="gospel-label">${title ? title + ' · ' : ''}${copticWeekLabel}</div>`;
+                const kiahkWeekNum = weekNum;
+                const kiahkOrdSuffix = ['','st','nd','rd'][kiahkWeekNum] || 'th';
+                const kiahkLabel = `${kiahkWeekNum}${kiahkOrdSuffix} Sunday of Kiahk`;
+                gospelLabel = `<div class="gospel-label">${kiahkLabel}${title ? ' — ' + title : ''}</div>`;
             }
             // All other Sundays — just Coptic week label
             else {
