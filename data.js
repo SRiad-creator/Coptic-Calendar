@@ -249,7 +249,7 @@ const CALENDAR_DATA = [
         scripture: '"I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit." — John 15:5',
         fastingTip: 'Apostles\' Fast begins June 1 — vegan fast (no animal products). Honor the apostles\' missionary zeal.',
         feasts: [
-            { day: 1, type: 'P', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
+            { day: 1, type: 'm', name: 'Holy Family to Egypt', icon: 'feast_holy_family' },
             { day: 1, type: 'f', name: 'Apostles\' Fast Begins' },
             { day: 3, type: 'c', name: 'St. Thomas the Apostle', icon: 'st_thomas' },
             { day: 13, type: 'c', name: 'St. Didymus the Blind', icon: 'st_didymus' },
